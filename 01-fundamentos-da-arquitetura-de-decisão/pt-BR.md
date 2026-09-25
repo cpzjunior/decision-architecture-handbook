@@ -16,7 +16,7 @@ Os seis fundamentos a seguir estabelecem essa base.
 
 Toda decisão ocorre dentro de um ou mais domínios de conhecimento, atividade ou problema. O domínio estabelece o campo no qual a decisão é compreendida e fornece conceitos, conhecimentos, critérios e práticas utilizados para interpretar situações e avaliar alternativas.
 
-Uma decisão pode envolver mais de um domínio. Uma decisão sobre uma plataforma de pagamentos, por exemplo, pode exigir conhecimentos de arquitetura, segurança, finanças, produto, operações e regulamentação. Cada domínio contribui com referências próprias para compreender aspectos diferentes da decisão.
+Uma decisão pode envolver mais de um domínio. Uma decisão sobre uma plataforma de pagamentos, por exemplo, pode exigir conhecimentos de arquitetura, segurança, finanças, produto, operações e regulamentação. Cada domínio contribui com referências próprias para compreender diferentes aspectos da decisão.
 
 O domínio não determina uma única resposta. Diferentes decisões podem ocorrer dentro dos mesmos domínios, com objetivos, alternativas e critérios distintos. O conhecimento especializado fornece referências para a análise, mas não elimina a necessidade de escolher entre possibilidades.
 
@@ -30,15 +30,13 @@ Toda decisão parte de uma situação existente. O contexto inicial reúne as co
 
 Domínio e contexto não são a mesma coisa. O domínio define o campo em que a decisão faz sentido e fornece as referências utilizadas para compreendê-la. O contexto define as condições particulares nas quais ela ocorre.
 
-Essas condições podem incluir recursos disponíveis, restrições, informações, evidências, premissas, compromissos, dependências e outros fatores que influenciam as alternativas consideradas.
+Essas condições podem incluir recursos disponíveis, restrições, informações, evidências, premissas, compromissos, dependências e outros fatores que influenciam as possibilidades consideradas.
 
 O mesmo domínio pode apresentar contextos completamente diferentes. Uma decisão de arquitetura de software pode ocorrer em um sistema novo ou legado, com diferentes requisitos, orçamentos, tecnologias, competências disponíveis e restrições regulatórias.
 
-O contexto também pode envolver diferentes domínios. Uma mudança em uma plataforma de pagamentos pode exigir decisões relacionadas simultaneamente à arquitetura, segurança, produto, operações e regulamentação.
-
 O contexto não é estático. Ele pode mudar à medida que novas informações surgem, recursos são consumidos, restrições são alteradas ou decisões anteriores produzem efeitos.
 
-Compreender o contexto inicial significa identificar as condições relevantes que influenciam as possibilidades consideradas naquele momento.
+Compreender o contexto inicial significa identificar as condições relevantes que influenciam a decisão naquele momento.
 
 ## 1.3 Toda decisão é orientada por um ou mais objetivos
 
@@ -54,7 +52,7 @@ Nem sempre os objetivos permanecem estáveis durante a análise. Novas informaç
 
 Isso cria uma relação importante entre objetivo e problema. Uma situação se torna um problema em relação a algum resultado pretendido. Se o objetivo muda, a interpretação da situação também pode mudar.
 
-Por isso, identificar os objetivos faz parte da estrutura da decisão, mas sua definição pode ser refinada durante o próprio processo de análise.
+Por isso, identificar os objetivos faz parte da estrutura da decisão, mas sua definição pode ser refinada durante a análise.
 
 ## 1.4 Toda decisão envolve algum grau de incerteza
 
@@ -82,9 +80,9 @@ O tempo torna essa dinâmica ainda mais evidente. Adiar uma escolha pode permiti
 
 É nesse sentido que não decidir também pode constituir uma decisão. Uma decisão deliberada de não agir é diferente da simples ausência de decisão, mas ambas podem produzir efeitos sobre as possibilidades futuras.
 
-Consequências, dependências, compromissos, trade-offs, reversibilidade, irreversibilidade, custo de oportunidade, opcionalidade e path dependency são diferentes maneiras de analisar como uma decisão transforma o espaço de possibilidades.
+Consequências, dependências, compromissos, trade-offs, reversibilidade, irreversibilidade, custo de oportunidade, opcionalidade e path dependency são diferentes formas de analisar como uma decisão transforma as condições para escolhas futuras.
 
-Uma decisão deve, portanto, ser analisada não apenas pelo resultado produzido, mas também pelas condições que deixa para as decisões seguintes.
+Uma decisão deve, portanto, ser analisada não apenas pelo resultado produzido, mas também pelo que passa a ser possível, impossível ou mais difícil depois dela.
 
 ## 1.6 Toda decisão participa de um processo de evolução
 
@@ -98,12 +96,10 @@ Quando esse processo se repete, escolhas anteriores passam a influenciar as segu
 
 É nesse sentido que uma arquitetura pode ser compreendida como uma estrutura que também resulta das decisões acumuladas ao longo da evolução de um sistema.
 
-Os seis fundamentos formam uma estrutura conceitual. A decisão ocorre dentro de um ou mais domínios, parte de um contexto inicial, é orientada por um ou mais objetivos, envolve algum grau de incerteza, modifica o espaço de possibilidades e passa a fazer parte da evolução do sistema.
+Os seis fundamentos descrevem dimensões relacionadas de uma decisão: ela ocorre dentro de um ou mais domínios, parte de um contexto inicial, é orientada por objetivos, envolve incerteza, modifica o espaço de possibilidades e produz efeitos que passam a integrar a evolução do sistema.
 
-Esses fundamentos não constituem um processo obrigatório nem precisam ser analisados isoladamente. Eles representam dimensões relacionadas de uma mesma decisão. O domínio fornece as referências para compreendê-la, o contexto define as condições existentes, os objetivos orientam o que se pretende alcançar, a incerteza limita o que pode ser conhecido, a escolha modifica as possibilidades e seus efeitos passam a compor o contexto das decisões seguintes.
+Eles não constituem um processo obrigatório. Uma decisão pode ser analisada a partir dessas dimensões sem pressupor que exista uma sequência única ou um método universal para tratá-la.
 
 Essa estrutura pode ser observada em diferentes domínios sem pressupor que sejam equivalentes. Na arquitetura de soluções, na gestão de projetos, no empreendedorismo e em decisões profissionais ou pessoais, os fundamentos assumem formas próprias conforme os problemas, conhecimentos e condições envolvidos.
-
-É nesse sentido que a Arquitetura de Decisão é transversal: não porque exista um método comum que possa ser aplicado indistintamente a todos os domínios, mas porque os mesmos fundamentos permitem observar a dinâmica das decisões em diferentes campos.
 
 A partir dessa base, podemos examinar os elementos que compõem uma decisão e compreender como eles se relacionam, variam conforme o domínio e assumem formas diferentes em cada situação.
