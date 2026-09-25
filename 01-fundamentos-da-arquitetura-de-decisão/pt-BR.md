@@ -34,17 +34,15 @@ Essas condições podem incluir recursos disponíveis, restrições, informaçõ
 
 O mesmo domínio pode apresentar contextos completamente diferentes. Uma decisão de arquitetura de software pode ocorrer em um sistema novo ou legado, com diferentes requisitos, orçamentos, tecnologias, competências disponíveis e restrições regulatórias.
 
-Da mesma forma, o mesmo contexto pode envolver diferentes domínios. Uma mudança em uma plataforma de pagamentos pode exigir decisões relacionadas simultaneamente à arquitetura, segurança, produto, operações e regulamentação.
+O contexto também pode envolver diferentes domínios. Uma mudança em uma plataforma de pagamentos pode exigir decisões relacionadas simultaneamente à arquitetura, segurança, produto, operações e regulamentação.
 
-O contexto não é estático. Ele representa uma situação em determinado momento e pode mudar à medida que novas informações surgem, recursos são consumidos, restrições são alteradas ou decisões anteriores produzem efeitos.
+O contexto não é estático. Ele pode mudar à medida que novas informações surgem, recursos são consumidos, restrições são alteradas ou decisões anteriores produzem efeitos.
 
-Compreender o contexto inicial significa identificar as condições relevantes que tornam determinadas alternativas possíveis, desejáveis ou inviáveis naquele momento.
-
-A referência temporal é importante porque a decisão parte de uma situação existente e contribui para produzir uma situação diferente.
+Compreender o contexto inicial significa identificar as condições relevantes que influenciam as possibilidades consideradas naquele momento.
 
 ## 1.3 Toda decisão é orientada por um ou mais objetivos
 
-Toda decisão está relacionada a um ou mais resultados que se pretende alcançar, preservar ou evitar. Esses objetivos orientam, de forma explícita ou implícita, a avaliação das alternativas e fornecem uma referência para determinar o que se espera obter com a decisão.
+Toda decisão está relacionada a um ou mais resultados que se pretende alcançar, preservar ou evitar. Esses objetivos orientam, de forma explícita ou implícita, a avaliação das alternativas e fornecem uma referência para determinar o que se espera obter.
 
 Um objetivo pode estar claramente formulado ou permanecer implícito. Uma pessoa pode decidir reduzir custos, por exemplo, sem ter definido previamente quanto pretende reduzir ou em quanto tempo. Da mesma forma, uma organização pode escolher uma alternativa para preservar uma condição existente sem ter formalizado esse objetivo.
 
@@ -60,9 +58,9 @@ Por isso, identificar os objetivos faz parte da estrutura da decisão, mas sua d
 
 ## 1.4 Toda decisão envolve algum grau de incerteza
 
-Uma decisão envolve escolher entre possibilidades sem conhecer completamente suas consequências ou as condições futuras. O grau de incerteza varia conforme a quantidade e a qualidade das informações disponíveis, a experiência acumulada e a previsibilidade do contexto.
+Uma decisão envolve escolher entre possibilidades sem conhecer completamente suas consequências ou as condições futuras. O grau de incerteza varia conforme a quantidade e a qualidade das informações disponíveis, a experiência acumulada e a previsibilidade da situação.
 
-Algumas decisões contam com grande quantidade de dados e evidências. Outras precisam ser tomadas com informações escassas e muitas incógnitas. Também existem situações em que as consequências de uma alternativa são praticamente conhecidas. Nesses casos, a incerteza pode ser pequena, mas a decisão ainda envolve a escolha sobre como agir.
+Algumas decisões contam com grande quantidade de dados e evidências. Outras precisam ser tomadas com informações escassas e muitas incógnitas. Também existem situações em que as consequências de uma alternativa são praticamente conhecidas. Nesses casos, a incerteza pode ser pequena, mas ainda existe uma escolha sobre como agir.
 
 A incerteza não precisa ser eliminada antes de agir. Podemos buscar informações, consultar especialistas, testar hipóteses, executar experimentos ou aguardar novos dados. Cada alternativa, porém, possui seu próprio custo. Investigar mais pode reduzir o desconhecimento, mas também consumir tempo, recursos ou oportunidades.
 
@@ -76,7 +74,7 @@ Uma decisão produz mais do que um resultado imediato. Ela pode comprometer recu
 
 Alterar o espaço de possibilidades não significa necessariamente reduzir opções. Uma escolha pode eliminar determinados caminhos e, ao mesmo tempo, criar outros. Pode tornar uma alternativa mais acessível, outra mais cara e uma terceira inviável.
 
-Toda escolha também envolve trade-offs. Ao favorecer determinado resultado, uma decisão pode exigir concessões em outros objetivos, critérios ou possibilidades. Melhorar desempenho pode aumentar custo; reduzir prazo pode aumentar risco; aumentar flexibilidade pode elevar complexidade. O trade-off não significa necessariamente que uma alternativa seja ruim, mas que diferentes objetivos e propriedades podem entrar em tensão.
+Toda escolha também envolve trade-offs. Ao favorecer determinado resultado, uma decisão pode exigir concessões em outros objetivos, critérios ou possibilidades. Melhorar desempenho pode aumentar custo; reduzir prazo pode aumentar risco; aumentar flexibilidade pode elevar complexidade.
 
 Essa dinâmica pode ser observada pela ideia de opcionalidade. Algumas escolhas preservam maior capacidade de mudança futura; outras aumentam compromissos e reduzem a margem de manobra.
 
