@@ -1,3 +1,6 @@
+| 🇺🇸 [en](README.md) | 🇧🇷 [pt-BR](README.pt-BR.md) |
+|---|---|
+
 # Decision Architecture Guide
 
 The Decision Architecture Guide proposes a practical way to structure, understand, document, and evolve decisions across different contexts.
