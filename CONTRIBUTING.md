@@ -1,3 +1,6 @@
+| 🇺🇸 [en](CONTRIBUTING.md) | 🇧🇷 [pt-BR](CONTRIBUTING.pt-BR.md) |
+|---|---|
+
 # Contributing
 
 Contributions to the Decision Architecture Guide are welcome.
