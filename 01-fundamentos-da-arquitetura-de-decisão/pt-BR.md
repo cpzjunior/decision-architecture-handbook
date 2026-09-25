@@ -12,7 +12,7 @@ Para quem já trabalha com arquitetura, gestão, estratégia, empreendedorismo o
 
 Os seis fundamentos a seguir estabelecem essa base.
 
-## 1.1 Toda decisão ocorre dentro de um ou mais domínios
+## 1.1. Toda decisão ocorre dentro de um ou mais domínios
 
 Toda decisão ocorre dentro de um ou mais domínios de conhecimento, atividade ou problema. O domínio estabelece o campo no qual a decisão é compreendida e fornece conceitos, conhecimentos, critérios e práticas utilizados para interpretar situações e avaliar alternativas.
 
@@ -24,7 +24,7 @@ Uma decisão de arquitetura de software mobiliza conceitos como componentes, int
 
 Cada domínio possui conhecimentos e práticas próprios porque os problemas, critérios e formas de avaliação não são iguais em todas as áreas.
 
-## 1.2 Toda decisão parte de um contexto inicial
+## 1.2. Toda decisão parte de um contexto inicial
 
 Toda decisão parte de uma situação existente. O contexto inicial reúne as condições relevantes para compreender a decisão no momento em que ela é considerada.
 
@@ -38,7 +38,7 @@ O contexto não é estático. Ele pode mudar à medida que novas informações s
 
 Compreender o contexto inicial significa identificar as condições relevantes que influenciam a decisão naquele momento.
 
-## 1.3 Toda decisão é orientada por um ou mais objetivos
+## 1.3. Toda decisão é orientada por um ou mais objetivos
 
 Toda decisão está relacionada a um ou mais resultados que se pretende alcançar, preservar ou evitar. Esses objetivos orientam, de forma explícita ou implícita, a avaliação das alternativas e fornecem uma referência para determinar o que se espera obter.
 
@@ -54,7 +54,7 @@ Isso cria uma relação importante entre objetivo e problema. Uma situação se 
 
 Por isso, identificar os objetivos faz parte da estrutura da decisão, mas sua definição pode ser refinada durante a análise.
 
-## 1.4 Toda decisão envolve algum grau de incerteza
+## 1.4. Toda decisão envolve algum grau de incerteza
 
 Uma decisão envolve escolher entre possibilidades sem conhecer completamente suas consequências ou as condições futuras. O grau de incerteza varia conforme a quantidade e a qualidade das informações disponíveis, a experiência acumulada e a previsibilidade da situação.
 
@@ -66,7 +66,7 @@ Decidir envolve avaliar não apenas quais alternativas estão disponíveis, mas 
 
 Hipóteses, evidências, experimentos, aprendizado e gestão de risco são diferentes formas de lidar com aquilo que ainda não sabemos.
 
-## 1.5 Toda decisão altera o espaço de possibilidades
+## 1.5. Toda decisão altera o espaço de possibilidades
 
 Uma decisão produz mais do que um resultado imediato. Ela pode comprometer recursos, criar dependências, estabelecer restrições, eliminar caminhos ou tornar determinadas mudanças mais custosas. Também pode preservar opções, gerar novas alternativas ou produzir informação útil para decisões posteriores.
 
@@ -84,7 +84,7 @@ Consequências, dependências, compromissos, trade-offs, reversibilidade, irreve
 
 Uma decisão deve, portanto, ser analisada não apenas pelo resultado produzido, mas também pelo que passa a ser possível, impossível ou mais difícil depois dela.
 
-## 1.6 Toda decisão participa de um processo de evolução
+## 1.6. Toda decisão participa de um processo de evolução
 
 Uma decisão modifica a situação seguinte. A execução produz informação, as consequências revelam efeitos esperados e inesperados e novas condições podem exigir ajustes de direção.
 
