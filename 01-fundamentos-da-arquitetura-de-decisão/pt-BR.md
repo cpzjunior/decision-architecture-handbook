@@ -12,53 +12,57 @@ Para quem já trabalha com arquitetura, gestão, estratégia, empreendedorismo o
 
 Os seis fundamentos a seguir estabelecem essa base.
 
-## 1.1 Toda decisão ocorre dentro de um domínio
+## 1.1 Toda decisão ocorre dentro de um ou mais domínios
 
-Toda decisão ocorre dentro de um domínio de conhecimento, atividade ou problema. O domínio estabelece o campo no qual ela é compreendida e fornece conceitos, conhecimentos, critérios e práticas utilizados para interpretar situações e avaliar alternativas.
+Toda decisão ocorre dentro de um ou mais domínios de conhecimento, atividade ou problema. O domínio estabelece o campo no qual a decisão é compreendida e fornece conceitos, conhecimentos, critérios e práticas utilizados para interpretar situações e avaliar alternativas.
 
-Ele não determina uma única resposta. Diferentes decisões podem ocorrer dentro do mesmo domínio, com objetivos, alternativas e critérios distintos. O conhecimento especializado fornece referências para a análise, mas não elimina a necessidade de escolher entre possibilidades.
+Uma decisão pode envolver mais de um domínio. Uma decisão sobre uma plataforma de pagamentos, por exemplo, pode exigir conhecimentos de arquitetura, segurança, finanças, produto, operações e regulamentação. Cada domínio contribui com referências próprias para compreender aspectos diferentes da decisão.
 
-Uma decisão de arquitetura de software, por exemplo, pertence ao domínio da arquitetura de soluções. Nesse campo, conceitos como componentes, interfaces, tecnologias, atributos de qualidade e dependências fazem parte da linguagem utilizada para compreender situações e avaliar alternativas.
+O domínio não determina uma única resposta. Diferentes decisões podem ocorrer dentro dos mesmos domínios, com objetivos, alternativas e critérios distintos. O conhecimento especializado fornece referências para a análise, mas não elimina a necessidade de escolher entre possibilidades.
 
-Uma decisão de gestão de projetos mobiliza conceitos como escopo, prazo, orçamento, recursos, riscos e dependências. Uma decisão empreendedora pode envolver clientes, mercado, proposta de valor, modelo de negócio e alocação de recursos.
+Uma decisão de arquitetura de software mobiliza conceitos como componentes, interfaces, tecnologias, atributos de qualidade e dependências. Uma decisão de gestão de projetos pode envolver escopo, prazo, orçamento, recursos, riscos e dependências. Uma decisão empreendedora pode envolver clientes, mercado, proposta de valor, modelo de negócio e alocação de recursos.
 
 Cada domínio possui conhecimentos e práticas próprios porque os problemas, critérios e formas de avaliação não são iguais em todas as áreas.
 
-Ainda assim, decisões de diferentes domínios podem compartilhar propriedades que permitem analisá-las por uma perspectiva comum. Essa possibilidade de identificar padrões entre áreas distintas é uma das bases da Arquitetura de Decisão.
-
 ## 1.2 Toda decisão parte de um contexto inicial
 
-Uma decisão parte de uma situação existente. O contexto inicial reúne as condições relevantes para compreendê-la no momento em que a escolha é realizada.
+Toda decisão parte de uma situação existente. O contexto inicial reúne as condições relevantes para compreender a decisão no momento em que ela é considerada.
 
-Essas condições podem incluir objetivos existentes, recursos disponíveis, restrições, informações, evidências, premissas, compromissos, dependências e outros fatores que influenciam as alternativas consideradas.
+Domínio e contexto não são a mesma coisa. O domínio define o campo em que a decisão faz sentido e fornece as referências utilizadas para compreendê-la. O contexto define as condições particulares nas quais ela ocorre.
+
+Essas condições podem incluir recursos disponíveis, restrições, informações, evidências, premissas, compromissos, dependências e outros fatores que influenciam as alternativas consideradas.
+
+O mesmo domínio pode apresentar contextos completamente diferentes. Uma decisão de arquitetura de software pode ocorrer em um sistema novo ou legado, com diferentes requisitos, orçamentos, tecnologias, competências disponíveis e restrições regulatórias.
+
+Da mesma forma, o mesmo contexto pode envolver diferentes domínios. Uma mudança em uma plataforma de pagamentos pode exigir decisões relacionadas simultaneamente à arquitetura, segurança, produto, operações e regulamentação.
 
 O contexto não é estático. Ele representa uma situação em determinado momento e pode mudar à medida que novas informações surgem, recursos são consumidos, restrições são alteradas ou decisões anteriores produzem efeitos.
 
-O mesmo domínio pode apresentar contextos completamente diferentes. Uma decisão de arquitetura de software, por exemplo, pode ocorrer em um sistema novo ou legado, com diferentes requisitos, orçamentos, tecnologias, competências disponíveis e restrições regulatórias.
+Compreender o contexto inicial significa identificar as condições relevantes que tornam determinadas alternativas possíveis, desejáveis ou inviáveis naquele momento.
 
-Compreender o contexto inicial significa identificar as condições que tornam determinadas alternativas possíveis, desejáveis ou inviáveis naquele momento.
+A referência temporal é importante porque a decisão parte de uma situação existente e contribui para produzir uma situação diferente.
 
-A referência temporal é importante porque a escolha parte de uma situação existente e contribui para produzir uma situação diferente.
+## 1.3 Toda decisão é orientada por um ou mais objetivos
 
-## 1.3 Toda decisão é orientada por um objetivo ou meta
+Toda decisão está relacionada a um ou mais resultados que se pretende alcançar, preservar ou evitar. Esses objetivos orientam, de forma explícita ou implícita, a avaliação das alternativas e fornecem uma referência para determinar o que se espera obter com a decisão.
 
-Uma decisão está relacionada a um resultado que se pretende alcançar, preservar ou evitar. Esse resultado orienta a avaliação das alternativas e fornece uma referência para determinar se a escolha atende ao que se pretende obter.
+Um objetivo pode estar claramente formulado ou permanecer implícito. Uma pessoa pode decidir reduzir custos, por exemplo, sem ter definido previamente quanto pretende reduzir ou em quanto tempo. Da mesma forma, uma organização pode escolher uma alternativa para preservar uma condição existente sem ter formalizado esse objetivo.
 
-Objetivos descrevem resultados pretendidos. Metas tornam esses resultados mais específicos ao estabelecer condições de realização, como valores, limites ou prazos.
+Quando os objetivos não são identificados ou compreendidos por quem decide, temos uma decisão cega. A decisão ainda possui uma direção ou finalidade, mas ela não está suficientemente clara para orientar a análise de forma consciente e verificável.
 
-Por exemplo, reduzir o tempo de entrega é um objetivo. Reduzir o tempo médio de entrega de dez para cinco dias até o final do trimestre é uma meta associada a esse objetivo.
+A explicitação dos objetivos pode revelar conflitos entre resultados pretendidos. Reduzir custos pode entrar em conflito com aumentar qualidade; acelerar uma entrega pode aumentar riscos; preservar uma arquitetura existente pode limitar mudanças futuras.
 
-Nem sempre o objetivo está completamente definido no início. A análise pode revelar que a formulação inicial era inadequada, incompleta ou incompatível com as condições existentes. Nesse caso, ele pode ser revisado antes da escolha.
+Nem sempre os objetivos permanecem estáveis durante a análise. Novas informações podem revelar que o objetivo inicial era inadequado, incompleto ou incompatível com as condições existentes. Nesse caso, ele pode ser revisado.
 
-Isso cria uma relação importante entre objetivo e problema. Uma situação se torna um problema em relação a algum resultado pretendido. Se esse resultado muda, a interpretação da situação também pode mudar.
+Isso cria uma relação importante entre objetivo e problema. Uma situação se torna um problema em relação a algum resultado pretendido. Se o objetivo muda, a interpretação da situação também pode mudar.
 
-Por isso, definir o que queremos alcançar faz parte da estrutura da decisão, mas essa definição pode ser refinada durante a análise.
+Por isso, identificar os objetivos faz parte da estrutura da decisão, mas sua definição pode ser refinada durante o próprio processo de análise.
 
-## 1.4 Toda decisão ocorre sob incerteza
+## 1.4 Toda decisão envolve algum grau de incerteza
 
-Uma decisão envolve escolher entre possibilidades sem conhecer completamente suas consequências. Quanto maior o desconhecimento sobre os efeitos das alternativas ou sobre as condições futuras, maior a incerteza envolvida.
+Uma decisão envolve escolher entre possibilidades sem conhecer completamente suas consequências ou as condições futuras. O grau de incerteza varia conforme a quantidade e a qualidade das informações disponíveis, a experiência acumulada e a previsibilidade do contexto.
 
-Isso não significa que todas as decisões tenham o mesmo grau de incerteza. Algumas contam com grande quantidade de dados, experiência e evidências. Outras precisam ser tomadas com informações escassas e muitas incógnitas. Também existem situações em que as consequências de uma alternativa são praticamente conhecidas. Nesses casos, a decisão pode se aproximar de uma execução determinada.
+Algumas decisões contam com grande quantidade de dados e evidências. Outras precisam ser tomadas com informações escassas e muitas incógnitas. Também existem situações em que as consequências de uma alternativa são praticamente conhecidas. Nesses casos, a incerteza pode ser pequena, mas a decisão ainda envolve a escolha sobre como agir.
 
 A incerteza não precisa ser eliminada antes de agir. Podemos buscar informações, consultar especialistas, testar hipóteses, executar experimentos ou aguardar novos dados. Cada alternativa, porém, possui seu próprio custo. Investigar mais pode reduzir o desconhecimento, mas também consumir tempo, recursos ou oportunidades.
 
@@ -72,15 +76,17 @@ Uma decisão produz mais do que um resultado imediato. Ela pode comprometer recu
 
 Alterar o espaço de possibilidades não significa necessariamente reduzir opções. Uma escolha pode eliminar determinados caminhos e, ao mesmo tempo, criar outros. Pode tornar uma alternativa mais acessível, outra mais cara e uma terceira inviável.
 
+Toda escolha também envolve trade-offs. Ao favorecer determinado resultado, uma decisão pode exigir concessões em outros objetivos, critérios ou possibilidades. Melhorar desempenho pode aumentar custo; reduzir prazo pode aumentar risco; aumentar flexibilidade pode elevar complexidade. O trade-off não significa necessariamente que uma alternativa seja ruim, mas que diferentes objetivos e propriedades podem entrar em tensão.
+
 Essa dinâmica pode ser observada pela ideia de opcionalidade. Algumas escolhas preservam maior capacidade de mudança futura; outras aumentam compromissos e reduzem a margem de manobra.
 
-O tempo torna essa dinâmica ainda mais evidente. Adiar uma escolha pode permitir que novas informações surjam, mas também pode fazer uma oportunidade desaparecer, consumir recursos ou permitir que outras pessoas decidam primeiro. Permanecer no estado atual não significa permanecer diante das mesmas alternativas.
+O tempo torna essa dinâmica ainda mais evidente. Adiar uma escolha pode permitir que novas informações surjam, mas também pode fazer uma oportunidade desaparecer, consumir recursos ou permitir que outras decisões sejam tomadas antes. Permanecer no estado atual não significa permanecer diante das mesmas alternativas.
 
-É nesse sentido que não decidir também pode constituir uma decisão. Não porque ação e inação sejam equivalentes, mas porque a ausência de uma escolha deliberada também pode produzir efeitos sobre o que será possível fazer posteriormente.
+É nesse sentido que não decidir também pode constituir uma decisão. Uma decisão deliberada de não agir é diferente da simples ausência de decisão, mas ambas podem produzir efeitos sobre as possibilidades futuras.
 
-Consequências, dependências, compromissos, reversibilidade, irreversibilidade, custo de oportunidade, opcionalidade e path dependency são diferentes maneiras de analisar essa transformação.
+Consequências, dependências, compromissos, trade-offs, reversibilidade, irreversibilidade, custo de oportunidade, opcionalidade e path dependency são diferentes maneiras de analisar como uma decisão transforma o espaço de possibilidades.
 
-Uma decisão deve, portanto, ser observada não apenas pelo resultado que produz, mas também pelas condições que deixa para as escolhas seguintes.
+Uma decisão deve, portanto, ser analisada não apenas pelo resultado produzido, mas também pelas condições que deixa para as decisões seguintes.
 
 ## 1.6 Toda decisão participa de um processo de evolução
 
@@ -90,11 +96,13 @@ Neste guia, evolução significa mudança de estado ao longo do tempo. Não impl
 
 Planejamento, execução, observação e aprendizado fazem parte dessa dinâmica. Uma decisão pode ser mantida, revista ou substituída conforme surgem novos dados. Modelos como PDCA e OODA representam diferentes formas de organizar ciclos desse tipo. Não são modelos de Arquitetura de Decisão, mas ajudam a ilustrar a relação entre ação, observação, aprendizado e mudança.
 
-Quando esse processo se repete, escolhas anteriores passam a influenciar as seguintes. Elas geram dependências, compromissos, restrições e aprendizados que se incorporam ao estado atual do sistema.
+Quando esse processo se repete, escolhas anteriores passam a influenciar as seguintes. Elas geram dependências, compromissos, restrições e aprendizados que se incorporam ao contexto das decisões posteriores.
 
 É nesse sentido que uma arquitetura pode ser compreendida como uma estrutura que também resulta das decisões acumuladas ao longo da evolução de um sistema.
 
-Os seis fundamentos formam uma estrutura conceitual. A decisão ocorre dentro de um domínio, parte de um contexto inicial, é orientada por um objetivo ou meta, acontece sob incerteza, modifica o espaço de possibilidades e passa a fazer parte da evolução do sistema.
+Os seis fundamentos formam uma estrutura conceitual. A decisão ocorre dentro de um ou mais domínios, parte de um contexto inicial, é orientada por um ou mais objetivos, envolve algum grau de incerteza, modifica o espaço de possibilidades e passa a fazer parte da evolução do sistema.
+
+Esses fundamentos não constituem um processo obrigatório nem precisam ser analisados isoladamente. Eles representam dimensões relacionadas de uma mesma decisão. O domínio fornece as referências para compreendê-la, o contexto define as condições existentes, os objetivos orientam o que se pretende alcançar, a incerteza limita o que pode ser conhecido, a escolha modifica as possibilidades e seus efeitos passam a compor o contexto das decisões seguintes.
 
 Essa estrutura pode ser observada em diferentes domínios sem pressupor que sejam equivalentes. Na arquitetura de soluções, na gestão de projetos, no empreendedorismo e em decisões profissionais ou pessoais, os fundamentos assumem formas próprias conforme os problemas, conhecimentos e condições envolvidos.
 
