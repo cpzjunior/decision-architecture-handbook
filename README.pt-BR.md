@@ -1,3 +1,6 @@
+| 🇺🇸 [en](README.md) | 🇧🇷 [pt-BR](README.pt-BR.md) |
+|---|---|
+
 # Guia de Arquitetura de Decisão
 
 O Guia de Arquitetura de Decisão propõe uma forma prática de estruturar, compreender, registrar e evoluir decisões em diferentes contextos.
