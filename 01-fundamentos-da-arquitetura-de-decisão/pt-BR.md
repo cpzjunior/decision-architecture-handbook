@@ -1,10 +1,10 @@
 # 1. Fundamentos da Arquitetura de Decisão
 
-Os fundamentos da Arquitetura de Decisão são os princípios que orientam como decisões podem ser compreendidas, estruturadas e desenvolvidas ao longo do tempo. Não são etapas de um processo, nem uma lista de elementos obrigatórios. São referências conceituais a partir das quais os demais conceitos deste guia podem ser organizados.
+Os fundamentos da Arquitetura de Decisão são os princípios que orientam como decisões podem ser compreendidas, estruturadas e desenvolvidas ao longo do tempo. Não são etapas de um processo nem uma lista de elementos obrigatórios. São referências conceituais a partir das quais os demais conceitos deste guia podem ser organizados.
 
-Conhecer esses princípios é importante porque métodos e frameworks apresentam maneiras particulares de lidar com problemas. Eles definem processos, práticas, artefatos, papéis e técnicas adequados a determinados contextos. Quando conhecemos apenas essas formas de aplicação, podemos utilizar uma prática corretamente sem compreender completamente o problema que ela procura resolver.
+Conhecer esses princípios é importante porque métodos e frameworks apresentam maneiras particulares de lidar com problemas. Eles definem processos, práticas, artefatos, papéis e técnicas adequados a determinadas situações. Quando conhecemos apenas essas formas de aplicação, podemos utilizar uma prática corretamente sem compreender completamente o problema que ela procura resolver.
 
-Os princípios permitem enxergar além da prática. Ajudam a identificar quais condições justificam determinado método, quais premissas estão envolvidas e quais aspectos pertencem ao problema em si ou à maneira escolhida para tratá-lo. Também permitem reconhecer relações entre disciplinas sem concluir que suas abordagens sejam intercambiáveis.
+Os princípios permitem enxergar além da prática. Ajudam a identificar quais condições justificam determinado método, quais premissas estão envolvidas e quais aspectos pertencem ao problema ou à maneira escolhida para tratá-lo. Também permitem reconhecer relações entre disciplinas sem concluir que suas abordagens sejam intercambiáveis.
 
 Essa é a função dos fundamentos neste guia. Eles estabelecem uma camada de entendimento anterior à escolha de métodos e ferramentas. Primeiro procuramos compreender a natureza da situação e das decisões envolvidas; depois identificamos quais práticas são adequadas ao domínio e ao momento.
 
@@ -14,15 +14,15 @@ Os cinco fundamentos a seguir estabelecem essa base.
 
 ## 1.1 Toda decisão ocorre sob incerteza
 
-Uma decisão se torna relevante quando existe uma escolha entre possibilidades e não conhecemos completamente suas consequências. Quanto maior o desconhecimento sobre o estado futuro, os efeitos das alternativas ou as condições que irão prevalecer, maior a incerteza envolvida.
+Uma decisão surge quando precisamos escolher entre possibilidades sem conhecer completamente suas consequências. Quanto maior o desconhecimento sobre os efeitos das alternativas ou sobre as condições futuras, maior a incerteza envolvida.
 
-Isso não significa que todas as decisões tenham o mesmo grau de incerteza. Algumas contam com grande quantidade de dados, experiência e evidências. Outras precisam ser tomadas com informações escassas e muitas incógnitas. Também existem situações em que uma alternativa apresenta consequências praticamente conhecidas. Nesses casos, a decisão pode se aproximar de uma execução determinada.
+Isso não significa que todas as decisões tenham o mesmo grau de incerteza. Algumas contam com grande quantidade de dados, experiência e evidências. Outras precisam ser tomadas com informações escassas e muitas incógnitas. Também existem situações em que as consequências de uma alternativa são praticamente conhecidas. Nesses casos, a decisão pode se aproximar de uma execução determinada.
 
 A incerteza não precisa ser eliminada antes de agir. Podemos buscar informação, consultar especialistas, testar hipóteses, executar experimentos ou aguardar novos dados. Cada alternativa, porém, possui seu próprio custo. Investigar mais pode reduzir o desconhecimento, mas também consumir tempo, recursos ou oportunidades.
 
 Decidir envolve avaliar não apenas quais alternativas estão disponíveis, mas também quanto vale a pena aprender antes de agir e quando o conhecimento disponível já é suficiente para avançar.
 
-Hipóteses, evidências, experimentos, aprendizado e gestão de risco são diferentes formas de lidar com aquilo que ainda não sabemos. Para interpretá-los corretamente, porém, precisamos compreender o campo no qual a decisão está inserida.
+Hipóteses, evidências, experimentos, aprendizado e gestão de risco são diferentes formas de lidar com aquilo que ainda não sabemos. A maneira como essas práticas são utilizadas depende do campo em que a decisão ocorre.
 
 ## 1.2 Toda decisão ocorre dentro de um domínio
 
@@ -36,7 +36,7 @@ Uma decisão de gestão de projetos pertence a outro domínio e mobiliza conceit
 
 Cada domínio possui conhecimentos e práticas próprios. Essa especialização é necessária porque os problemas, critérios e formas de avaliação não são iguais em todas as áreas.
 
-Ainda assim, decisões de domínios diferentes podem compartilhar propriedades que permitem analisá-las por uma perspectiva comum. Essa possibilidade de observar padrões entre domínios é uma das bases da transversalidade da Arquitetura de Decisão.
+Ainda assim, decisões de diferentes domínios podem compartilhar propriedades que permitem analisá-las por uma perspectiva comum. É essa possibilidade de identificar padrões entre áreas distintas que permite à Arquitetura de Decisão estabelecer uma linguagem transversal.
 
 ## 1.3 Toda decisão é contextual
 
@@ -50,15 +50,15 @@ Uma decisão de arquitetura de software pode pertencer ao mesmo domínio em dife
 
 Essas condições também mudam. Um novo concorrente, uma nova tecnologia, uma alteração orçamentária, uma mudança de prioridade ou uma informação anteriormente desconhecida pode modificar significativamente a situação. Uma alternativa que fazia sentido em determinado momento pode deixar de ser adequada posteriormente sem que a decisão original tenha sido equivocada.
 
-Compreender o contexto significa identificar as condições que tornam determinadas alternativas possíveis, desejáveis ou inviáveis. Essas condições não permanecem necessariamente as mesmas depois que uma decisão é tomada. A própria decisão pode modificar os recursos, compromissos, informações e restrições presentes posteriormente.
+Compreender o contexto significa identificar as condições que tornam determinadas alternativas possíveis, desejáveis ou inviáveis. Essas condições não permanecem necessariamente as mesmas depois que uma decisão é tomada. A própria decisão pode modificar recursos, compromissos, informações e restrições presentes posteriormente.
 
-Por isso, compreender uma decisão exige observar não apenas o momento em que ela ocorre, mas também o estado que ela ajuda a produzir.
+Por isso, compreender uma decisão exige observar não apenas as condições em que ela foi tomada, mas também o estado que ela ajuda a produzir.
 
 ## 1.4 Toda decisão altera o espaço de possibilidades
 
 Uma decisão produz mais do que um resultado imediato. Ela pode comprometer recursos, criar dependências, estabelecer restrições, eliminar caminhos ou tornar determinadas mudanças mais custosas. Também pode preservar opções, gerar novas alternativas ou produzir informação útil para decisões posteriores.
 
-Alterar o espaço de possibilidades não significa necessariamente reduzir opções. Uma decisão pode eliminar determinados caminhos e, ao mesmo tempo, criar outros. Pode tornar uma alternativa mais acessível, outra mais cara e uma terceira impossível. Pode ainda preservar possibilidades que seriam perdidas caso outro caminho fosse escolhido.
+Alterar o espaço de possibilidades não significa necessariamente reduzir opções. Uma decisão pode eliminar determinados caminhos e, ao mesmo tempo, criar outros. Pode tornar uma alternativa mais acessível, outra mais cara e uma terceira inviável. Pode ainda preservar possibilidades que seriam perdidas caso outro caminho fosse escolhido.
 
 Essa dinâmica pode ser observada pela ideia de opcionalidade. Algumas decisões preservam maior capacidade de mudança futura; outras aumentam compromissos e reduzem a margem de manobra. O valor de uma decisão, portanto, pode estar não apenas no resultado que entrega agora, mas também nas possibilidades que preserva ou cria para depois.
 
@@ -78,13 +78,13 @@ Neste guia, evolução significa mudança de estado ao longo do tempo. Não impl
 
 Planejamento, execução, observação e aprendizado fazem parte dessa dinâmica. Uma decisão pode ser mantida, revista ou substituída conforme surgem novos dados. Modelos como PDCA e OODA representam diferentes formas de organizar ciclos desse tipo. Não são modelos de Arquitetura de Decisão, mas ajudam a ilustrar a relação entre ação, observação, aprendizado e mudança.
 
-Quando esse processo se repete, os efeitos deixam de ser apenas temporais. Decisões anteriores geram dependências, compromissos, restrições e aprendizados que passam a fazer parte do estado atual do sistema.
+Quando esse processo se repete, decisões anteriores passam a influenciar as seguintes. Elas geram dependências, compromissos, restrições e aprendizados que se incorporam ao estado atual do sistema.
 
-É nesse sentido que uma arquitetura pode ser compreendida como uma estrutura formada também pelas decisões que se acumulam ao longo da evolução de um sistema.
+É nesse sentido que uma arquitetura pode ser compreendida como uma estrutura que também resulta das decisões acumuladas ao longo da evolução de um sistema.
 
-Os cinco fundamentos formam uma sequência conceitual. A decisão parte de um conhecimento incompleto, ocorre dentro de um domínio, é realizada em condições particulares, modifica o espaço de possibilidades e passa a fazer parte da evolução do sistema.
+Os cinco fundamentos formam uma sequência conceitual. A decisão parte de conhecimento incompleto, ocorre dentro de um domínio, é realizada sob condições particulares, modifica o espaço de possibilidades e passa a fazer parte da evolução do sistema.
 
-Essa estrutura pode ser observada em diferentes domínios sem pressupor que eles sejam equivalentes. Na arquitetura de soluções, na gestão de projetos, no empreendedorismo e também em decisões profissionais e pessoais, os fundamentos assumem formas próprias conforme os problemas, conhecimentos e condições envolvidos.
+Essa sequência permite observar diferentes formas de arquitetura sem pressupor que seus domínios sejam equivalentes. Na arquitetura de soluções, na gestão de projetos, no empreendedorismo e em decisões profissionais ou pessoais, os fundamentos assumem formas próprias conforme os problemas, conhecimentos e condições envolvidos.
 
 É nesse sentido que a Arquitetura de Decisão é transversal: não porque exista um método comum que possa ser aplicado indistintamente a todos os domínios, mas porque os mesmos fundamentos permitem observar a dinâmica das decisões em diferentes campos.
 
