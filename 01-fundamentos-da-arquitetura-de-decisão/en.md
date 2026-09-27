@@ -1,18 +1,22 @@
 # 1. Foundations of Decision Architecture
 
-This guide proposes six foundations for understanding decisions. They are not presented as a universal definition of Decision Architecture, nor as steps in a process or a list of mandatory elements. They are a proposition for organizing recurring characteristics of decisions and making explicit relationships that appear, under different names and levels of formalization, across various disciplines.
+This guide proposes six foundations for understanding decisions. They do not constitute a universal definition of Decision Architecture, nor should they be understood as stages of a process or as a list of mandatory elements. They are a conceptual proposition intended to make recurring characteristics of decisions and the relationships between them explicit.
 
-Methods and frameworks present particular ways of dealing with problems. They define processes, practices, artifacts, roles, and techniques suited to specific domains and situations. Knowing only these forms of application, however, can lead to the correct use of a practice without a sufficient understanding of the need it seeks to address.
+A foundation, in this context, is a structural characteristic of a decision. It helps us understand a dimension that is present when a choice is considered, made, and produces effects. It does not, by itself, define how the decision should be conducted. Its function is to provide a reference for understanding the situation before determining how to act upon it.
 
-The foundations proposed in this guide make it possible to observe what lies behind these practices. They help identify the domain in which a decision occurs, the conditions that form its context, the objectives that guide the choice, what we still do not know, the consequences produced by the alternatives, and how these consequences modify the conditions for future decisions.
+This distinction is important because concrete decisions are often addressed through methods, techniques, and frameworks developed for specific contexts. These approaches organize ways of working and provide mechanisms for dealing with specific problems. The foundations proposed here are at a prior level: they seek to describe characteristics of the decision itself, regardless of the particular way used to conduct it.
 
-This perspective also makes it possible to recognize relationships between disciplines without concluding that their methods are interchangeable. Practices developed in architecture, management, entrepreneurship, product development, or other fields may respond to similar needs, even though they use different languages, processes, and artifacts.
+The characteristics of a decision, however, do not appear in isolation. A decision takes place within some domain and starts from certain conditions. It is guided by objectives, but these objectives need to be considered in light of what we do not yet know. The choice produces consequences, and those consequences modify the conditions under which subsequent decisions will be made.
 
-This is the function of the foundations in this guide. They establish a layer of understanding that precedes the choice of methods and tools. First, we seek to understand the structure of the decision and the needs it produces; then we identify which practices can address those needs and which frameworks can organize them.
+This structure can be observed in different types of decisions. An architectural decision, a business decision, a project decision, or a personal decision have distinct natures, but all of them occur in some situation, pursue some outcome, are made with incomplete knowledge, and produce effects that may alter what will be possible to do later.
 
-For those who already work with architecture, management, strategy, entrepreneurship, or decision-making, many of these ideas are familiar. They appear in practice under different names and levels of formalization. The objective is not to claim novel concepts, but to make explicit a logic that is often distributed across different disciplines.
+The objective of this chapter is not to introduce new terminology to replace already established concepts. Many of the ideas presented here are well known and appear, under different names and levels of formalization, in disciplines such as architecture, management, engineering, entrepreneurship, and product development.
 
-The following six foundations establish this basis.
+The proposition is different: to start from the most basic questions we need to answer in order to understand a decision and, from them, identify the needs that derive from them. Instead of starting with the available methods and trying to fit the decision into their structures, we begin by asking what needs to be understood about the decision itself.
+
+What are the minimum conditions we need to know in order to understand a decision? What defines the field in which it takes place? From what situation is it made? What guides the choice? What do we still not know? What changes as a consequence of the decision? And how do these changes constrain subsequent decisions?
+
+It is from these questions that we arrive at the foundations presented below. Each seeks to answer a more basic question about the structure of the decision and, from it, makes it possible to derive needs that can be addressed through different practices and approaches.
 
 ## 1.1. Every decision occurs within one or more domains
 
