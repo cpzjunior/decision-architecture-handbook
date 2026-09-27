@@ -20,7 +20,7 @@ O domínio pode confirmar um objetivo, mas também pode reformulá-lo, restringi
 
 Antes de decidir o que queremos mudar, precisamos saber sobre o que estamos decidindo.
 
-## 2.1 Identificando o ecossistema do domínio
+## 2.1. Identificando o ecossistema do domínio
 
 Antes de estabelecer os limites de um domínio, precisamos enxergar a realidade mais ampla na qual ele está inserido. Uma decisão raramente pertence a uma única dimensão. Mesmo quando parece concentrada em um processo, sistema ou área organizacional, seus efeitos podem atravessar diferentes partes da organização e ultrapassar suas fronteiras.
 
@@ -34,7 +34,7 @@ O pesquisador que estuda uma espécie não precisa conhecer todo o ecossistema e
 
 Na arquitetura de decisões, a função é semelhante. Antes de perguntar qual é o domínio, precisamos saber em qual realidade ele está inserido. Isso reduz o risco de confundir o primeiro objeto encontrado com aquilo que efetivamente precisa ser estudado.
 
-## 2.2 Delimitando um ou mais domínios
+## 2.2. Delimitando um ou mais domínios
 
 Com essa visão mais ampla, podemos estabelecer quais partes serão tratadas como domínio ou domínios da decisão.
 
@@ -42,9 +42,7 @@ Essa fronteira não é necessariamente única. Uma decisão pode envolver um dom
 
 Na abertura de uma conta digital, podemos tratar o onboarding como uma única decisão. Também podemos separar decisões relacionadas à identificação do cliente, prevenção a fraude, aprovação da conta, experiência e operação. A escolha depende das relações entre essas preocupações, das responsabilidades envolvidas, das regras aplicáveis e do grau de autonomia de cada uma.
 
-Não existe uma fronteira universalmente correta.
-
-Uma organização pode tratar onboarding e prevenção a fraude conjuntamente porque suas regras e consequências são inseparáveis naquele contexto. Outra pode separá-los devido a responsabilidades, métricas, ciclos de evolução ou necessidades de governança diferentes. A fronteira, portanto, não é determinada apenas pela arquitetura técnica.
+Não existe uma fronteira universalmente correta. Uma organização pode tratar onboarding e prevenção a fraude conjuntamente porque suas regras e consequências são inseparáveis naquele contexto. Outra pode separá-los devido a responsabilidades, métricas, ciclos de evolução ou necessidades de governança diferentes. A fronteira, portanto, não é determinada apenas pela arquitetura técnica.
 
 Isso também diferencia domínio de escopo. O domínio responde à pergunta “qual realidade estamos tratando?”. O escopo responde “qual parte dessa realidade estamos considerando?”. Podemos ter um domínio amplo e restringir o escopo de uma decisão a uma pequena parte dele.
 
@@ -52,7 +50,7 @@ No exemplo da conta digital, o domínio pode abranger toda a realidade relaciona
 
 Delimitar significa estabelecer uma fronteira que permita raciocinar com clareza sem pressupor que aquilo que ficou fora deixou de existir.
 
-## 2.3 Identificando seus elementos
+## 2.3. Identificando seus elementos
 
 Estabelecidos os limites, precisamos observar o que existe dentro deles.
 
@@ -68,7 +66,7 @@ Também surgem diferentes níveis de abstração. Um cliente pode ser visto como
 
 Por isso, identificar elementos não significa apenas nomeá-los. É preciso reconhecer o papel que desempenham dentro da fronteira estabelecida.
 
-## 2.4 Compreendendo suas características
+## 2.4. Compreendendo suas características
 
 Os elementos, porém, não podem ser compreendidos apenas por sua existência. É necessário observar suas propriedades, condições, restrições e capacidades.
 
@@ -80,7 +78,7 @@ Saber que um mecanismo antifraude existe, portanto, é diferente de conhecer os 
 
 À medida que essas propriedades se tornam conhecidas, o domínio deixa de parecer um conjunto de elementos independentes. Suas características começam a explicar as condições sob as quais eles podem interagir e, consequentemente, os comportamentos que podem produzir.
 
-## 2.5 Compreendendo comportamentos
+## 2.5. Compreendendo comportamentos
 
 A estrutura explica o que existe. O comportamento explica o que acontece.
 
@@ -98,7 +96,7 @@ No exemplo utilizado neste capítulo, reduzir o tempo de abertura não significa
 
 A partir desse ponto, o objetivo inicial pode ser reconsiderado. Em vez de simplesmente reduzir dez minutos para dois, passamos a investigar quais comportamentos produzem o tempo atual, quais deles podem ser alterados e quais consequências essa alteração pode gerar.
 
-## 2.6 Como todos esses elementos se relacionam
+## 2.6. Como todos esses elementos se relacionam
 
 As perspectivas apresentadas não são etapas independentes. Elas formam diferentes níveis de observação da mesma realidade.
 
