@@ -1,10 +1,10 @@
 # 1. Fundamentos da Arquitetura de Decisão
 
-Os fundamentos da Arquitetura de Decisão são referências que orientam como decisões podem ser compreendidas, estruturadas e desenvolvidas ao longo do tempo. Não são etapas de um processo nem uma lista de elementos obrigatórios. São proposições a partir das quais os demais conceitos deste guia podem ser organizados.
+Este guia propõe seis fundamentos para compreender decisões. Eles não são apresentados como uma definição universal da Arquitetura de Decisão, nem como etapas de um processo ou uma lista de elementos obrigatórios. São uma proposição para organizar características recorrentes das decisões e tornar explícitas relações que aparecem, com diferentes nomes e níveis de formalização, em diversas disciplinas.
 
 Métodos e frameworks apresentam maneiras particulares de lidar com problemas. Eles definem processos, práticas, artefatos, papéis e técnicas adequados a determinados domínios e situações. Conhecer apenas essas formas de aplicação, porém, pode levar à utilização correta de uma prática sem uma compreensão suficiente da necessidade que ela procura atender.
 
-Os fundamentos permitem observar o que existe por trás dessas práticas. Eles ajudam a identificar as condições que influenciam uma decisão, os objetivos que orientam a escolha, aquilo que ainda não conhecemos, as alternativas disponíveis e as consequências que podem alterar decisões futuras.
+Os fundamentos propostos neste guia permitem observar o que existe por trás dessas práticas. Eles ajudam a identificar o domínio em que uma decisão ocorre, as condições que formam seu contexto, os objetivos que orientam a escolha, aquilo que ainda não conhecemos, as consequências produzidas pelas alternativas e a forma como essas consequências modificam as condições para decisões futuras.
 
 Essa perspectiva também permite reconhecer relações entre disciplinas sem concluir que seus métodos sejam intercambiáveis. Práticas desenvolvidas em arquitetura, gestão, empreendedorismo, desenvolvimento de produtos ou outras áreas podem responder a necessidades semelhantes, ainda que utilizem linguagens, processos e artefatos diferentes.
 
@@ -30,7 +30,7 @@ O conhecimento especializado fornece referências para a análise, mas não dete
 
 Isso também explica por que práticas desenvolvidas em um domínio não devem ser transferidas automaticamente para outro. Uma prática pode fazer sentido porque responde a uma necessidade específica daquele campo e porque seus conceitos, critérios e artefatos foram construídos para determinadas condições.
 
-A primeira necessidade produzida por essa característica é a delimitação do domínio. Precisamos saber em quais campos a decisão se insere, quais conhecimentos são relevantes, quais participantes precisam ser considerados e quais limites definem aquilo que está sendo analisado.
+A primeira necessidade produzida por esse fundamento é a delimitação do domínio. Precisamos saber em quais campos a decisão se insere, quais conhecimentos são relevantes, quais participantes precisam ser considerados e quais limites definem aquilo que está sendo analisado.
 
 Delimitar não significa necessariamente escolher um único domínio. Uma decisão pode deliberadamente atravessar fronteiras entre áreas. O objetivo é tornar essas fronteiras visíveis para que possamos compreender quais perspectivas fazem parte da decisão e quais conhecimentos precisamos mobilizar.
 
@@ -54,7 +54,7 @@ Essa característica também explica por que experiência anterior não pode ser
 
 A experiência fornece referências. O contexto determina sua aplicabilidade.
 
-A segunda necessidade produzida por essa característica é a explicitação das condições da decisão. Precisamos identificar o que existe, quais recursos estão disponíveis, quais restrições precisam ser respeitadas, quais premissas estão sendo assumidas, quais dependências existem e quais informações ainda não estão disponíveis.
+A segunda necessidade produzida por esse fundamento é a explicitação das condições da decisão. Precisamos identificar o que existe, quais recursos estão disponíveis, quais restrições precisam ser respeitadas, quais premissas estão sendo assumidas, quais dependências existem e quais informações ainda não estão disponíveis.
 
 Essa necessidade é atendida por práticas de diagnóstico, levantamento de restrições, identificação de premissas, análise de dependências, compreensão do ambiente existente e identificação das condições atuais. O objetivo não é descrever toda a realidade, mas tornar visíveis as condições que realmente influenciam a decisão.
 
@@ -86,7 +86,7 @@ Por exemplo, “substituir o sistema atual” pode parecer inicialmente um probl
 
 Nesse sentido, problema e objetivo não devem ser tratados como elementos completamente independentes. A definição do que precisa ser resolvido depende, em parte, do resultado que consideramos necessário alcançar.
 
-A terceira necessidade produzida por essa característica é a definição de critérios de avaliação. Se existem objetivos, precisamos de referências que permitam avaliar alternativas e verificar posteriormente se o resultado alcançado atende ao que se pretendia.
+A terceira necessidade produzida por esse fundamento é a definição de critérios de avaliação. Se existem objetivos, precisamos de referências que permitam avaliar alternativas e verificar posteriormente se o resultado alcançado atende ao que se pretendia.
 
 Esses critérios podem assumir diferentes formas. Podem ser requisitos, métricas, indicadores, atributos de qualidade, condições de sucesso, limites aceitáveis ou outras referências adequadas ao domínio e ao objetivo. Nem todo objetivo precisa ser reduzido a uma métrica. O importante é existir uma forma suficientemente clara de avaliar a relação entre a escolha e aquilo que se pretende alcançar.
 
@@ -108,7 +108,7 @@ Decidir envolve, portanto, avaliar não apenas quais alternativas estão dispon�
 
 Essa avaliação também depende da natureza das consequências. Quando uma decisão é facilmente reversível, pode ser aceitável avançar com maior grau de incerteza. Quando uma escolha cria compromissos difíceis de desfazer, o custo de uma decisão prematura pode ser muito maior.
 
-A quarta necessidade produzida por essa característica é o tratamento do desconhecido. Precisamos identificar aquilo que ainda não sabemos, avaliar sua importância e decidir como lidar com essa incerteza.
+A quarta necessidade produzida por esse fundamento é o tratamento do desconhecido. Precisamos identificar aquilo que ainda não sabemos, avaliar sua importância e decidir como lidar com essa incerteza.
 
 Hipóteses, evidências, experimentos, protótipos, pesquisas, cenários, riscos e oportunidades são diferentes formas de tratar aquilo que ainda não conhecemos.
 
@@ -144,7 +144,7 @@ Permanecer no estado atual não significa permanecer diante das mesmas alternati
 
 É nesse sentido que não decidir deliberadamente também pode constituir uma decisão. Existe diferença entre escolher conscientemente não agir e simplesmente não perceber que uma decisão precisava ser tomada, mas ambas as situações podem produzir efeitos sobre as possibilidades futuras.
 
-A quinta necessidade produzida por essa característica é compreender, tratar e comunicar as consequências das alternativas consideradas. Isso envolve analisar não apenas qual alternativa produz determinado resultado, mas também quais efeitos diretos e indiretos ela pode gerar, quem pode ser afetado, como esses efeitos precisam ser comunicados e como a decisão modifica as condições para as próximas decisões.
+A quinta necessidade produzida por esse fundamento é compreender, tratar e comunicar as consequências das alternativas consideradas. Isso envolve analisar não apenas qual alternativa produz determinado resultado, mas também quais efeitos diretos e indiretos ela pode gerar, quem pode ser afetado, como esses efeitos precisam ser comunicados e como a decisão modifica as condições para as próximas decisões.
 
 Cenários, análise de alternativas, trade-offs, comunicação, coordenação, reversibilidade, dependências, custo de oportunidade, opcionalidade e path dependency são formas diferentes de tratar essa necessidade.
 
@@ -152,13 +152,15 @@ O objetivo não é encontrar uma alternativa universalmente melhor. É compreend
 
 ## 1.6. Toda decisão participa de um processo de evolução
 
-Uma decisão modifica a situação seguinte. As consequências produzidas pela decisão passam a fazer parte dessa nova situação, enquanto a execução produz informação, revela efeitos esperados e inesperados e pode criar novas condições que exigem ajustes de direção.
+Uma decisão modifica a situação seguinte porque suas consequências alteram o espaço de possibilidades. Recursos podem ser consumidos ou criados, compromissos podem ser assumidos, dependências podem surgir, alternativas podem ser eliminadas ou abertas e novas informações podem ser produzidas.
 
-Neste guia, evolução significa mudança de estado ao longo do tempo. Não implica necessariamente melhoria.
+Essa alteração do espaço de possibilidades modifica as condições que serão observadas para as decisões seguintes. O contexto pode mudar, alguns objetivos podem deixar de ser viáveis ou ganhar importância, novas incertezas podem surgir ou desaparecer e outras alternativas podem passar a existir.
+
+É nesse sentido que este guia utiliza o termo evolução. Evolução significa mudança de estado ao longo do tempo como consequência das decisões, das ações realizadas, das informações produzidas e das condições que se modificam. Não implica necessariamente melhoria.
 
 Um sistema pode se aproximar de seus objetivos, mas também pode acumular restrições, dependências, custos ou problemas que dificultem mudanças posteriores. Uma organização pode aprender com uma decisão e, ao mesmo tempo, assumir compromissos que condicionam suas próximas escolhas.
 
-Planejamento, execução, observação e aprendizado fazem parte dessa dinâmica. Uma decisão pode ser mantida, revista ou substituída conforme surgem novos dados.
+Planejamento, execução, observação e aprendizado fazem parte dessa dinâmica. Uma decisão pode ser mantida, revista ou substituída conforme surgem novos dados e conforme as condições para novas escolhas se modificam.
 
 Modelos como PDCA e OODA representam diferentes formas de organizar ciclos desse tipo. Não são modelos de Arquitetura de Decisão, mas ajudam a ilustrar uma dinâmica em que ação, observação, aprendizado e mudança estão relacionados.
 
@@ -168,9 +170,9 @@ Essa acumulação também aparece na arquitetura de sistemas. A arquitetura atua
 
 Uma decisão arquitetural, por exemplo, pode introduzir uma tecnologia. Depois, essa tecnologia passa a influenciar a contratação de profissionais, a escolha de ferramentas, os custos operacionais e as decisões de integração. Uma decisão inicial, portanto, participa da formação das condições para decisões posteriores.
 
-Isso significa que uma decisão não deve ser analisada apenas pelo estado existente no momento em que é tomada. Também precisamos considerar os efeitos que produz sobre a evolução e o conhecimento que gera para decisões futuras.
+Isso significa que uma decisão não deve ser analisada apenas pelo estado existente no momento em que é tomada. Também precisamos considerar os efeitos que produz sobre o espaço de possibilidades, as condições das decisões futuras e o conhecimento que gera.
 
-A sexta necessidade produzida por essa característica é a observação, o aprendizado e a preservação do conhecimento produzido pela evolução.
+A sexta necessidade produzida por esse fundamento é a observação, o aprendizado e a preservação do conhecimento produzido pela evolução.
 
 Precisamos conseguir observar o que aconteceu, comparar o resultado com aquilo que esperávamos e compreender as razões de eventuais diferenças.
 
@@ -182,17 +184,17 @@ A rastreabilidade surge como uma forma de preservar esse conhecimento, mas ela n
 
 ## 1.7. Como os fundamentos se relacionam
 
-Os seis fundamentos não devem ser interpretados como seis assuntos independentes. Eles descrevem dimensões diferentes de uma mesma estrutura de decisão.
+Os seis fundamentos propostos neste guia não devem ser interpretados como seis assuntos independentes. Eles descrevem dimensões diferentes de uma mesma estrutura de decisão.
 
-Uma decisão ocorre em um domínio, mas esse domínio sempre se manifesta dentro de um contexto específico. O contexto define condições que influenciam aquilo que pode ser feito. Dentro dessas condições, existem objetivos que orientam a escolha. Como o futuro não é completamente conhecido, existe incerteza. A decisão produz consequências diretas e indiretas, que podem afetar pessoas, recursos, sistemas e as condições para decisões futuras. Essas consequências passam a fazer parte da evolução e influenciam decisões posteriores.
+Uma decisão ocorre em um domínio, mas esse domínio sempre se manifesta dentro de um contexto específico. O contexto define condições que influenciam aquilo que pode ser feito. Dentro dessas condições, existem objetivos que orientam a escolha. Como o futuro não é completamente conhecido, existe incerteza. A decisão produz consequências diretas e indiretas, que podem afetar pessoas, recursos, sistemas e as condições para decisões futuras. Essas consequências alteram o espaço de possibilidades e, ao fazê-lo, modificam as condições nas quais novas decisões serão tomadas. É nesse processo que ocorre a evolução.
 
-Assim, podemos visualizar a estrutura de forma encadeada:
+Assim, podemos visualizar essa relação de forma encadeada:
 
 Domínio → contexto → objetivos → incerteza → consequências → evolução
 
-Esse encadeamento não representa uma sequência de etapas. Uma mudança em qualquer dimensão pode afetar as demais.
+O encadeamento não representa uma sequência de etapas. Ele representa uma relação entre dimensões que se influenciam continuamente.
 
-Uma nova informação sobre o domínio pode alterar nossa compreensão do contexto. Uma mudança no contexto pode tornar um objetivo inviável ou revelar outro mais importante. Um objetivo diferente pode mudar quais alternativas são consideradas. Uma nova evidência pode reduzir uma incerteza. Uma decisão pode produzir consequências que eliminam uma alternativa futura ou criam uma nova possibilidade. Um resultado inesperado pode alterar novamente o contexto.
+Uma nova informação sobre o domínio pode alterar nossa compreensão do contexto. Uma mudança no contexto pode tornar um objetivo inviável ou revelar outro mais importante. Um objetivo diferente pode mudar quais alternativas são consideradas. Uma nova evidência pode reduzir uma incerteza. Uma decisão pode produzir consequências que eliminam uma alternativa futura ou criam uma nova possibilidade. Essas alterações modificam o espaço de possibilidades e, consequentemente, as condições disponíveis para as decisões seguintes. Um resultado inesperado também pode alterar novamente o contexto e exigir uma nova compreensão da situação.
 
 A decisão, portanto, não acontece dentro de uma estrutura estática. Ela acontece dentro de uma estrutura que se modifica enquanto aprendemos, escolhemos e agimos.
 
@@ -224,9 +226,8 @@ Por isso, o framework não precisa ser o ponto de partida. Ele pode ser uma resp
 
 Essa inversão é importante. Em vez de perguntar primeiro “qual framework devemos usar?”, podemos começar perguntando: “qual decisão estamos tentando conduzir?”, “quais características dessa decisão precisam ser tratadas?”, “quais necessidades surgem dessas características?” e, somente então, “quais práticas ou frameworks podem nos ajudar?”.
 
-Os fundamentos, portanto, não procuram substituir DDD, TOGAF, arc42, Scrum, PMBOK, Lean Startup, Design Thinking, ADR ou outros métodos. Eles oferecem uma forma de enxergar o que essas abordagens estão tentando tratar e de reconhecer que diferentes disciplinas podem desenvolver respostas distintas para necessidades estruturalmente relacionadas.
+Os seis fundamentos propostos neste guia, portanto, não procuram substituir DDD, TOGAF, arc42, Scrum, PMBOK, Lean Startup, Design Thinking, ADR ou outros métodos. Eles oferecem uma forma de enxergar o que essas abordagens estão tentando tratar e de reconhecer que diferentes disciplinas podem desenvolver respostas distintas para necessidades estruturalmente relacionadas.
 
 Essa perspectiva será importante nos capítulos seguintes. Depois de compreender as características gerais de uma decisão, precisamos entrar na situação concreta em que ela acontece. Antes de definir qual problema resolver ou qual solução aplicar, precisamos compreender o domínio, o contexto, os limites e as condições existentes.
 
 É a partir daí que a Arquitetura de Decisão deixa de ser apenas uma estrutura conceitual e passa a orientar a condução de uma decisão real.
-
