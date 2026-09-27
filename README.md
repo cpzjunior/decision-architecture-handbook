@@ -19,6 +19,10 @@ The context changes, the tools change, and decisions evolve. The structure that 
 
 This is an open and evolving project, developed in this repository as concepts, examples, and learnings are incorporated.
 
+## Index
+
+[1. Foundations of Decision Architecture](./01-foundations-of-decision-architecture/en.md)
+
 ## License
 
 This repository is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
