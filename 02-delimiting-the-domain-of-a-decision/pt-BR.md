@@ -114,43 +114,43 @@ Por isso, identificar elementos é apenas o início da compreensão do domínio.
 
 ## 2.4. Compreendendo as características
 
-Identificar que determinado elemento existe não significa compreendê-lo.
+Identificar os elementos que fazem parte do domínio não significa conhecê-los suficientemente. É necessário compreender também suas principais características.
 
-É necessário conhecer as características que podem influenciar a decisão.
+Características são propriedades que ajudam a descrever cada elemento do domínio. Podem incluir sua natureza, função, capacidade, composição, estrutura, finalidade ou outras propriedades que permitam compreender o papel que desempenha dentro do domínio.
 
-Essas características podem incluir propriedades, capacidades, limitações, condições, recursos, responsabilidades, regras, dependências, custos, níveis de desempenho, restrições ou qualquer outro atributo relevante.
+Considere novamente o processo de abertura de contas. Identificar a existência de uma etapa de validação de identidade é apenas o primeiro nível de compreensão. É necessário reconhecer sua finalidade, os elementos envolvidos, as informações utilizadas, quem participa da atividade e como essa etapa se relaciona com o restante do processo.
 
-Considere novamente o processo de abertura de contas. Saber que existe uma etapa de validação de identidade é insuficiente. É necessário compreender quem executa essa validação, quais informações são utilizadas, quais regras precisam ser atendidas, quanto tempo a atividade normalmente leva, quais sistemas participam dela e quais limitações podem afetar seu funcionamento.
+A mesma lógica se aplica aos demais elementos do domínio.
 
-A mesma lógica se aplica a qualquer domínio.
+Um sistema pode ser caracterizado por sua finalidade, seus principais componentes e as funções que oferece. Uma equipe pode ser compreendida por sua composição, responsabilidades e capacidades. Um produto pode ser descrito por suas características, funcionalidades e forma de utilização. Uma organização pode ser compreendida por sua estrutura, áreas, processos e capacidades.
 
-Um sistema não é compreendido apenas porque sabemos que ele existe. Uma equipe não é compreendida apenas porque conhecemos sua estrutura. Um mercado não é compreendido apenas porque conhecemos seus participantes. Uma organização não é compreendida apenas porque sabemos como está representada em um organograma.
+O objetivo, neste momento, não é investigar todas as propriedades possíveis de cada elemento. É construir uma compreensão básica de suas características mais relevantes para representar o domínio de maneira adequada.
 
-As características relevantes dependem da decisão.
+Essa relevância depende daquilo que está sendo analisado. Uma característica pode ser importante para uma decisão e pouco relevante para outra. Por isso, compreender o domínio não significa produzir uma descrição completa de cada elemento, mas identificar as propriedades necessárias para que sua participação no domínio possa ser entendida.
 
-Se a decisão envolve redução de custos, algumas características terão maior importância. Se envolve segurança, outras serão prioritárias. Se envolve expansão, capacidade e escalabilidade podem assumir maior relevância. Se envolve experiência do cliente, características relacionadas ao comportamento e às necessidades dos usuários podem se tornar centrais.
-
-Compreender características significa, portanto, descobrir quais propriedades da realidade podem influenciar a decisão e como elas se relacionam com aquilo que se pretende alcançar.
+Essa compreensão fornece a base para o próximo nível de análise: observar como esses elementos se comportam e se relacionam.
 
 ## 2.5. Compreendendo os comportamentos
 
-A realidade não é formada apenas por elementos com características estáticas. Os elementos interagem, mudam e respondem uns aos outros.
+Os elementos de um domínio não existem de forma isolada. Eles interagem, respondem a mudanças e podem alterar seu comportamento em função de outros elementos.
 
-Por isso, compreender o domínio também exige compreender seus comportamentos.
+Compreender o domínio exige, portanto, observar não apenas o que seus elementos são, mas também como eles atuam e se relacionam.
 
-Um processo pode reagir de maneira diferente quando o volume de solicitações aumenta. Um sistema pode apresentar degradação quando determinada capacidade é ultrapassada. Uma equipe pode mudar sua forma de trabalhar diante de novas regras. Clientes podem alterar seu comportamento quando um preço é modificado. Um mercado pode reagir à entrada de um novo concorrente.
+No processo de abertura de contas, por exemplo, uma etapa de validação pode depender de um sistema, que por sua vez depende de uma integração externa. Uma equipe pode atuar sobre o processo e modificar sua execução. Um cliente pode fornecer informações que desencadeiam diferentes etapas do fluxo.
 
-Esses comportamentos frequentemente são mais importantes para uma decisão do que as características isoladas dos elementos.
+Essas interações fazem parte do comportamento do domínio.
 
-Voltando ao processo de abertura de contas, podemos descobrir que seu tempo médio é adequado em condições normais, mas aumenta significativamente em períodos de alta demanda. Podemos descobrir também que a introdução de uma nova etapa de segurança reduz fraude, mas aumenta o tempo necessário para concluir o processo.
+Um processo pode seguir determinado fluxo quando uma solicitação é recebida. Um sistema pode responder a uma determinada entrada de uma forma específica. Uma equipe pode executar diferentes atividades em função do tipo de solicitação. Um cliente pode percorrer diferentes caminhos dentro de um serviço.
 
-A decisão, nesse caso, não depende apenas das características de cada elemento. Depende das relações entre eles e dos efeitos produzidos quando determinadas condições mudam.
+Compreender comportamentos significa reconhecer essas formas de interação e as relações que existem entre os elementos. Não é necessário, neste momento, determinar todas as condições que fazem um comportamento mudar ou investigar profundamente as causas dessas mudanças. O objetivo é compreender como o domínio funciona em termos gerais.
 
-Compreender comportamentos significa identificar essas relações e entender como a realidade responde às mudanças.
+Essa distinção é importante porque uma representação composta apenas por elementos e características pode ser insuficiente. Saber que existem pessoas, processos e sistemas não explica como eles trabalham conjuntamente. É a compreensão das interações que permite enxergar o funcionamento do domínio como um sistema de elementos relacionados.
 
-Isso é particularmente importante porque muitas decisões produzem alterações no próprio domínio. Uma mudança em um processo pode modificar o comportamento de uma equipe. Uma nova tecnologia pode alterar capacidades e dependências. Uma mudança de preço pode modificar o comportamento dos clientes. Uma alteração organizacional pode modificar responsabilidades e fluxos de trabalho.
+O comportamento também pode revelar relações que não seriam percebidas pela observação isolada dos elementos. Uma atividade pode depender de outra. Uma informação pode circular entre diferentes sistemas. Uma ação de um participante pode provocar uma resposta de outro.
 
-A realidade não é apenas aquilo que existe. É também aquilo que acontece quando seus elementos interagem.
+Assim, compreender o domínio exige passar da identificação dos elementos para a compreensão de como eles funcionam conjuntamente.
+
+Neste ponto, a análise ainda permanece em um nível estrutural. Estamos buscando compreender como o domínio é constituído e como funciona, antes de investigar as condições específicas, restrições e demais circunstâncias que podem afetar uma decisão particular.
 
 ## 2.6. Aplicação em gestão de projetos
 
