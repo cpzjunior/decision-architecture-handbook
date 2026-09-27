@@ -56,29 +56,39 @@ A partir dessa visão, torna-se possível estabelecer as fronteiras do domínio 
 
 ## 2.2. Estabelecendo as fronteiras do domínio
 
-Se a realidade é maior do que o problema, surge uma questão prática: até onde devemos considerar essa realidade?
+Compreender o domínio exige determinar até onde sua representação precisa se estender para que a decisão possa ser analisada adequadamente. Essa definição estabelece as fronteiras do domínio.
 
-Essa é a função das fronteiras do domínio.
+Delimitar o domínio significa estabelecer uma fronteira que permita raciocinar com clareza sobre a decisão, sem pressupor que aquilo que ficou fora deixou de existir ou deixou de ter qualquer relação com aquilo que está sendo analisado.
 
-Delimitar o domínio significa estabelecer uma fronteira que permita raciocinar com clareza sobre a decisão sem pressupor que aquilo que ficou fora deixou de existir.
+A fronteira não representa uma separação absoluta da realidade. Ela é uma construção para fins de análise. Seu propósito é definir quais elementos e relações precisam ser considerados para compreender a decisão sem transformar a análise em uma tentativa de representar tudo o que existe.
 
-A fronteira não representa uma separação absoluta da realidade. Ela é uma construção para fins de análise.
+No exemplo da abertura de contas, o domínio pode incluir o processo de cadastro, os sistemas envolvidos, as regras de validação, as equipes responsáveis e as integrações externas. Outros aspectos da instituição podem permanecer fora dessa fronteira porque não são necessários para a análise naquele momento.
 
-No exemplo da abertura de contas, podemos decidir que o domínio da análise inclui o processo de cadastro, os sistemas envolvidos, as regras de validação, as equipes responsáveis e as integrações externas. Podemos decidir que determinados aspectos corporativos mais distantes não precisam ser examinados naquele momento.
+Isso não significa que esses aspectos sejam permanentemente irrelevantes. Uma nova informação pode revelar uma relação importante, ou uma mudança na própria decisão pode exigir que a fronteira seja ampliada, reduzida ou redefinida.
 
-Essa decisão não significa que esses aspectos sejam irrelevantes para sempre. Significa apenas que não fazem parte da representação necessária para aquela análise específica.
+A fronteira, portanto, não é uma característica permanente do domínio. Ela está relacionada à decisão que está sendo analisada.
 
-A fronteira depende da decisão.
+Uma decisão para reduzir o tempo de abertura de contas pode exigir uma determinada fronteira. Uma decisão sobre a expansão internacional da instituição poderá exigir outra. Uma decisão sobre a substituição do sistema responsável pelo processo poderá exigir uma terceira.
 
-Uma análise de redução do tempo de abertura de contas pode exigir uma fronteira. Uma análise sobre expansão internacional da instituição exigirá outra. Uma decisão sobre substituição do sistema responsável pelo processo poderá exigir outra ainda.
+Também pode acontecer de uma mesma decisão envolver mais de um domínio. Uma decisão de modernização de uma operação, por exemplo, pode atravessar simultaneamente os domínios tecnológico, operacional e organizacional. Cada domínio pode possuir elementos, regras, relações, capacidades e formas de funcionamento próprias, mas todos podem ser relevantes para a mesma decisão.
 
-Por isso, não existe um domínio universal para uma organização. Existe o domínio relevante para determinada decisão.
+Quando uma decisão atravessa múltiplos domínios, surge uma decisão adicional: manter esses domínios dentro de uma única decisão ou decompor a decisão em decisões relacionadas.
 
-Essa observação evita dois erros opostos.
+Essa escolha é, ela própria, uma decisão. Antes de decidir sobre o objeto original, pode ser necessário decidir como a própria decisão será estruturada. Podemos optar por tratar os domínios conjuntamente, preservando as relações entre eles, ou separá-los em decisões distintas, estabelecendo as relações e dependências entre essas decisões.
 
-O primeiro é delimitar o domínio de maneira excessivamente estreita e ignorar elementos capazes de alterar a decisão. O segundo é tentar incluir tudo, produzindo uma representação tão ampla que o raciocínio se torna impraticável.
+Surge, assim, um ciclo de decisões. Uma decisão pode gerar a necessidade de outra decisão para definir sua estrutura, seus domínios ou sua decomposição. A decisão sobre a estrutura pode, por sua vez, alterar a forma como a decisão original será analisada e tomada.
 
-A boa delimitação encontra uma fronteira suficiente para que os elementos relevantes sejam considerados sem transformar a análise em uma tentativa de reproduzir toda a realidade.
+Esse ciclo não é necessariamente um problema. Ele faz parte da natureza de decisões complexas. A arquitetura da decisão precisa reconhecer quando uma decisão sobre o próprio processo decisório é necessária e incorporá-la à análise.
+
+A escolha entre integrar ou decompor também pode ser influenciada pela cultura dos domínios envolvidos. Formas de trabalho, estruturas de autoridade, especializações profissionais, incentivos e padrões históricos de colaboração podem favorecer decisões integradas ou estimular sua separação.
+
+Isso significa que a forma como uma organização estrutura suas decisões pode ser influenciada pelo próprio domínio no qual essas decisões acontecem. A maneira de dividir responsabilidades, organizar áreas e estabelecer relações entre especialistas pode determinar quais decisões são tratadas conjuntamente e quais são separadas.
+
+Dois erros são especialmente comuns. O primeiro é delimitar o domínio de maneira excessivamente estreita e excluir elementos capazes de alterar a decisão. O segundo é tentar incluir tudo em uma única análise, produzindo uma representação tão ampla que as relações relevantes se tornam difíceis de identificar.
+
+A boa delimitação estabelece uma fronteira suficiente para compreender a decisão, preservando as relações relevantes com outros domínios e permitindo que a decisão seja integrada ou decomposta de maneira consciente.
+
+Com as fronteiras estabelecidas, torna-se possível identificar os elementos que compõem cada domínio e compreender suas características.
 
 ## 2.3. Identificando os elementos do domínio
 
