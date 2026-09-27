@@ -88,18 +88,28 @@ Uma decisão deve, portanto, ser analisada não apenas pelo resultado produzido,
 
 Uma decisão modifica a situação seguinte. A execução produz informação, as consequências revelam efeitos esperados e inesperados e novas condições podem exigir ajustes de direção.
 
-Neste guia, evolução significa mudança de estado ao longo do tempo. Não implica necessariamente melhoria. Um sistema pode evoluir para uma situação mais adequada aos seus objetivos, mas também pode acumular restrições, dependências, custos ou problemas que dificultem mudanças posteriores.
+Neste guia, evolução significa mudança de estado ao longo do tempo. Não implica necessariamente melhoria. Um sistema pode se aproximar de seus objetivos, mas também pode acumular restrições, dependências, custos ou problemas que dificultem mudanças posteriores.
 
 Planejamento, execução, observação e aprendizado fazem parte dessa dinâmica. Uma decisão pode ser mantida, revista ou substituída conforme surgem novos dados. Modelos como PDCA e OODA representam diferentes formas de organizar ciclos desse tipo. Não são modelos de Arquitetura de Decisão, mas ajudam a ilustrar a relação entre ação, observação, aprendizado e mudança.
 
-Quando esse processo se repete, escolhas anteriores passam a influenciar as seguintes. Elas geram dependências, compromissos, restrições e aprendizados que se incorporam ao contexto das decisões posteriores.
+Quando esse processo se repete, escolhas anteriores passam a influenciar as seguintes. Elas geram dependências, compromissos, restrições e aprendizados que passam a fazer parte das condições das próximas escolhas.
 
-É nesse sentido que uma arquitetura pode ser compreendida como uma estrutura que também resulta das decisões acumuladas ao longo da evolução de um sistema.
+É nesse sentido que uma arquitetura também pode ser compreendida como resultado das decisões acumuladas ao longo da evolução de um sistema.
 
-Os seis fundamentos descrevem dimensões relacionadas de uma decisão: ela ocorre dentro de um ou mais domínios, parte de um contexto inicial, é orientada por objetivos, envolve incerteza, modifica o espaço de possibilidades e produz efeitos que passam a integrar a evolução do sistema.
+## 1.7. Como os fundamentos se relacionam
 
-Eles não constituem um processo obrigatório. Uma decisão pode ser analisada a partir dessas dimensões sem pressupor que exista uma sequência única ou um método universal para tratá-la.
+Os seis fundamentos descrevem dimensões complementares de uma decisão. Juntos, permitem compreender sua estrutura sem transformá-la em um processo obrigatório.
 
-Essa estrutura pode ser observada em diferentes domínios sem pressupor que sejam equivalentes. Na arquitetura de soluções, na gestão de projetos, no empreendedorismo e em decisões profissionais ou pessoais, os fundamentos assumem formas próprias conforme os problemas, conhecimentos e condições envolvidos.
+A decisão ocorre em um domínio e parte de um contexto. É orientada por objetivos e envolve algum grau de incerteza. A escolha modifica o espaço de possibilidades e produz efeitos que influenciam o que poderá ser decidido posteriormente.
+
+Essas relações formam uma dinâmica contínua. Mudanças no contexto podem alterar os objetivos, novas informações podem reduzir incertezas, consequências podem revelar problemas ou oportunidades e escolhas anteriores podem restringir ou ampliar alternativas futuras.
+
+Essa dinâmica produz uma necessidade prática: preservar a capacidade de compreender decisões anteriores. Quando uma escolha continua produzindo efeitos ao longo do tempo, é necessário saber o que foi decidido, por que, com base em quais informações e sob quais condições.
+
+Por isso, decisões relevantes precisam ser rastreáveis. O nível de registro deve ser proporcional à importância da decisão e suficiente para recuperar os elementos necessários à sua compreensão. Objetivos, alternativas consideradas, evidências, premissas, restrições, trade-offs e consequências esperadas podem fazer parte desse registro.
+
+A rastreabilidade não exige um formato específico. Um Architecture Decision Record, uma ata, um documento de projeto, um registro de experimento ou outro artefato pode cumprir essa função. O importante é preservar a relação entre a escolha, suas justificativas e as condições em que ela foi tomada.
+
+Assim, os fundamentos estabelecem uma base comum para analisar decisões em diferentes domínios, sem pressupor que seus métodos ou práticas sejam equivalentes. A partir deles, os próximos capítulos aprofundam como compreender o contexto, delimitar problemas e objetivos, explorar alternativas e incertezas, materializar escolhas, observar resultados e orientar os próximos ciclos.
 
 A partir dessa base, podemos examinar os elementos que compõem uma decisão e compreender como eles se relacionam, variam conforme o domínio e assumem formas diferentes em cada situação.
