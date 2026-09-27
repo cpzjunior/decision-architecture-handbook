@@ -22,7 +22,7 @@ This is an open and evolving project, developed in this repository as concepts, 
 ## Index
 
 1. [Foundations of Decision Architecture](./01-foundations-of-decision-architecture/en.md)
-2. (Work in Progress)
+2. (Work in progress)
 
 ## License
 
