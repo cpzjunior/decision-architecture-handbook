@@ -152,7 +152,7 @@ O objetivo não é encontrar uma alternativa universalmente melhor. É compreend
 
 ## 1.6. Toda decisão participa de um processo de evolução
 
-Uma decisão modifica a situação seguinte. A execução produz informação, as consequências revelam efeitos esperados e inesperados e novas condições podem exigir ajustes de direção.
+Uma decisão modifica a situação seguinte. As consequências produzidas pela decisão passam a fazer parte dessa nova situação, enquanto a execução produz informação, revela efeitos esperados e inesperados e pode criar novas condições que exigem ajustes de direção.
 
 Neste guia, evolução significa mudança de estado ao longo do tempo. Não implica necessariamente melhoria.
 
@@ -166,7 +166,7 @@ Quando esse processo se repete, escolhas anteriores passam a influenciar as segu
 
 Essa acumulação também aparece na arquitetura de sistemas. A arquitetura atual pode ser vista como resultado de muitas decisões tomadas ao longo do tempo, algumas deliberadas, outras condicionadas pelas circunstâncias existentes.
 
-Uma decisão arquitetural, por exemplo, pode introduzir uma tecnologia. Depois, essa tecnologia passa a influenciar a contratação de profissionais, a escolha de ferramentas, os custos operacionais e as decisões de integração. Uma decisão inicial, portanto, participa da formação do contexto de decisões posteriores.
+Uma decisão arquitetural, por exemplo, pode introduzir uma tecnologia. Depois, essa tecnologia passa a influenciar a contratação de profissionais, a escolha de ferramentas, os custos operacionais e as decisões de integração. Uma decisão inicial, portanto, participa da formação das condições para decisões posteriores.
 
 Isso significa que uma decisão não deve ser analisada apenas pelo estado existente no momento em que é tomada. Também precisamos considerar os efeitos que produz sobre a evolução e o conhecimento que gera para decisões futuras.
 
@@ -184,15 +184,15 @@ A rastreabilidade surge como uma forma de preservar esse conhecimento, mas ela n
 
 Os seis fundamentos não devem ser interpretados como seis assuntos independentes. Eles descrevem dimensões diferentes de uma mesma estrutura de decisão.
 
-Uma decisão ocorre em um domínio, mas esse domínio sempre se manifesta dentro de um contexto específico. O contexto define condições que influenciam aquilo que pode ser feito. Dentro dessas condições, existem objetivos que orientam a escolha. Como o futuro não é completamente conhecido, existe incerteza. As alternativas disponíveis produzem consequências diferentes e modificam o espaço de possibilidades. Essas consequências passam a fazer parte da evolução e influenciam decisões posteriores.
+Uma decisão ocorre em um domínio, mas esse domínio sempre se manifesta dentro de um contexto específico. O contexto define condições que influenciam aquilo que pode ser feito. Dentro dessas condições, existem objetivos que orientam a escolha. Como o futuro não é completamente conhecido, existe incerteza. A decisão produz consequências diretas e indiretas, que podem afetar pessoas, recursos, sistemas e as condições para decisões futuras. Essas consequências passam a fazer parte da evolução e influenciam decisões posteriores.
 
 Assim, podemos visualizar a estrutura de forma encadeada:
 
-Domínio → contexto → objetivos → incerteza → possibilidades → evolução
+Domínio → contexto → objetivos → incerteza → consequências → evolução
 
 Esse encadeamento não representa uma sequência de etapas. Uma mudança em qualquer dimensão pode afetar as demais.
 
-Uma nova informação sobre o domínio pode alterar nossa compreensão do contexto. Uma mudança no contexto pode tornar um objetivo inviável ou revelar outro mais importante. Um objetivo diferente pode mudar quais alternativas são consideradas. Uma nova evidência pode reduzir uma incerteza. Uma decisão pode eliminar uma alternativa futura ou criar uma nova possibilidade. Um resultado inesperado pode alterar novamente o contexto.
+Uma nova informação sobre o domínio pode alterar nossa compreensão do contexto. Uma mudança no contexto pode tornar um objetivo inviável ou revelar outro mais importante. Um objetivo diferente pode mudar quais alternativas são consideradas. Uma nova evidência pode reduzir uma incerteza. Uma decisão pode produzir consequências que eliminam uma alternativa futura ou criam uma nova possibilidade. Um resultado inesperado pode alterar novamente o contexto.
 
 A decisão, portanto, não acontece dentro de uma estrutura estática. Ela acontece dentro de uma estrutura que se modifica enquanto aprendemos, escolhemos e agimos.
 
@@ -210,7 +210,7 @@ Os objetivos produzem a necessidade de critérios de avaliação. Requisitos, m�
 
 A incerteza produz a necessidade de tratar aquilo que ainda não conhecemos. Nesse caso, podemos utilizar análise de riscos, formulação de hipóteses, experimentação, prototipação, pesquisa, cenários ou outras práticas de investigação. Lean Startup utiliza experimentação e aprendizado para testar hipóteses. Design Thinking utiliza investigação, ideação, prototipação e teste para aprender sobre necessidades e possíveis soluções. Práticas de gestão de riscos tratam eventos incertos e suas possíveis consequências.
 
-O espaço de possibilidades produz a necessidade de analisar alternativas e consequências. Nesse caso aparecem práticas como análise de cenários, comparação de opções, identificação de trade-offs, análise de reversibilidade e registro de decisões. Em arquitetura de software, ADRs podem registrar alternativas consideradas, decisões tomadas e suas justificativas. Em planejamento, diferentes opções de execução podem ser comparadas de acordo com seus impactos, custos, riscos e compromissos.
+As consequências produzem a necessidade de analisar seus efeitos e tratar aqueles que precisam ser considerados pela decisão. Isso inclui compreender impactos diretos e indiretos, identificar quem pode ser afetado, comunicar mudanças relevantes, coordenar ações decorrentes e avaliar como a decisão modifica as condições para escolhas futuras. Nesse ponto aparecem práticas como análise de cenários, comparação de alternativas, identificação de trade-offs, análise de reversibilidade, avaliação de dependências, comunicação e coordenação. Em planejamento, diferentes opções de execução podem ser comparadas de acordo com seus impactos, custos, riscos e compromissos.
 
 A evolução produz a necessidade de observar resultados, aprender e preservar conhecimento. Scrum incorpora inspeção e adaptação. Lean Startup estrutura ciclos de construção, medição e aprendizado. Retrospectivas permitem examinar a experiência de um ciclo e ajustar o seguinte. ADRs preservam conhecimento sobre decisões que continuam influenciando a evolução da arquitetura. Outros métodos e práticas utilizam mecanismos diferentes para atender à mesma necessidade fundamental.
 
@@ -223,10 +223,6 @@ O mesmo vale para as práticas de arquitetura. Uma decisão arquitetural precisa
 Por isso, o framework não precisa ser o ponto de partida. Ele pode ser uma resposta a uma necessidade que já foi identificada.
 
 Essa inversão é importante. Em vez de perguntar primeiro “qual framework devemos usar?”, podemos começar perguntando: “qual decisão estamos tentando conduzir?”, “quais características dessa decisão precisam ser tratadas?”, “quais necessidades surgem dessas características?” e, somente então, “quais práticas ou frameworks podem nos ajudar?”.
-
-Esse raciocínio também ajuda a compreender o que significa adaptar uma prática à realidade. Adaptar não é simplesmente escolher quais partes de um framework serão ignoradas. É verificar se as premissas, objetivos, restrições, condições e necessidades que justificam determinada prática estão presentes na situação atual.
-
-Uma prática pode ser adequada em uma situação e inadequada em outra sem que exista contradição. O que muda é o contexto, a necessidade ou o grau de importância daquela prática para a decisão.
 
 Os fundamentos, portanto, não procuram substituir DDD, TOGAF, arc42, Scrum, PMBOK, Lean Startup, Design Thinking, ADR ou outros métodos. Eles oferecem uma forma de enxergar o que essas abordagens estão tentando tratar e de reconhecer que diferentes disciplinas podem desenvolver respostas distintas para necessidades estruturalmente relacionadas.
 
