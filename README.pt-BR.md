@@ -19,6 +19,11 @@ O contexto muda, as ferramentas mudam e as decisões evoluem. A estrutura que pe
 
 Este é um projeto aberto e evolutivo, desenvolvido neste repositório à medida que conceitos, exemplos e aprendizados são incorporados.
 
+## Índice
+
+1. [Fundamentos da Arquitetura de Decisão](./01-foundations-of-decision-architecture/pt-BR.md)
+2. (Trabalho em andamento)
+
 ## Licença
 
 Este repositório é licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
