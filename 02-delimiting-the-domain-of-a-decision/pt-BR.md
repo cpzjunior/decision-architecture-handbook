@@ -28,33 +28,31 @@ Essa compreensão começa pela própria realidade que deu origem à decisão. O 
 
 É esse processo que este capítulo desenvolve.
 
-## 2.1. A realidade é maior que o problema
+## 2.1. Mapeando o ecossistema
 
-Uma decisão frequentemente começa com um problema.
+Toda decisão está inserida em uma realidade mais ampla do que aquilo que está diretamente sendo decidido. Essa realidade é formada por diferentes elementos que coexistem, se relacionam e influenciam uns aos outros.
 
-Um sistema está lento. Um projeto está atrasado. Os custos aumentaram. Os clientes estão abandonando um serviço. Uma equipe não consegue entregar o que foi planejado. Uma empresa está perdendo participação de mercado.
+Podemos compreender essa realidade como um ecossistema.
 
-O problema percebido, porém, raramente representa toda a realidade relevante para a decisão.
+Uma organização, por exemplo, não existe isoladamente. Ela se relaciona com clientes, fornecedores, parceiros, concorrentes, órgãos reguladores, tecnologias, profissionais, processos, mercados e diversos outros elementos. Uma mudança em uma parte desse ecossistema pode alterar as condições de outras partes, ainda que essa relação não seja imediatamente evidente.
 
-Considere uma instituição financeira que identifica um aumento no tempo necessário para abrir uma conta. O problema pode ser descrito como uma deficiência no processo de abertura de contas. A partir dessa definição, seria possível iniciar imediatamente uma análise do processo, identificar etapas demoradas e procurar formas de reduzi-las.
+O mesmo acontece em uma decisão tecnológica. Uma solução não existe apenas como um conjunto de componentes técnicos. Ela está relacionada aos sistemas existentes, aos processos da organização, às pessoas que a utilizam ou operam, às informações que circulam por ela, às regras que precisa atender, às capacidades disponíveis e às restrições que condicionam sua implementação e operação.
 
-Mas a realidade pode ser muito maior.
+Por isso, compreender o domínio de uma decisão começa pela identificação do ecossistema no qual ela está inserida. O objetivo não é representar tudo o que existe, mas reconhecer os elementos e as relações que podem ser relevantes para aquilo que está sendo analisado.
 
-O processo pode depender de sistemas internos, regras regulatórias, mecanismos de prevenção a fraude, análise de documentos, integração com serviços externos, políticas comerciais, disponibilidade de equipes, treinamento dos funcionários e comportamento dos clientes. Uma alteração em uma dessas partes pode afetar o tempo de abertura da conta.
+O ecossistema, portanto, funciona como uma referência mais ampla para compreender o domínio. Nem tudo que pertence ao ecossistema fará parte do domínio de uma decisão específica. O que pertence ao domínio depende do recorte necessário para compreender adequadamente aquela decisão.
 
-Se a análise considerar apenas o processo que aparece diretamente para quem identificou o problema, parte importante da realidade ficará invisível.
+Esse recorte não deve ser feito apenas pela proximidade aparente com o objeto da decisão. Um elemento que parece externo pode exercer influência importante sobre aquilo que está sendo analisado. Da mesma forma, elementos que fazem parte do ecossistema podem não precisar ser considerados quando não possuem relação relevante com a decisão.
 
-Isso não significa que seja necessário compreender absolutamente tudo. Uma decisão não exige uma representação completa da realidade. Exige uma representação suficientemente adequada da parte da realidade que é relevante para ela.
+Considere, por exemplo, uma empresa que pretende modificar seu processo de contratação de profissionais. O ecossistema pode envolver candidatos, gestores, equipe de recursos humanos, fornecedores de tecnologia, legislação trabalhista, mercado de trabalho, sistemas internos, políticas organizacionais e condições econômicas. Dependendo da decisão, diferentes partes desse ecossistema poderão ser relevantes para a análise.
 
-O objetivo de compreender o domínio não é construir uma descrição exaustiva do mundo. É identificar aquilo que precisa ser conhecido para que a decisão possa ser analisada sem depender de pressupostos que não foram examinados.
+Mapear o ecossistema permite enxergar essas relações antes de estabelecer uma fronteira para o domínio. Sem essa visão mais ampla, existe o risco de definir o domínio prematuramente e excluir elementos que poderiam alterar a compreensão da decisão.
 
-A realidade é sempre maior do que o problema que conseguimos observar inicialmente. O problema é uma interpretação da realidade a partir de algum objetivo, percepção ou condição. O domínio precisa ir além dessa primeira interpretação para permitir que a própria definição do problema seja questionada quando necessário.
+O mapeamento também não precisa ser definitivo. À medida que a análise avança, novas relações podem ser descobertas e elementos antes considerados irrelevantes podem se tornar importantes. O próprio domínio pode precisar ser ampliado, reduzido ou reorganizado.
 
-Uma empresa pode acreditar que precisa substituir um sistema porque o sistema é antigo. Depois de compreender o domínio, pode descobrir que a dificuldade real está em um processo específico, em uma limitação de integração ou em uma regra de negócio que poderia ser modificada sem substituir o sistema inteiro.
+Assim, mapear o ecossistema não significa tentar compreender toda a realidade. Significa criar uma visão inicial suficientemente ampla para identificar onde a decisão está inserida e quais partes dessa realidade merecem ser investigadas.
 
-O problema inicial não estava necessariamente errado. Ele era uma interpretação parcial da realidade.
-
-Compreender o domínio permite identificar quando uma decisão está sendo construída sobre uma definição estreita demais do problema.
+A partir dessa visão, torna-se possível estabelecer as fronteiras do domínio e determinar quais elementos do ecossistema precisam fazer parte da análise.
 
 ## 2.2. Estabelecendo as fronteiras do domínio
 
