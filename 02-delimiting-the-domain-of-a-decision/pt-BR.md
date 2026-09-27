@@ -6,15 +6,13 @@ Uma decisão possui dificuldade semelhante. Ela não acontece no vazio. Toda dec
 
 Essa distinção é frequentemente ignorada na prática. É comum iniciar uma iniciativa definindo o objetivo, o problema, o requisito ou a solução desejada e somente depois investigar o contexto no qual essas definições foram formuladas. O problema é que o objetivo já contém uma hipótese sobre o que importa.
 
-Começar pelo objetivo é, em certo sentido, começar na metade.
-
-Um objetivo é uma proposição sobre uma realidade. Pretende alterar alguma coisa, preservar determinada condição, resolver uma situação ou alcançar um estado desejado. Para avaliar se essa proposição faz sentido, precisamos conhecer aquilo sobre o qual ela incide.
+Começar pelo objetivo é, em certo sentido, começar na metade. Um objetivo é uma proposição sobre uma realidade. Pretende alterar alguma coisa, preservar determinada condição, resolver uma situação ou alcançar um estado desejado. Para avaliar se essa proposição faz sentido, precisamos conhecer aquilo sobre o qual ela incide.
 
 Considere uma instituição financeira que estabelece como objetivo reduzir o tempo necessário para abrir uma conta digital. A formulação parece clara. Podemos medir o tempo atual, definir uma meta, identificar gargalos e desenhar uma solução. Antes disso, porém, existe uma pergunta mais fundamental: o que exatamente está envolvido na abertura de uma conta?
 
 A resposta não se limita à tela apresentada ao cliente. Existem requisitos regulatórios, mecanismos de identificação, validações de documentos, prevenção a fraude, sistemas legados, processos operacionais, responsabilidades de diferentes equipes, tratamento de exceções, dados e segurança. O tempo de abertura é apenas uma característica observável desse conjunto.
 
-Talvez os dez minutos observados sejam consequência de uma etapa necessária para cumprir determinada regra. Talvez o maior problema esteja em uma validação posterior. Talvez reduzir o tempo aumente um risco que, naquele domínio, tenha consequências mais relevantes. Talvez o objetivo continue válido, mas precise ser reformulado diante dessas condições.
+Os dez minutos observados podem ser consequência de uma etapa necessária para cumprir determinada regra. O problema pode estar em uma validação posterior, e não na abertura em si. A redução do tempo pode aumentar um risco que, naquele domínio, possui consequências mais relevantes. O objetivo inicialmente formulado pode continuar válido, mas precisar ser reformulado diante dessas condições.
 
 O domínio pode confirmar um objetivo, mas também pode reformulá-lo, restringi-lo ou mostrar que ele não faz sentido.
 
