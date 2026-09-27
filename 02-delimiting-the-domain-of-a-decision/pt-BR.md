@@ -126,47 +126,37 @@ O biólogo pode passar pela mesma situação ao observar uma espécie. Um organi
 
 Nesse ponto, já temos uma visão mais estruturada do domínio: sabemos quais elementos fazem parte dele e como eles se relacionam em termos gerais. O próximo passo é caracterizar esses elementos, entendendo suas propriedades e seu papel dentro dessa estrutura.
 
-## 2.4. Compreendendo as características
+## 2.4. Compreendendo características e comportamentos
 
-Identificar os elementos que fazem parte do domínio não significa conhecê-los suficientemente. É necessário compreender também suas principais características.
+Identificar os elementos que fazem parte do domínio é apenas o primeiro nível de compreensão. É necessário reconhecer suas características e observar como eles atuam e se relacionam.
 
-Características são propriedades que ajudam a descrever cada elemento do domínio. Podem incluir sua natureza, função, capacidade, composição, estrutura, finalidade ou outras propriedades que permitam compreender o papel que desempenha dentro do domínio.
+O biólogo, ao estudar uma espécie, não se limita a identificar os indivíduos. Ele observa suas características, como estrutura, funções e capacidades, e também seu comportamento e suas relações com outros organismos. É essa combinação que permite compreender a espécie dentro do recorte estabelecido.
 
-Considere novamente o processo de abertura de contas. Identificar a existência de uma etapa de validação de identidade é apenas o primeiro nível de compreensão. É necessário reconhecer sua finalidade, os elementos envolvidos, as informações utilizadas, quem participa da atividade e como essa etapa se relaciona com o restante do processo.
+Na arquitetura de uma decisão, as características descrevem o que cada elemento é. Podem incluir sua natureza, função, capacidade, composição, estrutura, finalidade ou outras propriedades relevantes para sua participação no domínio.
 
-A mesma lógica se aplica aos demais elementos do domínio.
+Um sistema pode ser caracterizado por sua finalidade, seus principais componentes e as funções que oferece. Uma equipe pode ser descrita por sua composição, responsabilidades e capacidades. Um produto pode ser compreendido por suas características e funcionalidades. Uma organização pode ser representada por sua estrutura, áreas, processos e capacidades.
 
-Um sistema pode ser caracterizado por sua finalidade, seus principais componentes e as funções que oferece. Uma equipe pode ser compreendida por sua composição, responsabilidades e capacidades. Um produto pode ser descrito por suas características, funcionalidades e forma de utilização. Uma organização pode ser compreendida por sua estrutura, áreas, processos e capacidades.
+O nível de detalhamento deve ser suficiente para representar o domínio sem produzir uma descrição desnecessariamente extensa. Uma característica pode ser relevante para uma decisão e pouco importante para outra. O que importa é compreender as propriedades necessárias para distinguir os elementos e entender seu papel na realidade analisada.
 
-O objetivo, neste momento, não é investigar todas as propriedades possíveis de cada elemento. É construir uma compreensão básica de suas características mais relevantes para representar o domínio de maneira adequada.
+Essa visão, porém, ainda é incompleta. Os elementos não existem de forma isolada. Eles interagem, respondem a outros elementos e participam de diferentes fluxos dentro do domínio.
 
-Essa relevância depende daquilo que está sendo analisado. Uma característica pode ser importante para uma decisão e pouco relevante para outra. Por isso, compreender o domínio não significa produzir uma descrição completa de cada elemento, mas identificar as propriedades necessárias para que sua participação no domínio possa ser entendida.
+No processo de abertura de contas, por exemplo, uma etapa de validação pode utilizar um sistema, que pode trocar informações com uma integração externa. Uma equipe pode executar atividades sobre o processo. Um cliente pode fornecer informações que desencadeiam diferentes etapas do fluxo.
 
-Essa compreensão fornece a base para o próximo nível de análise: observar como esses elementos se comportam e se relacionam.
+Essas relações expressam comportamentos do domínio.
 
-## 2.5. Compreendendo os comportamentos
+Um processo pode seguir determinado fluxo quando recebe uma solicitação. Um sistema pode responder de determinada forma a uma entrada. Uma equipe pode executar atividades diferentes conforme o tipo de solicitação. Um cliente pode percorrer caminhos distintos dentro de um serviço.
 
-Os elementos de um domínio não existem de forma isolada. Eles interagem, respondem a mudanças e podem alterar seu comportamento em função de outros elementos.
+Compreender comportamentos significa reconhecer essas formas de interação e como os elementos funcionam conjuntamente. Uma representação que descreve apenas pessoas, processos e sistemas, por exemplo, não explica como esses elementos participam da operação. É necessário observar também as relações entre eles.
 
-Compreender o domínio exige, portanto, observar não apenas o que seus elementos são, mas também como eles atuam e se relacionam.
+O comportamento pode ainda revelar relações que não seriam percebidas pela observação isolada. Uma atividade pode depender de outra, uma informação pode circular entre diferentes sistemas ou uma ação de um participante pode provocar uma resposta de outro.
 
-No processo de abertura de contas, por exemplo, uma etapa de validação pode depender de um sistema, que por sua vez depende de uma integração externa. Uma equipe pode atuar sobre o processo e modificar sua execução. Um cliente pode fornecer informações que desencadeiam diferentes etapas do fluxo.
+Nesse ponto, a analogia com o biólogo volta a ser útil. Conhecer os organismos presentes em um ambiente não basta para compreender uma espécie. É necessário observar como esses organismos interagem e como essas relações fazem parte de seu funcionamento.
 
-Essas interações fazem parte do comportamento do domínio.
+A análise permanece, porém, em um nível estrutural. O objetivo é compreender o que compõe o domínio, quais são as características de seus elementos e como eles se relacionam em termos gerais. As condições específicas, restrições, limitações e demais circunstâncias que podem alterar esses comportamentos pertencem a uma análise posterior.
 
-Um processo pode seguir determinado fluxo quando uma solicitação é recebida. Um sistema pode responder a uma determinada entrada de uma forma específica. Uma equipe pode executar diferentes atividades em função do tipo de solicitação. Um cliente pode percorrer diferentes caminhos dentro de um serviço.
+Com isso, o domínio deixa de ser apenas um conjunto de elementos identificados e passa a ser uma representação estruturada da realidade na qual a decisão está inserida.
 
-Compreender comportamentos significa reconhecer essas formas de interação e as relações que existem entre os elementos. Não é necessário, neste momento, determinar todas as condições que fazem um comportamento mudar ou investigar profundamente as causas dessas mudanças. O objetivo é compreender como o domínio funciona em termos gerais.
-
-Essa distinção é importante porque uma representação composta apenas por elementos e características pode ser insuficiente. Saber que existem pessoas, processos e sistemas não explica como eles trabalham conjuntamente. É a compreensão das interações que permite enxergar o funcionamento do domínio como um sistema de elementos relacionados.
-
-O comportamento também pode revelar relações que não seriam percebidas pela observação isolada dos elementos. Uma atividade pode depender de outra. Uma informação pode circular entre diferentes sistemas. Uma ação de um participante pode provocar uma resposta de outro.
-
-Assim, compreender o domínio exige passar da identificação dos elementos para a compreensão de como eles funcionam conjuntamente.
-
-Neste ponto, a análise ainda permanece em um nível estrutural. Estamos buscando compreender como o domínio é constituído e como funciona, antes de investigar as condições específicas, restrições e demais circunstâncias que podem afetar uma decisão particular.
-
-## 2.6. Aplicação em gestão de projetos
+## 2.5. Aplicação em gestão de projetos
 
 Um projeto não existe isoladamente. Ele é uma intervenção realizada dentro de uma organização e de uma realidade que já possui processos, pessoas, sistemas, recursos, restrições, dependências e objetivos próprios.
 
@@ -182,7 +172,7 @@ A metodologia fornece uma forma de estruturar o trabalho. O domínio fornece a r
 
 Compreender o domínio permite identificar aquilo que o planejamento precisa considerar e, principalmente, aquilo que não pode ser tratado como uma simples premissa.
 
-## 2.7. Aplicação em arquitetura de soluções
+## 2.6. Aplicação em arquitetura de soluções
 
 Toda solução existe para produzir algum efeito em uma realidade.
 
@@ -198,7 +188,7 @@ O arquiteto precisa compreender processos, regras, capacidades, integrações, r
 
 A arquitetura da solução é, nesse sentido, uma intervenção sobre o domínio. Quanto melhor o domínio for compreendido, maior a possibilidade de que a solução responda à realidade que efetivamente precisa transformar.
 
-## 2.8. Aplicação em experiência do usuário
+## 2.7. Aplicação em experiência do usuário
 
 Uma experiência de usuário também existe dentro de uma realidade mais ampla.
 
@@ -216,7 +206,7 @@ O usuário é um elemento importante, mas não é necessariamente o único eleme
 
 Uma decisão orientada apenas pela experiência observada em um ponto da jornada pode produzir uma melhoria local e um problema em outra parte do domínio.
 
-## 2.9. Aplicação em empreendedorismo
+## 2.8. Aplicação em empreendedorismo
 
 No empreendedorismo, compreender o domínio significa compreender a realidade na qual uma oportunidade, um modelo de negócio ou uma nova empresa pretende existir.
 
@@ -232,7 +222,7 @@ Compreender o domínio permite distinguir aquilo que foi efetivamente observado 
 
 Também permite perceber quando uma oportunidade aparentemente atraente depende de condições que não existem ou que são muito diferentes daquelas inicialmente imaginadas.
 
-## 2.10. Aplicação em carreira profissional e vida pessoal
+## 2.9. Aplicação em carreira profissional e vida pessoal
 
 A mesma estrutura existe fora das organizações.
 
