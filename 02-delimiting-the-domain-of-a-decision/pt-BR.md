@@ -1,191 +1,245 @@
-# 2. Delimitando o Domínio de uma Decisão
+# 2. Compreendendo o Domínio de uma Decisão
 
-Imagine um pesquisador interessado em estudar uma determinada espécie. Ele pode começar observando o animal, mas dificilmente compreenderá seu comportamento olhando apenas para o indivíduo. Antes, precisa entender onde aquela espécie está inserida, quais condições existem naquele ambiente, quais outros organismos participam dele e quais relações podem afetar seu comportamento. Só então as características observadas passam a ter significado.
+Compreender o domínio é estabelecer o terreno sobre o qual a decisão será construída.
 
-Uma decisão possui dificuldade semelhante. Ela não acontece no vazio. Toda decisão está inserida em uma realidade que possui conceitos, elementos, regras, atores, relações, restrições e comportamentos próprios. Chamamos essa realidade de domínio.
+Uma decisão não acontece apenas entre alternativas. Ela acontece dentro de uma realidade que possui elementos, características, relações e comportamentos próprios. Essa realidade é maior do que o problema inicialmente percebido e precisa ser compreendida antes que seja possível determinar o que realmente deve ser considerado na decisão.
 
-Essa distinção é frequentemente ignorada na prática. É comum iniciar uma iniciativa definindo o objetivo, o problema, o requisito ou a solução desejada e somente depois investigar a realidade na qual essas definições foram formuladas. O problema é que o objetivo já contém uma hipótese sobre o que importa.
+O domínio representa essa realidade em uma perspectiva mais macro. O contexto aproxima a análise das condições específicas nas quais uma determinada decisão está sendo considerada. O domínio envolve a estrutura mais ampla da realidade relevante para a decisão, enquanto o contexto concentra as condições particulares que tornam aquela decisão concreta.
 
-Começar pelo objetivo é, em certo sentido, começar na metade. Um objetivo é uma proposição sobre uma realidade. Pretende alterar alguma coisa, preservar determinada condição, resolver uma situação ou alcançar um estado desejado. Para avaliar se essa proposição faz sentido, precisamos conhecer aquilo sobre o qual ela incide.
+Essa diferença também ajuda a compreender por que determinadas decisões são inadequadas mesmo quando o profissional que as toma conhece profundamente sua área de atuação.
 
-Considere uma instituição financeira que estabelece como objetivo reduzir o tempo necessário para abrir uma conta digital. A formulação parece clara. Podemos medir o tempo atual, definir uma meta, identificar gargalos e desenhar uma solução. Antes disso, porém, existe uma pergunta mais fundamental: o que exatamente está envolvido na abertura de uma conta?
+Um profissional pode conhecer uma metodologia, dominar suas práticas e aplicar corretamente suas regras. Ainda assim, pode tomar uma decisão inadequada quando aplica esse conhecimento sem considerar a realidade específica na qual está atuando.
 
-A resposta não se limita à tela apresentada ao cliente. Existem requisitos regulatórios, mecanismos de identificação, validações de documentos, prevenção a fraude, sistemas legados, processos operacionais, responsabilidades de diferentes equipes, tratamento de exceções, dados e segurança. O tempo de abertura é apenas uma característica observável desse conjunto.
+É o comportamento do profissional que trabalha “by the book”. Ele conhece o que deve ser feito segundo determinada metodologia e procura seguir suas regras, mas trata essas regras como suficientes para orientar a decisão, independentemente da realidade sobre a qual elas serão aplicadas.
 
-Os dez minutos observados podem ser consequência de uma etapa necessária para cumprir determinada regra. O problema pode estar em uma validação posterior, e não na abertura em si. A redução do tempo pode aumentar um risco que, naquele domínio, possui consequências mais relevantes. O objetivo inicialmente formulado pode continuar válido, mas precisar ser reformulado diante dessas condições.
+O problema não está necessariamente na metodologia ou em suas regras. Está em aplicar conhecimento geral sem considerar suficientemente a realidade particular na qual ele precisa produzir resultado.
 
-O domínio pode confirmar um objetivo, mas também pode reformulá-lo, restringi-lo ou mostrar que ele não faz sentido.
+Uma metodologia de gestão de projetos pode estabelecer práticas para planejar, acompanhar e controlar um projeto. Ela não conhece, por si só, a cultura da organização, seus processos, suas capacidades, suas relações internas, suas restrições ou suas dependências.
 
-É por isso que sua precedência é conceitual, e não necessariamente operacional. Um método pode começar perguntando pelo objetivo, pelo problema ou pelo resultado esperado. Isso significa apenas que alguma compreensão do domínio foi assumida ou será construída ao longo do processo. Não altera a relação de dependência entre os conceitos.
+Uma prática de arquitetura de soluções pode orientar a construção de uma solução. Ela não conhece automaticamente o modelo de negócio, os processos, as regras, as capacidades ou as limitações tecnológicas da organização.
 
-Antes de decidir o que queremos mudar, precisamos saber sobre o que estamos decidindo.
+Uma técnica de empreendedorismo pode orientar a investigação de uma oportunidade. Ela não conhece o mercado, os clientes, os concorrentes ou as características da operação que está sendo construída.
 
-A partir desse fundamento, podemos propor alguns elementos fundamentais para a delimitação de um domínio. Precisamos compreender a realidade mais ampla na qual ele está inserido, estabelecer suas fronteiras, identificar seus elementos, compreender suas características, observar seus comportamentos e entender como essas partes se relacionam.
+Em todos esses casos, existe conhecimento profissional suficiente para aplicar uma prática, mas isso não significa que a prática esteja sendo aplicada de acordo com a realidade na qual deverá produzir resultado.
 
-Assim como no capítulo anterior, esses elementos não constituem etapas obrigatórias de um processo. São dimensões fundamentais de observação. Uma decisão pode exigir maior profundidade em algumas delas e menor em outras. A ordem utilizada aqui serve para organizar o raciocínio, não para determinar uma sequência universal de investigação.
+Compreender o domínio é o que permite estabelecer essa relação entre conhecimento e realidade. Antes de aplicar uma prática, é necessário compreender a realidade na qual a decisão existe, identificar os elementos relevantes, reconhecer suas características e entender como eles se comportam e se relacionam.
 
-## 2.1. Identificando o ecossistema do domínio
+O domínio não é permanente. Mercados mudam, organizações se transformam, tecnologias evoluem e processos são modificados. A diferença em relação ao contexto está no nível de representação. O domínio procura compreender a realidade relevante em uma perspectiva mais ampla e estrutural. O contexto representa as condições específicas dessa realidade que são relevantes para uma decisão particular.
 
-Um domínio não existe isoladamente. Ele está inserido em uma realidade mais ampla que pode influenciar suas condições, seus comportamentos e as consequências das decisões tomadas dentro dele.
+Em uma organização, por exemplo, podem fazer parte do domínio o mercado em que ela atua, seu modelo de negócio, sua estrutura, seus processos, seus produtos, seus sistemas, suas capacidades, suas regras e suas relações. O contexto de uma decisão pode envolver uma mudança específica no mercado, uma restrição orçamentária, uma alteração regulatória, uma oportunidade, uma crise operacional ou uma prioridade estratégica.
 
-Podemos usar o conceito de ecossistema como uma analogia para essa visão macro. O domínio não é o ecossistema e não deve ser confundido com ele. O ecossistema representa a realidade mais ampla na qual o domínio está inserido.
+Compreender o domínio não significa tentar representar toda a realidade. Significa construir uma compreensão suficientemente adequada da realidade relevante para que a decisão não dependa de pressupostos que nunca foram examinados.
 
-Essa realidade pode ser observada em diferentes níveis. Dependendo da decisão, pode ser necessário compreender o cenário macroeconômico, o mercado, a dinâmica do setor, a organização, sua estratégia e, finalmente, o domínio diretamente relacionado à decisão.
+É a partir dessa perspectiva que podemos analisar como um domínio é delimitado, quais elementos o constituem, quais características precisam ser compreendidas e como seus elementos se comportam.
 
-Esses níveis não precisam ser investigados com a mesma profundidade. O que importa é identificar quais condições externas podem alterar o significado da decisão.
+## 2.1. A realidade é maior que o problema
 
-Uma instituição financeira que pretende reduzir o tempo de abertura de uma conta digital, por exemplo, não está necessariamente diante de um problema puramente operacional. O comportamento dos clientes pode estar relacionado às condições econômicas. A pressão por uma experiência mais rápida pode estar relacionada à concorrência. Uma mudança tecnológica pode alterar as expectativas do mercado. Uma alteração regulatória pode modificar as condições de operação. A estratégia da instituição pode determinar quais segmentos de clientes são prioritários.
+Uma decisão frequentemente começa com um problema.
 
-Nenhuma dessas dimensões precisa necessariamente fazer parte do domínio da abertura de contas. Elas podem pertencer a realidades mais amplas que condicionam esse domínio.
+Um sistema está lento. Um projeto está atrasado. Os custos aumentaram. Os clientes estão abandonando um serviço. Uma equipe não consegue entregar o que foi planejado. Uma empresa está perdendo participação de mercado.
 
-A mesma lógica aparece em decisões de empreendedorismo. Antes de criar um produto, é necessário compreender o mercado no qual ele pretende existir. Antes de avaliar uma oportunidade, precisamos entender as condições que fazem dela uma oportunidade. Antes de interpretar uma dificuldade interna como um problema de negócio, precisamos saber se ela é causada pela própria organização ou por condições externas.
+O problema percebido, porém, raramente representa toda a realidade relevante para a decisão.
 
-O mesmo ocorre em decisões pessoais. Escolher uma carreira envolve mais do que conhecer uma profissão. Estudar um novo campo envolve mais do que conhecer seus conceitos. Começar um hobby envolve compreender não apenas a atividade, mas também os recursos, comunidades, práticas e condições que a cercam.
+Considere uma instituição financeira que identifica um aumento no tempo necessário para abrir uma conta. O problema pode ser descrito como uma deficiência no processo de abertura de contas. A partir dessa definição, seria possível iniciar imediatamente uma análise do processo, identificar etapas demoradas e procurar formas de reduzi-las.
 
-O pesquisador que estuda uma espécie não precisa conhecer todo o ecossistema em profundidade, mas precisa saber o suficiente para entender onde o organismo está inserido. Sem essa visão, pode atribuir ao animal um comportamento que, na verdade, é consequência do ambiente.
+Mas a realidade pode ser muito maior.
 
-Na arquitetura de decisões, a necessidade é semelhante: compreender o cenário suficiente para não confundir o primeiro objeto encontrado com a realidade relevante para a decisão.
+O processo pode depender de sistemas internos, regras regulatórias, mecanismos de prevenção a fraude, análise de documentos, integração com serviços externos, políticas comerciais, disponibilidade de equipes, treinamento dos funcionários e comportamento dos clientes. Uma alteração em uma dessas partes pode afetar o tempo de abertura da conta.
 
-Essa distinção também ajuda a separar conceitos próximos. O ecossistema representa a realidade mais ampla. O domínio define a realidade ou esfera de conhecimento na qual a decisão está inserida e que pode ser afetada por ela. O escopo define qual parte dessa realidade estamos considerando. O contexto descreve as condições atuais sob as quais essa realidade está sendo observada.
+Se a análise considerar apenas o processo que aparece diretamente para quem identificou o problema, parte importante da realidade ficará invisível.
 
-## 2.2. Delimitando um ou mais domínios
+Isso não significa que seja necessário compreender absolutamente tudo. Uma decisão não exige uma representação completa da realidade. Exige uma representação suficientemente adequada da parte da realidade que é relevante para ela.
 
-Depois de compreender a realidade mais ampla, precisamos estabelecer quais partes dela serão tratadas como domínio ou domínios da decisão.
+O objetivo de compreender o domínio não é construir uma descrição exaustiva do mundo. É identificar aquilo que precisa ser conhecido para que a decisão possa ser analisada sem depender de pressupostos que não foram examinados.
 
-Essa fronteira não é necessariamente única. Uma decisão pode envolver um domínio ou atravessar vários. Da mesma forma, aquilo que inicialmente parece uma única decisão pode precisar ser dividido em decisões relacionadas, enquanto preocupações aparentemente distintas podem exigir tratamento conjunto.
+A realidade é sempre maior do que o problema que conseguimos observar inicialmente. O problema é uma interpretação da realidade a partir de algum objetivo, percepção ou condição. O domínio precisa ir além dessa primeira interpretação para permitir que a própria definição do problema seja questionada quando necessário.
 
-Na abertura de uma conta digital, podemos tratar o onboarding como uma única decisão. Também podemos separar decisões relacionadas à identificação do cliente, prevenção a fraude, aprovação da conta, experiência e operação. A escolha depende das relações entre essas preocupações, das responsabilidades envolvidas, das regras aplicáveis e do grau de autonomia de cada uma.
+Uma empresa pode acreditar que precisa substituir um sistema porque o sistema é antigo. Depois de compreender o domínio, pode descobrir que a dificuldade real está em um processo específico, em uma limitação de integração ou em uma regra de negócio que poderia ser modificada sem substituir o sistema inteiro.
 
-Não existe uma fronteira universalmente correta.
+O problema inicial não estava necessariamente errado. Ele era uma interpretação parcial da realidade.
 
-Uma organização pode tratar onboarding e prevenção a fraude conjuntamente porque suas regras e consequências são inseparáveis naquele contexto. Outra pode separá-los devido a responsabilidades, métricas, ciclos de evolução ou necessidades de governança diferentes.
+Compreender o domínio permite identificar quando uma decisão está sendo construída sobre uma definição estreita demais do problema.
 
-A fronteira também não é determinada apenas pela arquitetura técnica. Pode ser influenciada por estrutura organizacional, cultura, responsabilidade, governança, estratégia ou regulamentação. Duas áreas podem trabalhar sobre os mesmos elementos e ainda assim pertencer a domínios diferentes para determinada decisão. Da mesma forma, duas áreas aparentemente distintas podem precisar ser analisadas conjuntamente porque uma mudança em uma produz consequências inevitáveis na outra.
+## 2.2. Estabelecendo as fronteiras do domínio
 
-Isso também diferencia domínio de escopo.
+Se a realidade é maior do que o problema, surge uma questão prática: até onde devemos considerar essa realidade?
 
-O domínio responde à pergunta “qual realidade estamos tratando?”. O escopo responde “qual parte dessa realidade estamos considerando?”. Podemos ter um domínio amplo e restringir o escopo de uma decisão a uma pequena parte dele.
+Essa é a função das fronteiras do domínio.
 
-No exemplo da conta digital, o domínio pode abranger a realidade relacionada à abertura de contas, enquanto uma decisão específica pode tratar apenas da validação de identidade. Outra pode concentrar-se no tratamento de exceções ou na prevenção a fraude.
+Delimitar o domínio significa estabelecer uma fronteira que permita raciocinar com clareza sobre a decisão sem pressupor que aquilo que ficou fora deixou de existir.
 
-Delimitar significa estabelecer uma fronteira que permita raciocinar com clareza sem pressupor que aquilo que ficou fora deixou de existir.
+A fronteira não representa uma separação absoluta da realidade. Ela é uma construção para fins de análise.
 
-## 2.3. Identificando seus elementos
+No exemplo da abertura de contas, podemos decidir que o domínio da análise inclui o processo de cadastro, os sistemas envolvidos, as regras de validação, as equipes responsáveis e as integrações externas. Podemos decidir que determinados aspectos corporativos mais distantes não precisam ser examinados naquele momento.
 
-Uma vez estabelecida a fronteira, surge a necessidade de tornar explícito aquilo que participa da realidade que estamos estudando.
+Essa decisão não significa que esses aspectos sejam irrelevantes para sempre. Significa apenas que não fazem parte da representação necessária para aquela análise específica.
 
-Um domínio é composto por elementos que podem exercer diferentes papéis dentro dele. Podem ser pessoas, organizações, recursos, processos, sistemas, documentos, eventos, capacidades, regras ou qualquer outro componente relevante para as decisões daquele domínio.
+A fronteira depende da decisão.
 
-Na abertura de uma conta digital, encontramos clientes, documentos, dados cadastrais, mecanismos de validação, sistemas de identidade, mecanismos antifraude, operadores, sistemas legados, contas, regras regulatórias e processos internos.
+Uma análise de redução do tempo de abertura de contas pode exigir uma fronteira. Uma análise sobre expansão internacional da instituição exigirá outra. Uma decisão sobre substituição do sistema responsável pelo processo poderá exigir outra ainda.
 
-Essa identificação muda a qualidade da conversa. “Precisamos melhorar a abertura de contas” é uma afirmação genérica. Quando os elementos são explicitados, surgem perguntas concretas: quem participa? Que informações são necessárias? Quais sistemas produzem ou consomem essas informações? Quem pode alterá-las? Quem é responsável por determinada decisão? Quais recursos e regras condicionam as interações?
+Por isso, não existe um domínio universal para uma organização. Existe o domínio relevante para determinada decisão.
 
-O objetivo não é catalogar tudo que existe, mas tornar visíveis os elementos relevantes para o raciocínio. Uma arquitetura não se torna melhor por conter mais objetos documentados. O valor está em representar aqueles que ajudam a explicar o funcionamento do domínio.
+Essa observação evita dois erros opostos.
 
-Também surgem diferentes níveis de abstração. Um cliente pode ser visto como pessoa, relação contratual, identidade digital ou conjunto de dados, dependendo da perspectiva adotada. O mesmo elemento pode assumir significados diferentes quando observado a partir de outros domínios ou necessidades.
+O primeiro é delimitar o domínio de maneira excessivamente estreita e ignorar elementos capazes de alterar a decisão. O segundo é tentar incluir tudo, produzindo uma representação tão ampla que o raciocínio se torna impraticável.
 
-Por isso, identificar elementos não significa apenas nomeá-los. É preciso reconhecer o papel que desempenham dentro da fronteira estabelecida.
+A boa delimitação encontra uma fronteira suficiente para que os elementos relevantes sejam considerados sem transformar a análise em uma tentativa de reproduzir toda a realidade.
 
-## 2.4. Compreendendo suas características
+## 2.3. Identificando os elementos do domínio
 
-Identificar os elementos não é suficiente. Precisamos compreender suas propriedades, condições, restrições e capacidades.
+Depois de estabelecer as fronteiras, é necessário identificar aquilo que existe dentro delas e que pode ser relevante para a decisão.
 
-Na abertura de uma conta digital, um documento possui requisitos de validade. Um cliente pode estar sujeito a determinadas condições de identificação. Um operador possui responsabilidades e permissões específicas. Um mecanismo antifraude possui capacidades e limitações. Um sistema legado pode aceitar determinados formatos e rejeitar outros. Uma regra regulatória pode impor uma condição que precisa ser respeitada independentemente da tecnologia utilizada.
+Esses elementos podem ser pessoas, organizações, processos, produtos, serviços, sistemas, recursos, regras, capacidades, informações, estruturas, eventos ou qualquer outra entidade relevante para a realidade analisada.
 
-Essas propriedades ajudam a explicar por que elementos aparentemente semelhantes podem produzir resultados diferentes.
+O objetivo não é produzir um inventário.
 
-Dois clientes podem iniciar o mesmo processo e exigir tratamentos distintos. Dois documentos podem representar identidade, mas apenas um atender às condições necessárias para determinada validação. Dois sistemas podem fornecer informações cadastrais, mas apenas um possuir autoridade sobre determinada informação.
+Identificar elementos significa reconhecer as partes da realidade que precisam ser distinguidas para que a decisão possa ser compreendida.
 
-Saber que um mecanismo antifraude existe, portanto, é diferente de conhecer os sinais que utiliza, as condições que considera relevantes, suas limitações e os efeitos de suas decisões sobre o processo. O mesmo vale para regras: reconhecer sua existência não significa compreender como se aplicam.
+Essa distinção depende do nível de abstração utilizado.
 
-As características também explicam o que cada elemento pode ou não fazer. Uma capacidade pode abrir determinadas possibilidades. Uma restrição pode eliminar alternativas. Uma responsabilidade pode determinar quem pode tomar determinada decisão.
+Em uma análise de uma empresa, podemos tratar “sistema de vendas” como um único elemento. Em outra análise, pode ser necessário decompor esse sistema em aplicações, serviços, integrações, bancos de dados e componentes.
 
-À medida que essas propriedades se tornam conhecidas, o domínio deixa de parecer um conjunto de elementos independentes. Suas características começam a explicar as condições sob as quais eles podem interagir e, consequentemente, os comportamentos que podem produzir.
+Da mesma forma, uma organização pode ser tratada como um único elemento em uma análise de mercado, mas pode precisar ser decomposta em áreas, equipes, processos e responsabilidades quando a decisão envolve uma transformação organizacional.
 
-## 2.5. Compreendendo comportamentos
+O nível adequado de decomposição depende da decisão.
 
-Conhecer a estrutura produz uma nova necessidade: compreender o que acontece quando os elementos interagem.
+Elementos também podem estar relacionados entre si. Um processo pode depender de um sistema. Um sistema pode depender de outro serviço. Uma equipe pode depender de determinada capacidade. Uma regra pode limitar um processo. Um produto pode depender de uma cadeia de fornecedores.
 
-Comportamentos representam mudanças, respostas, interações e consequências que surgem quando os elementos se relacionam sob determinadas condições.
+Por isso, identificar elementos é apenas o início da compreensão do domínio. É necessário também compreender suas características e seus comportamentos.
 
-Na abertura de uma conta digital, um documento inválido pode interromper o processo. Um sinal de risco pode direcionar uma solicitação para análise adicional. A indisponibilidade de um serviço externo pode impedir uma validação. Uma mudança regulatória pode alterar os critérios necessários para concluir a abertura. Um aumento inesperado no volume de solicitações pode modificar a operação.
+## 2.4. Compreendendo as características
 
-Esses casos revelam uma dimensão que uma descrição estática não captura: o domínio possui dinâmica.
+Identificar que determinado elemento existe não significa compreendê-lo.
 
-Por isso, listar entidades, componentes ou áreas não basta. Uma representação pode conter os elementos corretos e ainda assim distorcer o domínio se não explicar as relações e comportamentos que lhes dão significado.
+É necessário conhecer as características que podem influenciar a decisão.
 
-Os comportamentos também ajudam a revelar fronteiras. Se uma mudança na regra de prevenção a fraude produz consequências imediatas na abertura da conta, existe uma relação relevante entre essas partes. Se uma alteração em determinado componente não produz efeitos em outra parte, essa independência também é uma informação sobre a estrutura do domínio.
+Essas características podem incluir propriedades, capacidades, limitações, condições, recursos, responsabilidades, regras, dependências, custos, níveis de desempenho, restrições ou qualquer outro atributo relevante.
 
-No exemplo utilizado neste capítulo, reduzir o tempo de abertura não significa simplesmente remover etapas. Cada etapa possui condições e comportamentos associados. Remover uma validação pode alterar o comportamento de fraude. Automatizar uma análise pode alterar a operação. Modificar uma regra pode alterar a quantidade de casos enviados para análise manual.
+Considere novamente o processo de abertura de contas. Saber que existe uma etapa de validação de identidade é insuficiente. É necessário compreender quem executa essa validação, quais informações são utilizadas, quais regras precisam ser atendidas, quanto tempo a atividade normalmente leva, quais sistemas participam dela e quais limitações podem afetar seu funcionamento.
 
-A partir desse ponto, o objetivo inicial pode ser reconsiderado. Em vez de simplesmente reduzir dez minutos para dois, passamos a investigar quais comportamentos produzem o tempo atual, quais deles podem ser alterados e quais consequências essa alteração pode gerar.
+A mesma lógica se aplica a qualquer domínio.
 
-## 2.6. Como todos esses elementos se relacionam
+Um sistema não é compreendido apenas porque sabemos que ele existe. Uma equipe não é compreendida apenas porque conhecemos sua estrutura. Um mercado não é compreendido apenas porque conhecemos seus participantes. Uma organização não é compreendida apenas porque sabemos como está representada em um organograma.
 
-As perspectivas apresentadas até aqui não são etapas independentes. Elas são diferentes formas de observar uma mesma realidade.
+As características relevantes dependem da decisão.
 
-A visão do ecossistema mostra onde o domínio está inserido. A delimitação estabelece quais partes serão tratadas conjuntamente. Os elementos mostram o que existe dentro dessa fronteira. As características explicam suas propriedades e restrições. Os comportamentos mostram como esses elementos interagem e como o domínio se transforma.
+Se a decisão envolve redução de custos, algumas características terão maior importância. Se envolve segurança, outras serão prioritárias. Se envolve expansão, capacidade e escalabilidade podem assumir maior relevância. Se envolve experiência do cliente, características relacionadas ao comportamento e às necessidades dos usuários podem se tornar centrais.
 
-A última necessidade é compreender como essas perspectivas se conectam.
+Compreender características significa, portanto, descobrir quais propriedades da realidade podem influenciar a decisão e como elas se relacionam com aquilo que se pretende alcançar.
 
-Esse trabalho não pertence exclusivamente à arquitetura de software, à arquitetura empresarial ou à análise de negócios. É uma atividade mais ampla de investigação da realidade sobre a qual uma decisão será tomada.
+## 2.5. Compreendendo os comportamentos
 
-É o que acontece quando alguém estuda um mercado antes de empreender, quando uma pessoa faz seu onboarding em uma nova empresa, quando alguém pesquisa uma carreira antes de escolher uma direção profissional ou quando uma pessoa começa a estudar uma nova área de conhecimento ou um novo hobby.
+A realidade não é formada apenas por elementos com características estáticas. Os elementos interagem, mudam e respondem uns aos outros.
 
-Em todos esses casos, existe uma realidade que precisa ser compreendida antes que decisões específicas possam ser tomadas sobre ela.
+Por isso, compreender o domínio também exige compreender seus comportamentos.
 
-O conteúdo da investigação muda, mas a estrutura é semelhante. É preciso entender onde estamos inseridos, quais são os limites da realidade considerada, quais elementos participam dela, quais características possuem, como se comportam e como se relacionam.
+Um processo pode reagir de maneira diferente quando o volume de solicitações aumenta. Um sistema pode apresentar degradação quando determinada capacidade é ultrapassada. Uma equipe pode mudar sua forma de trabalhar diante de novas regras. Clientes podem alterar seu comportamento quando um preço é modificado. Um mercado pode reagir à entrada de um novo concorrente.
 
-Frameworks podem contribuir nesse processo, mas não são parte obrigatória dele. Uma pesquisa de mercado pode ser conduzida com métodos formais ou por uma combinação de observação, entrevistas, dados e experiência. O onboarding de uma empresa pode envolver documentação formal, conversas com pessoas e observação dos processos. O estudo de uma carreira pode combinar pesquisa, experimentação e contato com profissionais. O aprendizado de um hobby pode depender principalmente de prática e observação.
+Esses comportamentos frequentemente são mais importantes para uma decisão do que as características isoladas dos elementos.
 
-Frameworks entram quando oferecem uma estrutura útil para uma necessidade específica. Não existe uma obrigação de utilizar um framework apenas porque estamos estudando um domínio.
+Voltando ao processo de abertura de contas, podemos descobrir que seu tempo médio é adequado em condições normais, mas aumenta significativamente em períodos de alta demanda. Podemos descobrir também que a introdução de uma nova etapa de segurança reduz fraude, mas aumenta o tempo necessário para concluir o processo.
 
-Quando a necessidade for explicitar conceitos de negócio, estabelecer uma linguagem comum e definir fronteiras entre diferentes modelos de significado, práticas associadas ao Domain-Driven Design podem ser úteis. Quando for necessário separar regras centrais de negócio dos detalhes de infraestrutura, princípios associados à Clean Architecture podem oferecer uma perspectiva adequada. Para comunicar contexto, escopo, decisões arquiteturais e relações entre partes interessadas, arc42 pode ser utilizado. Em uma perspectiva mais ampla de arquitetura empresarial, TOGAF oferece diferentes domínios e perspectivas arquiteturais. Quando a necessidade estiver relacionada à definição do trabalho necessário para produzir determinado resultado, conceitos de gerenciamento de escopo do PMBOK podem ser aplicados.
+A decisão, nesse caso, não depende apenas das características de cada elemento. Depende das relações entre eles e dos efeitos produzidos quando determinadas condições mudam.
 
-Essas abordagens não são diferentes formas de descrever exatamente a mesma coisa. Elas respondem a necessidades distintas que aparecem quando passamos a conhecer o domínio e suas particularidades. O conhecimento adquirido não determina automaticamente qual framework utilizar. Ele permite reconhecer quais problemas existem e, a partir deles, selecionar instrumentos adequados.
+Compreender comportamentos significa identificar essas relações e entender como a realidade responde às mudanças.
 
-Isso preserva uma relação importante com a estrutura apresentada no capítulo anterior:
+Isso é particularmente importante porque muitas decisões produzem alterações no próprio domínio. Uma mudança em um processo pode modificar o comportamento de uma equipe. Uma nova tecnologia pode alterar capacidades e dependências. Uma mudança de preço pode modificar o comportamento dos clientes. Uma alteração organizacional pode modificar responsabilidades e fluxos de trabalho.
 
-`Característica → necessidade → prática → framework`
+A realidade não é apenas aquilo que existe. É também aquilo que acontece quando seus elementos interagem.
 
-O framework aparece depois da necessidade, e não antes dela.
+## 2.6. Aplicação em gestão de projetos
 
-Existe ainda uma característica importante do conhecimento de domínio: ele tende a ser mais estável do que o contexto.
+Um projeto não existe isoladamente. Ele é uma intervenção realizada dentro de uma organização e de uma realidade que já possui processos, pessoas, sistemas, recursos, restrições, dependências e objetivos próprios.
 
-O domínio representa uma realidade em um nível mais estrutural. Seus conceitos fundamentais, participantes, relações e características não precisam ser reconstruídos a cada decisão. O contexto, por outro lado, representa as condições atuais sob as quais essa realidade está sendo observada e pode mudar continuamente.
+Essa realidade precisa ser compreendida antes que decisões importantes do projeto sejam tomadas.
 
-Uma instituição financeira pode manter durante anos os mesmos conceitos fundamentais relacionados à abertura de contas, enquanto as condições econômicas, o comportamento dos clientes, as regras, a estratégia da organização ou as tecnologias disponíveis mudam entre diferentes decisões.
+Um projeto pode ter um plano bem construído e ainda assim enfrentar dificuldades porque o plano não representa adequadamente o domínio no qual será executado. Prazos podem ser definidos sem considerar dependências organizacionais. Recursos podem ser planejados sem considerar capacidades reais. Mudanças podem ser aprovadas sem compreender seus efeitos sobre outros processos.
 
-Essa diferença faz com que o conhecimento do domínio seja mais reaproveitável. Uma organização não precisa reconstruir toda a compreensão do seu mercado, de seus processos fundamentais, de seus participantes e de suas relações a cada nova decisão. Esse conhecimento pode ser preservado, refinado e reutilizado como base para análises posteriores.
+O problema não está necessariamente na técnica de planejamento. O problema pode estar na representação da realidade sobre a qual o planejamento foi construído.
 
-Isso não significa que o domínio seja imutável. Mercados mudam, organizações evoluem, novas tecnologias surgem e conceitos podem adquirir novos significados. Significa apenas que o domínio tende a mudar em uma escala diferente daquela das condições contextuais que podem variar entre decisões.
+É nesse ponto que o comportamento “by the book” se torna particularmente evidente. Um profissional pode aplicar corretamente as práticas de gestão de projetos e, ainda assim, tomar decisões inadequadas se considerar que a metodologia contém conhecimento suficiente sobre a organização na qual o projeto será realizado.
 
-Podemos pensar, portanto, no domínio como uma estrutura relativamente estável de referência e no contexto como o estado atual dessa realidade.
+A metodologia fornece uma forma de estruturar o trabalho. O domínio fornece a realidade sobre a qual esse trabalho precisa acontecer.
 
-Essa distinção explica por que o estudo do domínio não deve ser tratado como uma atividade descartável realizada apenas no início de uma iniciativa. O conhecimento produzido pode servir como uma espécie de infraestrutura de conhecimento para decisões futuras.
+Compreender o domínio permite identificar aquilo que o planejamento precisa considerar e, principalmente, aquilo que não pode ser tratado como uma simples premissa.
 
-É aqui que aparece uma armadilha comum na aplicação de métodos: o “by the book”. Conhecer um framework pode criar a sensação de que seguir suas etapas, preencher seus artefatos e aplicar suas técnicas é suficiente para produzir uma boa decisão. Não é.
+## 2.7. Aplicação em arquitetura de soluções
 
-O problema não está em seguir o método. O problema está em confundir domínio do método com domínio da realidade.
+Toda solução existe para produzir algum efeito em uma realidade.
 
-Um profissional pode saber exatamente quais perguntas um framework recomenda fazer e ainda assim formular perguntas inadequadas porque não conhece suficientemente o objeto sobre o qual está perguntando. Pode preencher corretamente um artefato e representar incorretamente a realidade. Pode seguir todas as etapas prescritas e chegar a uma conclusão baseada em premissas que nunca foram examinadas.
+Por isso, uma solução não pode ser adequadamente projetada apenas a partir de requisitos, tecnologias ou padrões. É necessário compreender o domínio no qual ela será utilizada.
 
-Isso acontece porque frameworks são instrumentos construídos para lidar com determinados tipos de necessidade. Eles não conhecem, por si mesmos, a organização, o mercado, o processo, o produto, a regulamentação ou o sistema no qual serão aplicados. Quem conhece o método sabe como utilizá-lo. Quem conhece o domínio sabe o que está sendo analisado.
+Uma arquitetura pode ser tecnicamente consistente e ainda assim inadequada para a organização que deverá operá-la. Pode exigir capacidades que a organização não possui, introduzir complexidades incompatíveis com seus processos, depender de recursos indisponíveis ou resolver uma necessidade que não é realmente prioritária.
 
-Essa distinção é fundamental para a arquitetura de decisões. O framework deve ajudar a estruturar o raciocínio, não substituir o raciocínio necessário para compreender o domínio.
+Conhecer padrões arquiteturais ajuda a construir soluções. Conhecer o domínio permite determinar quais soluções fazem sentido naquela realidade.
 
-O que fizemos neste capítulo foi estabelecer uma visão macro da realidade na qual uma decisão está inserida. Observamos o ecossistema, definimos fronteiras, identificamos elementos, compreendemos características, observamos comportamentos e procuramos entender suas relações.
+Isso também explica por que uma solução aparentemente simples pode ser inadequada e uma solução aparentemente mais complexa pode ser necessária. A complexidade não está apenas na tecnologia. Ela pode estar na própria realidade que a solução precisa atender.
 
-Essa visão ainda é deliberadamente macro. Ela nos permite saber o que existe, onde estão as partes relevantes e como elas se relacionam, mas não significa que todas as condições que governam essas partes já tenham sido investigadas.
+O arquiteto precisa compreender processos, regras, capacidades, integrações, restrições, pessoas, sistemas e relações relevantes antes de decidir como a solução deve ser construída.
 
-E é justamente aí que começa o próximo nível de análise.
+A arquitetura da solução é, nesse sentido, uma intervenção sobre o domínio. Quanto melhor o domínio for compreendido, maior a possibilidade de que a solução responda à realidade que efetivamente precisa transformar.
 
-Ao identificar elementos, características e comportamentos, inevitavelmente encontramos condições que sustentam seu funcionamento. Algumas serão premissas que estamos assumindo como verdadeiras. Outras serão dependências das quais determinada parte do domínio depende para funcionar. Outras ainda serão restrições que limitam as alternativas disponíveis.
+## 2.8. Aplicação em experiência do usuário
 
-Essas condições não são um novo domínio. São um aprofundamento daquilo que acabamos de levantar.
+Uma experiência de usuário também existe dentro de uma realidade mais ampla.
 
-Se neste capítulo construímos o mapa, o próximo capítulo começa a investigar o que condiciona cada parte desse mapa. A pergunta deixa de ser apenas “o que existe e como se relaciona?” e passa a ser “quais premissas estamos assumindo, de que dependemos e quais limites não podemos ignorar?”.
+É possível observar uma interface, identificar dificuldades de navegação e propor melhorias sem compreender suficientemente aquilo que acontece antes e depois da interação.
 
-Essa transição é necessária porque conhecer o domínio em nível macro nos permite identificar onde investigar. Identificar premissas, dependências e restrições nos permite compreender o que condiciona aquilo que encontramos.
+Um formulário pode parecer excessivamente complexo porque reúne muitas informações. Mas essas informações podem existir por exigências regulatórias, riscos operacionais ou necessidades de outras áreas da organização.
 
-O domínio, portanto, não está completamente compreendido quando conseguimos nomeá-lo. A delimitação é o início de uma investigação mais profunda.
+Simplificar a interface pode melhorar a experiência em um ponto e transferir o problema para outro.
+
+Da mesma forma, uma jornada aparentemente inadequada pode estar condicionada por sistemas, processos, políticas, responsabilidades ou restrições que não são visíveis para o usuário.
+
+Compreender o domínio significa considerar essa realidade mais ampla.
+
+O usuário é um elemento importante, mas não é necessariamente o único elemento relevante. A experiência resulta da interação entre pessoas, produtos, serviços, processos, sistemas, regras e condições operacionais.
+
+Uma decisão orientada apenas pela experiência observada em um ponto da jornada pode produzir uma melhoria local e um problema em outra parte do domínio.
+
+## 2.9. Aplicação em empreendedorismo
+
+No empreendedorismo, compreender o domínio significa compreender a realidade na qual uma oportunidade, um modelo de negócio ou uma nova empresa pretende existir.
+
+Uma oportunidade não é apenas uma ideia. Ela depende de clientes, necessidades, comportamentos, concorrentes, canais, recursos, regulamentações, capacidades e condições de mercado.
+
+Uma hipótese sobre o negócio é uma afirmação sobre essa realidade.
+
+Quando um empreendedor testa uma hipótese, está tentando obter conhecimento sobre uma parte do domínio. O resultado de um experimento pode confirmar ou contradizer uma hipótese específica, mas não significa necessariamente que toda a realidade do negócio tenha sido compreendida.
+
+Esse ponto é importante porque técnicas de validação também podem ser aplicadas “by the book”. É possível executar corretamente um experimento e ainda investigar uma hipótese pouco relevante para a realidade que determina o sucesso do negócio.
+
+Compreender o domínio permite distinguir aquilo que foi efetivamente observado daquilo que permanece como pressuposto.
+
+Também permite perceber quando uma oportunidade aparentemente atraente depende de condições que não existem ou que são muito diferentes daquelas inicialmente imaginadas.
+
+## 2.10. Aplicação em carreira profissional e vida pessoal
+
+A mesma estrutura existe fora das organizações.
+
+Uma decisão de carreira ocorre dentro de uma realidade que envolve competências, interesses, recursos, experiência, mercado de trabalho, localização, relações, responsabilidades e condições pessoais.
+
+Uma decisão de formação envolve instituições, custos, disponibilidade, reconhecimento, alternativas profissionais e capacidades necessárias.
+
+Uma decisão pessoal também ocorre dentro de um domínio. Pessoas, recursos, compromissos, restrições, relações e condições existentes fazem parte da realidade que precisa ser considerada.
+
+Nesses casos, é comum reduzir a decisão ao objetivo imediato.
+
+“Quero mudar de carreira.”
+
+“Quero abrir um negócio.”
+
+“Quero fazer uma pós-graduação.”
+
+“Quero mudar de cidade.”
+
+Essas formulações expressam objetivos ou decisões, mas não descrevem a realidade na qual essas decisões precisam funcionar.
+
+Compreender o domínio permite investigar o que está por trás dessas formulações. Quais capacidades já existem? Quais precisam ser desenvolvidas? Quais restrições existem? Quais alternativas estão realmente disponíveis? Quais relações podem ser afetadas? Quais condições precisam estar presentes para que a escolha produza o resultado pretendido?
+
+A arquitetura de decisão não pertence, portanto, a uma área profissional específica. O domínio muda de acordo com a realidade analisada, mas a necessidade de compreendê-lo permanece.
+
+O domínio estabelece o terreno sobre o qual a decisão será construída. Compreendê-lo permite que objetivos, alternativas, métodos e práticas sejam analisados em relação à realidade que efetivamente importa para a decisão.
+
+A partir desse ponto, a arquitetura de decisão pode avançar para outra pergunta fundamental: dadas essa realidade e as condições em que ela está sendo analisada, o que pode acontecer e o que ainda não sabemos sobre ela?
