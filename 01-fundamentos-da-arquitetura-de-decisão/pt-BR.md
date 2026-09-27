@@ -224,8 +224,6 @@ Esse raciocínio também ajuda a compreender o que significa adaptar uma prátic
 
 Uma prática pode ser adequada em uma situação e inadequada em outra sem que exista contradição. O que muda é o contexto, a necessidade ou o grau de importância daquela prática para a decisão.
 
-Isso também permite compreender o problema de aplicar um método “by the book”. Seguir uma prática exatamente como descrita pode produzir conformidade com o método sem necessariamente produzir adequação à situação. A questão não é abandonar a disciplina do método, mas compreender sua finalidade e verificar quais partes são relevantes diante das condições existentes.
-
 Os fundamentos, portanto, não procuram substituir DDD, TOGAF, arc42, Scrum, PMBOK, Lean Startup, Design Thinking, ADR ou outros métodos. Eles oferecem uma forma de enxergar o que essas abordagens estão tentando tratar e de reconhecer que diferentes disciplinas podem desenvolver respostas distintas para necessidades estruturalmente relacionadas.
 
 Essa perspectiva será importante nos capítulos seguintes. Depois de compreender as características gerais de uma decisão, precisamos entrar na situação concreta em que ela acontece. Antes de definir qual problema resolver ou qual solução aplicar, precisamos compreender o domínio, o contexto, os limites e as condições existentes.
