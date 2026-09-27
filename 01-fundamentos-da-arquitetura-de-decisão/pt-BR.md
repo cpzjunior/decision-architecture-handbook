@@ -229,3 +229,4 @@ Os fundamentos, portanto, não procuram substituir DDD, TOGAF, arc42, Scrum, PMB
 Essa perspectiva será importante nos capítulos seguintes. Depois de compreender as características gerais de uma decisão, precisamos entrar na situação concreta em que ela acontece. Antes de definir qual problema resolver ou qual solução aplicar, precisamos compreender o domínio, o contexto, os limites e as condições existentes.
 
 É a partir daí que a Arquitetura de Decisão deixa de ser apenas uma estrutura conceitual e passa a orientar a condução de uma decisão real.
+
