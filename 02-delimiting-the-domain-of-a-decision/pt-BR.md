@@ -66,6 +66,10 @@ Delimitar o domínio significa estabelecer uma fronteira que permita raciocinar 
 
 A fronteira não representa uma separação absoluta da realidade. Ela é uma construção para fins de análise. Seu propósito é definir quais elementos e relações precisam ser considerados para compreender a decisão sem transformar a análise em uma tentativa de representar tudo o que existe.
 
+A analogia com o biólogo ajuda a esclarecer essa ideia. Ao estudar uma espécie, ele pode estabelecer um recorte para sua investigação sem considerar que os organismos que ficaram fora desse recorte deixaram de fazer parte do ecossistema. Uma espécie pode depender de outra para obter recursos, competir com outra por espaço ou estabelecer uma relação de mutualismo na qual ambas se beneficiam. A fronteira do estudo não elimina essas relações. Ela apenas define quais delas precisam ser consideradas para o propósito da investigação.
+
+Na arquitetura de uma decisão, o princípio é semelhante. Um elemento pode estar fora do domínio e ainda assim manter uma relação relevante com aquilo que está dentro dele. Nesse caso, a fronteira não deve ser tratada como uma barreira que elimina a relação, mas como uma forma de organizar o que será analisado diretamente e o que será considerado por meio de suas relações com o domínio.
+
 No exemplo da abertura de contas, o domínio pode incluir o processo de cadastro, os sistemas envolvidos, as regras de validação, as equipes responsáveis e as integrações externas. Outros aspectos da instituição podem permanecer fora dessa fronteira porque não são necessários para a análise naquele momento.
 
 Isso não significa que esses aspectos sejam permanentemente irrelevantes. Uma nova informação pode revelar uma relação importante, ou uma mudança na própria decisão pode exigir que a fronteira seja ampliada, reduzida ou redefinida.
@@ -82,7 +86,7 @@ Essa escolha é, ela própria, uma decisão. Antes de decidir sobre o objeto ori
 
 Surge, assim, um ciclo de decisões. Uma decisão pode gerar a necessidade de outra decisão para definir sua estrutura, seus domínios ou sua decomposição. A decisão sobre a estrutura pode, por sua vez, alterar a forma como a decisão original será analisada e tomada.
 
-Esse ciclo não é necessariamente um problema. Ele faz parte da natureza de decisões complexas. A arquitetura da decisão precisa reconhecer quando uma decisão sobre o próprio processo decisório é necessária e incorporá-la à análise.
+Esse ciclo não é necessariamente um problema. Ele faz parte da natureza de decisões complexas. A arquitetura da decisão precisa reconhecer quando uma decisão sobre a própria estrutura da decisão é necessária e incorporá-la à análise.
 
 A escolha entre integrar ou decompor também pode ser influenciada pela cultura dos domínios envolvidos. Formas de trabalho, estruturas de autoridade, especializações profissionais, incentivos e padrões históricos de colaboração podem favorecer decisões integradas ou estimular sua separação.
 
@@ -91,6 +95,8 @@ Isso significa que a forma como uma organização estrutura suas decisões pode 
 Dois erros são especialmente comuns. O primeiro é delimitar o domínio de maneira excessivamente estreita e excluir elementos capazes de alterar a decisão. O segundo é tentar incluir tudo em uma única análise, produzindo uma representação tão ampla que as relações relevantes se tornam difíceis de identificar.
 
 A boa delimitação estabelece uma fronteira suficiente para compreender a decisão, preservando as relações relevantes com outros domínios e permitindo que a decisão seja integrada ou decomposta de maneira consciente.
+
+Assim como o biólogo pode estudar uma espécie sem precisar estudar todo o ecossistema em profundidade, a arquitetura da decisão busca estabelecer um recorte suficiente para a análise, sem perder de vista as relações que atravessam suas fronteiras.
 
 Com as fronteiras estabelecidas, torna-se possível identificar os elementos que compõem cada domínio e compreender suas características.
 
