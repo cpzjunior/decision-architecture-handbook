@@ -68,29 +68,37 @@ This is where one of the differences between knowing a method and knowing how to
 
 ## 1.3. Every decision is guided by one or more objectives
 
-Every decision is related to one or more outcomes that are intended to be achieved, preserved, or avoided. These objectives guide, explicitly or implicitly, the evaluation of alternatives and provide a reference for determining what is expected to be obtained.
+Every decision is related to one or more outcomes that are intended to be achieved, preserved, or avoided. These objectives guide the choice and provide a reference for determining what is intended to be obtained.
 
-An objective may be clearly formulated or remain implicit. A person may decide to reduce costs without having previously defined how much they intend to reduce or within what timeframe. An organization may decide to modernize a system without clarifying whether the primary objective is to reduce costs, increase capacity, decrease risks, or enable a new business strategy.
+An objective may be clearly formulated or remain implicit. A person may decide to reduce costs without having previously defined by how much they intend to reduce them or within what timeframe. An organization may decide to modernize a system without having clarified whether the main objective is to reduce costs, increase capacity, decrease risks, or enable a new business strategy.
 
-The existence of an implicit objective does not necessarily mean that the decision is invalid. It means that part of the logic guiding the choice has not yet been made explicit.
+An objective does not exist independently of the domain and context. Every objective presupposes a reality to which it refers and conditions under which the intended outcome is relevant, even when these references are not made explicit.
 
-Making objectives explicit also makes it possible to compare alternatives. Without knowing what we are trying to achieve, we may compare solutions based on preferences, familiarity, or circumstantial criteria that do not represent what actually matters.
+Consider, for example, the objective of “reducing approval time.” For this statement to have meaning, there must be some reality in which there is an approval process, a definition of what this time represents, and conditions under which its reduction is desired. “Reducing costs” presupposes costs of something. “Increasing availability” presupposes a system, service, or operation. The more these references are removed, the more generic and less informative the objective becomes.
 
-Objectives may also conflict. Reducing costs may conflict with increasing quality. Accelerating delivery may increase risks. Preserving an existing architecture may limit future changes. Increasing flexibility may raise complexity.
+This means that formulating an objective already contains assumptions about the domain and context of the decision. Analysis can make these assumptions explicit and verify whether they correspond to reality. Therefore, an investigation can begin with the objective, but the objective should not be treated as something semantically independent of the domain and context.
 
-Therefore, defining objectives does not simply mean producing a list. It is necessary to understand the relationships between them and recognize when an alternative meets one objective well but produces unfavorable consequences for another.
+The relationship between these dimensions also does not imply a rigid sequence. It is possible to start with the objective, the domain, the context, or a situation perceived as problematic. What matters is recognizing that an adequate understanding of an objective involves the reality to which it refers and the conditions under which it is relevant.
 
-Objectives may also change during the analysis. New information may show that what initially seemed important is no longer relevant, that an objective is unfeasible under the existing conditions, or that there is a more important outcome that had not been considered.
+When objectives are not identified or understood by the decision-maker, we have a blind decision. The decision still has a direction or purpose, but part of the logic guiding the choice remains implicit.
+
+Making objectives explicit makes it possible to establish what should be considered in the choice. Without knowing what is intended to be achieved, it becomes difficult to determine which alternatives are relevant and which characteristics should be considered when comparing them.
+
+A decision may also involve different objectives that cannot be met simultaneously to the same extent. Reducing costs may conflict with increasing quality. Accelerating a delivery may conflict with reducing risks. Increasing flexibility may conflict with reducing complexity.
+
+Therefore, defining objectives does not simply mean producing a list. It is necessary to understand which objectives exist, how they relate to one another, and which of them are priorities when they cannot be met simultaneously.
+
+Objectives may also change during the analysis. New information may show that what initially seemed important is no longer relevant, that a particular objective is not feasible under the existing conditions, or that another objective, previously not considered, is more important to the decision.
 
 This creates an important relationship between objective and problem. A situation becomes a problem in relation to some intended outcome. If the objective changes, the interpretation of the situation may also change.
 
-For example, “replace the current system” may initially appear to be a technical problem. But if the actual objective is to reduce the time required to launch new products, then replacing the entire system may not be the only alternative. The problem may be related to a specific capability rather than to the technology as a whole.
+For example, “replacing the current system” may initially appear to be a technical problem. But if the objective is to reduce the time required to launch new products, replacing the entire system may not be necessary. The problem may be related to a specific capability, rather than to the technology as a whole.
 
-In this sense, problem and objective should not be treated as completely independent elements. The definition of what needs to be solved depends, in part, on the outcome we consider necessary to achieve.
+In this sense, problem and objective should not be treated as completely independent elements. The definition of what needs to be solved depends, in part, on the outcome that is intended to be achieved.
 
-The third need produced by this foundation is the definition of evaluation criteria. If there are objectives, we need references that allow us to evaluate alternatives and later verify whether the outcome achieved meets what was intended.
+Defining objectives also establishes the need for evaluation criteria. There must be references that make it possible to determine the extent to which an alternative meets what is intended to be achieved.
 
-These criteria may take different forms. They may be requirements, metrics, indicators, quality attributes, success conditions, acceptable limits, or other references appropriate to the domain and objective. Not every objective needs to be reduced to a metric. What matters is having a sufficiently clear way to evaluate the relationship between the choice and what is intended to be achieved.
+These criteria may take different forms, such as requirements, metrics, indicators, quality attributes, success conditions, or acceptable limits. Not every objective needs to be reduced to a metric. What matters is that there is a sufficiently clear way to evaluate whether what was chosen meets the objectives of the decision.
 
 ## 1.4. Every decision involves some degree of uncertainty
 
