@@ -30,7 +30,7 @@ O conhecimento especializado fornece referências para a análise, mas não dete
 
 Isso também explica por que práticas desenvolvidas em um domínio não devem ser transferidas automaticamente para outro. Uma prática pode fazer sentido porque responde a uma necessidade específica daquele campo e porque seus conceitos, critérios e artefatos foram construídos para determinadas condições.
 
-A primeira necessidade produzida por essa característica é, portanto, a **delimitação do domínio**. Precisamos saber em quais campos a decisão se insere, quais conhecimentos são relevantes, quais participantes precisam ser considerados e quais limites definem aquilo que está sendo analisado.
+A primeira necessidade produzida por essa característica é, portanto, a delimitação do domínio. Precisamos saber em quais campos a decisão se insere, quais conhecimentos são relevantes, quais participantes precisam ser considerados e quais limites definem aquilo que está sendo analisado.
 
 Delimitar não significa necessariamente escolher um único domínio. Uma decisão pode deliberadamente atravessar fronteiras entre áreas. O objetivo é tornar essas fronteiras visíveis para que possamos compreender quais perspectivas fazem parte da decisão e quais conhecimentos precisamos mobilizar.
 
@@ -54,7 +54,7 @@ Essa característica também explica por que experiência anterior não pode ser
 
 A experiência fornece referências. O contexto determina sua aplicabilidade.
 
-A segunda necessidade produzida por essa característica é a **explicitação das condições da decisão**. Precisamos identificar o que existe, quais recursos estão disponíveis, quais restrições precisam ser respeitadas, quais premissas estão sendo assumidas, quais dependências existem e quais informações ainda não estão disponíveis.
+A segunda necessidade produzida por essa característica é a explicitação das condições da decisão. Precisamos identificar o que existe, quais recursos estão disponíveis, quais restrições precisam ser respeitadas, quais premissas estão sendo assumidas, quais dependências existem e quais informações ainda não estão disponíveis.
 
 Essa necessidade é atendida por práticas de diagnóstico, levantamento de restrições, identificação de premissas, análise de dependências, compreensão do ambiente existente e identificação das condições atuais. O objetivo não é descrever toda a realidade, mas tornar visíveis as condições que realmente influenciam a decisão.
 
@@ -82,7 +82,7 @@ Isso cria uma relação importante entre objetivo e problema. Uma situação se 
 
 Por exemplo, “substituir o sistema atual” pode parecer inicialmente um problema técnico. Mas, se o objetivo real for reduzir o tempo necessário para lançar novos produtos, talvez substituir o sistema inteiro não seja a única alternativa. O problema pode estar relacionado a uma capacidade específica, e não necessariamente à tecnologia como um todo.
 
-A terceira necessidade produzida por essa característica é a **definição de critérios de avaliação**. Se existem objetivos, precisamos de referências que permitam avaliar alternativas e verificar posteriormente se o resultado alcançado atende ao que se pretendia.
+A terceira necessidade produzida por essa característica é a definição de critérios de avaliação. Se existem objetivos, precisamos de referências que permitam avaliar alternativas e verificar posteriormente se o resultado alcançado atende ao que se pretendia.
 
 Esses critérios podem assumir diferentes formas. Podem ser requisitos, métricas, indicadores, atributos de qualidade, condições de sucesso, limites aceitáveis ou outras referências adequadas ao domínio e ao objetivo. Nem todo objetivo precisa ser reduzido a uma métrica. O importante é existir uma forma suficientemente clara de avaliar a relação entre a escolha e aquilo que se pretende alcançar.
 
@@ -104,7 +104,7 @@ Decidir envolve, portanto, avaliar não apenas quais alternativas estão dispon�
 
 Essa é uma característica importante da própria decisão. Em determinados contextos, agir rapidamente com informação incompleta pode ser mais adequado do que prolongar a investigação. Em outros, uma decisão prematura pode produzir consequências difíceis de reverter.
 
-A quarta necessidade produzida por essa característica é o **tratamento do desconhecido**. Precisamos identificar aquilo que ainda não sabemos, avaliar sua importância e decidir como lidar com essa incerteza.
+A quarta necessidade produzida por essa característica é o tratamento do desconhecido. Precisamos identificar aquilo que ainda não sabemos, avaliar sua importância e decidir como lidar com essa incerteza.
 
 Hipóteses, evidências, experimentos, protótipos, pesquisas, cenários, riscos e oportunidades são diferentes formas de tratar aquilo que ainda não conhecemos.
 
@@ -136,7 +136,7 @@ Permanecer no estado atual não significa permanecer diante das mesmas alternati
 
 É nesse sentido que não decidir deliberadamente também pode constituir uma decisão. Existe diferença entre escolher conscientemente não agir e simplesmente não perceber que uma decisão precisava ser tomada, mas ambas as situações podem produzir efeitos sobre as possibilidades futuras.
 
-A quinta necessidade produzida por essa característica é a **análise de alternativas e consequências**. Precisamos compreender não apenas qual alternativa produz determinado resultado, mas também como ela modifica as condições para as próximas decisões.
+A quinta necessidade produzida por essa característica é a análise de alternativas e consequências. Precisamos compreender não apenas qual alternativa produz determinado resultado, mas também como ela modifica as condições para as próximas decisões.
 
 Cenários, trade-offs, análise de alternativas, reversibilidade, dependências, custo de oportunidade, opcionalidade e path dependency são formas diferentes de tratar essa necessidade.
 
@@ -162,7 +162,7 @@ Uma decisão arquitetural, por exemplo, pode introduzir uma tecnologia. Depois, 
 
 Isso significa que a qualidade de uma decisão não pode ser avaliada apenas pelo momento em que ela foi tomada. Precisamos considerar também como ela se comporta ao longo da evolução e que conhecimento ela produz.
 
-A sexta necessidade produzida por essa característica é a **observação, aprendizado e preservação do conhecimento produzido pela evolução**.
+A sexta necessidade produzida por essa característica é a observação, aprendizado e preservação do conhecimento produzido pela evolução.
 
 Precisamos conseguir observar o que aconteceu, comparar o resultado com aquilo que esperávamos e compreender as razões de eventuais diferenças.
 
@@ -180,7 +180,7 @@ Uma decisão ocorre em um domínio, mas esse domínio sempre se manifesta dentro
 
 Assim, podemos visualizar a estrutura de forma encadeada:
 
-**Domínio → contexto → objetivos → incerteza → possibilidades → evolução**
+Domínio → contexto → objetivos → incerteza → possibilidades → evolução
 
 Esse encadeamento não representa uma sequência de etapas. Uma mudança em qualquer dimensão pode afetar as demais.
 
@@ -192,7 +192,7 @@ Essa perspectiva ajuda a compreender por que diferentes práticas e frameworks p
 
 Podemos estabelecer uma segunda relação:
 
-**Característica → necessidade → prática → framework**
+Característica → necessidade → prática → framework
 
 O domínio produz a necessidade de delimitação. Essa necessidade pode ser tratada por práticas de definição de fronteiras, modelagem, escopo e linguagem comum. DDD, por exemplo, oferece práticas para compreender e delimitar domínios, estabelecer modelos e definir bounded contexts. TOGAF e arc42 também trabalham, de maneiras diferentes, com a compreensão do domínio e das fronteiras da arquitetura.
 
