@@ -116,21 +116,25 @@ Lean Startup, por exemplo, estrutura práticas para transformar hipóteses em ex
 
 Essas abordagens não são equivalentes e não devem ser aplicadas apenas porque uma decisão contém incerteza. A questão é compreender qual incerteza existe, qual conhecimento está faltando e qual prática pode produzir evidência relevante para a decisão.
 
-## 1.5. Toda decisão altera o espaço de possibilidades
+## 1.5. Toda decisão produz consequências diretas e indiretas
 
-Uma decisão produz mais do que um resultado imediato. Ela pode comprometer recursos, criar dependências, estabelecer restrições, eliminar caminhos ou tornar determinadas mudanças mais custosas.
+Uma decisão produz mais do que um resultado imediato. Ela pode comprometer recursos, criar dependências, estabelecer restrições, eliminar caminhos ou tornar determinadas mudanças mais custosas. Algumas dessas consequências aparecem diretamente após a decisão, enquanto outras surgem como efeitos indiretos daquilo que foi alterado.
 
-Também pode preservar opções, gerar novas alternativas ou produzir informação útil para decisões posteriores.
+As consequências também podem se propagar para outras partes da situação. Uma decisão sobre tecnologia pode alterar o trabalho de uma equipe. Uma decisão de projeto pode modificar responsabilidades, prazos ou recursos. Uma decisão de produto pode afetar clientes, usuários ou parceiros. Uma mudança organizacional pode criar novos compromissos para outras áreas.
 
-Por isso, o espaço de possibilidades pode ser entendido como aquilo que pode ser feito a partir de determinado momento, considerando os recursos, compromissos, dependências e restrições existentes.
+Quando uma decisão produz efeitos sobre outras pessoas ou grupos, surge também uma necessidade de comunicação. É preciso tornar compreensível o que foi decidido, por que a decisão foi tomada, quais consequências são esperadas e o que muda para aqueles que serão afetados ou precisarão agir a partir dela. Nesse sentido, a comunicação não é apenas uma atividade posterior à decisão, mas parte do tratamento de suas consequências.
 
-Alterar esse espaço não significa necessariamente reduzir opções. Uma escolha pode eliminar determinados caminhos e, ao mesmo tempo, criar outros. Uma nova capacidade tecnológica pode abrir alternativas que não existiam. Uma decisão comercial pode criar acesso a um mercado e fechar outro.
+Uma decisão também pode preservar opções, gerar novas alternativas ou produzir informação útil para decisões posteriores. Seus efeitos, portanto, não se limitam ao que acontece imediatamente após a escolha. Algumas consequências modificam as condições nas quais outras decisões serão tomadas.
+
+É nesse sentido que podemos compreender o espaço de possibilidades. Ele representa aquilo que pode ser feito a partir de determinado momento, considerando os recursos, compromissos, dependências e restrições existentes. As consequências de uma decisão podem alterar esse espaço, tornando algumas possibilidades mais acessíveis, outras mais difíceis e algumas inviáveis.
+
+Alterar o espaço de possibilidades não significa necessariamente reduzir opções. Uma escolha pode eliminar determinados caminhos e, ao mesmo tempo, criar outros. Uma nova capacidade tecnológica pode abrir alternativas que não existiam. Uma decisão comercial pode criar acesso a um mercado e fechar outro.
 
 Toda escolha também envolve trade-offs. Ao favorecer determinado resultado, uma decisão pode exigir concessões em outros objetivos, critérios ou possibilidades.
 
 Melhorar desempenho pode aumentar custo. Reduzir prazo pode aumentar risco. Aumentar flexibilidade pode elevar complexidade. Preservar compatibilidade pode limitar a capacidade de evolução. Em muitos casos, não existe uma alternativa que maximize simultaneamente todos os objetivos.
 
-Essa dinâmica pode ser observada pela ideia de opcionalidade. Algumas escolhas preservam maior capacidade de mudança futura. Outras aumentam compromissos e reduzem a margem de manobra.
+Essa dinâmica pode ser observada pela ideia de opcionalidade. Algumas escolhas preservam maior capacidade de mudança futura. Outras aumentam compromissos e reduzem a margem de manobra. A consequência de uma decisão, portanto, também pode ser observada pela capacidade que ela preserva ou elimina para decisões posteriores.
 
 A reversibilidade é relevante nesse ponto. Uma decisão fácil de desfazer produz consequências diferentes de uma decisão que exige grande esforço ou custo para ser revertida. Isso não significa que decisões reversíveis sejam sempre melhores, mas que sua estrutura de consequências é diferente.
 
@@ -140,11 +144,11 @@ Permanecer no estado atual não significa permanecer diante das mesmas alternati
 
 É nesse sentido que não decidir deliberadamente também pode constituir uma decisão. Existe diferença entre escolher conscientemente não agir e simplesmente não perceber que uma decisão precisava ser tomada, mas ambas as situações podem produzir efeitos sobre as possibilidades futuras.
 
-A quinta necessidade produzida por essa característica é a análise de alternativas e consequências. Precisamos compreender não apenas qual alternativa produz determinado resultado, mas também como ela modifica as condições para as próximas decisões.
+A quinta necessidade produzida por essa característica é compreender, tratar e comunicar as consequências das alternativas consideradas. Isso envolve analisar não apenas qual alternativa produz determinado resultado, mas também quais efeitos diretos e indiretos ela pode gerar, quem pode ser afetado, como esses efeitos precisam ser comunicados e como a decisão modifica as condições para as próximas decisões.
 
-Cenários, trade-offs, análise de alternativas, reversibilidade, dependências, custo de oportunidade, opcionalidade e path dependency são formas diferentes de tratar essa necessidade.
+Cenários, análise de alternativas, trade-offs, comunicação, coordenação, reversibilidade, dependências, custo de oportunidade, opcionalidade e path dependency são formas diferentes de tratar essa necessidade.
 
-O objetivo não é encontrar uma alternativa universalmente melhor. É compreender como cada alternativa responde aos objetivos e às restrições existentes e quais consequências produz sobre o espaço de possibilidades.
+O objetivo não é encontrar uma alternativa universalmente melhor. É compreender como cada alternativa responde aos objetivos e às restrições existentes, quais consequências produz, quem pode ser afetado e como essas consequências alteram o espaço de possibilidades para o futuro.
 
 ## 1.6. Toda decisão participa de um processo de evolução
 
