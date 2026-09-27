@@ -1,36 +1,32 @@
 # 2. Compreendendo o Domínio de uma Decisão
 
-Compreender o domínio é estabelecer o terreno sobre o qual a decisão será construída.
+Toda decisão é uma escolha sobre alguma realidade. Para decidir, não basta conhecer as alternativas disponíveis. É necessário compreender aquilo sobre o qual essas alternativas produzirão efeitos.
 
-Uma decisão não acontece apenas entre alternativas. Ela acontece dentro de uma realidade que possui elementos, características, relações e comportamentos próprios. Essa realidade é maior do que o problema inicialmente percebido e precisa ser compreendida antes que seja possível determinar o que realmente deve ser considerado na decisão.
+Essa realidade constitui o domínio da decisão. Ele representa, em uma perspectiva mais macro, o conjunto de elementos, características, relações e comportamentos que são relevantes para aquilo que está sendo decidido. O domínio não é a decisão, nem o problema que deu origem a ela. É a realidade na qual ambos existem.
 
-O domínio representa essa realidade em uma perspectiva mais macro. O contexto aproxima a análise das condições específicas nas quais uma determinada decisão está sendo considerada. O domínio envolve a estrutura mais ampla da realidade relevante para a decisão, enquanto o contexto concentra as condições particulares que tornam aquela decisão concreta.
+O contexto ocupa uma perspectiva mais micro. Ele representa as condições específicas nas quais uma decisão é considerada dentro desse domínio. Uma organização, por exemplo, pode constituir parte do domínio de uma decisão, enquanto uma determinada restrição orçamentária, uma mudança regulatória ou uma oportunidade de mercado pode fazer parte do contexto em que uma decisão específica está sendo tomada.
 
-Essa diferença também ajuda a compreender por que determinadas decisões são inadequadas mesmo quando o profissional que as toma conhece profundamente sua área de atuação.
+A diferença entre os dois está, portanto, menos na natureza dos elementos e mais no nível em que a realidade é observada. O domínio oferece uma visão mais ampla e estrutural. O contexto aproxima essa realidade das condições particulares de uma decisão. Por isso, elementos do domínio tendem a mudar mais lentamente, enquanto as condições do contexto podem se alterar com maior frequência.
 
-Um profissional pode conhecer uma metodologia, dominar suas práticas e aplicar corretamente suas regras. Ainda assim, pode tomar uma decisão inadequada quando aplica esse conhecimento sem considerar a realidade específica na qual está atuando.
+Essa distinção ajuda a explicar um problema recorrente na atuação profissional. Conhecer uma prática não significa conhecer a realidade na qual ela será aplicada.
 
-É o comportamento do profissional que trabalha “by the book”. Ele conhece o que deve ser feito segundo determinada metodologia e procura seguir suas regras, mas trata essas regras como suficientes para orientar a decisão, independentemente da realidade sobre a qual elas serão aplicadas.
+Um profissional pode dominar uma metodologia, seguir suas regras e executar corretamente suas práticas. Ainda assim, pode tomar decisões inadequadas quando trata essas regras como suficientes para orientar sua atuação, sem considerar as características da realidade em que está trabalhando.
 
-O problema não está necessariamente na metodologia ou em suas regras. Está em aplicar conhecimento geral sem considerar suficientemente a realidade particular na qual ele precisa produzir resultado.
+Esse é o comportamento do profissional que trabalha “by the book”. Ele transforma uma orientação geral em uma prescrição para uma realidade particular, como se o conhecimento contido na metodologia substituísse o conhecimento necessário sobre o domínio.
 
-Uma metodologia de gestão de projetos pode estabelecer práticas para planejar, acompanhar e controlar um projeto. Ela não conhece, por si só, a cultura da organização, seus processos, suas capacidades, suas relações internas, suas restrições ou suas dependências.
+Uma metodologia de gestão de projetos pode estabelecer como planejar, acompanhar e controlar um projeto. Ela não conhece, por si só, a cultura da organização, seus processos, suas capacidades, suas relações internas ou suas restrições.
 
 Uma prática de arquitetura de soluções pode orientar a construção de uma solução. Ela não conhece automaticamente o modelo de negócio, os processos, as regras, as capacidades ou as limitações tecnológicas da organização.
 
-Uma técnica de empreendedorismo pode orientar a investigação de uma oportunidade. Ela não conhece o mercado, os clientes, os concorrentes ou as características da operação que está sendo construída.
+Uma técnica de empreendedorismo pode orientar a investigação de uma oportunidade. Ela não conhece o mercado, os clientes, os concorrentes ou as condições específicas nas quais o negócio deverá existir.
 
-Em todos esses casos, existe conhecimento profissional suficiente para aplicar uma prática, mas isso não significa que a prática esteja sendo aplicada de acordo com a realidade na qual deverá produzir resultado.
+O conhecimento profissional continua sendo necessário. O que muda é a forma como ele é utilizado. Métodos e práticas fornecem referências gerais para agir; o domínio fornece a realidade que determina como essas referências precisam ser interpretadas.
 
-Compreender o domínio é o que permite estabelecer essa relação entre conhecimento e realidade. Antes de aplicar uma prática, é necessário compreender a realidade na qual a decisão existe, identificar os elementos relevantes, reconhecer suas características e entender como eles se comportam e se relacionam.
+Compreender o domínio significa, portanto, construir uma representação suficientemente adequada da realidade relevante para a decisão. Não se trata de reproduzir tudo o que existe, mas de identificar aquilo que precisa ser conhecido para que escolhas importantes não sejam baseadas em pressupostos não examinados.
 
-O domínio não é permanente. Mercados mudam, organizações se transformam, tecnologias evoluem e processos são modificados. A diferença em relação ao contexto está no nível de representação. O domínio procura compreender a realidade relevante em uma perspectiva mais ampla e estrutural. O contexto representa as condições específicas dessa realidade que são relevantes para uma decisão particular.
+Essa compreensão começa pela própria realidade que deu origem à decisão. O problema percebido pode representar apenas uma pequena parte dela. A partir daí, é necessário estabelecer quais fronteiras tornam o domínio analisável, identificar seus elementos, compreender suas características e reconhecer como eles se comportam e se relacionam.
 
-Em uma organização, por exemplo, podem fazer parte do domínio o mercado em que ela atua, seu modelo de negócio, sua estrutura, seus processos, seus produtos, seus sistemas, suas capacidades, suas regras e suas relações. O contexto de uma decisão pode envolver uma mudança específica no mercado, uma restrição orçamentária, uma alteração regulatória, uma oportunidade, uma crise operacional ou uma prioridade estratégica.
-
-Compreender o domínio não significa tentar representar toda a realidade. Significa construir uma compreensão suficientemente adequada da realidade relevante para que a decisão não dependa de pressupostos que nunca foram examinados.
-
-É a partir dessa perspectiva que podemos analisar como um domínio é delimitado, quais elementos o constituem, quais características precisam ser compreendidas e como seus elementos se comportam.
+É esse processo que este capítulo desenvolve.
 
 ## 2.1. A realidade é maior que o problema
 
