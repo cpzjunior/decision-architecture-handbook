@@ -40,23 +40,23 @@ Podemos compreender essa realidade como um ecossistema.
 
 Uma organização, por exemplo, não existe isoladamente. Ela se relaciona com clientes, fornecedores, parceiros, concorrentes, órgãos reguladores, tecnologias, profissionais, processos, mercados e diversos outros elementos. Uma mudança em uma parte desse ecossistema pode alterar as condições de outras partes, ainda que essa relação não seja imediatamente evidente.
 
-O mesmo acontece em uma decisão tecnológica. Uma solução não existe apenas como um conjunto de componentes técnicos. Ela está relacionada aos sistemas existentes, aos processos da organização, às pessoas que a utilizam ou operam, às informações que circulam por ela, às regras que precisa atender, às capacidades disponíveis e às restrições que condicionam sua implementação e operação.
+O mesmo acontece em uma decisão tecnológica. Uma solução não existe apenas como um conjunto de componentes técnicos. Ela está relacionada aos sistemas existentes, aos processos da organização, às pessoas que a utilizam ou operam, às informações que circulam por ela, às regras que precisa atender e às capacidades disponíveis para sua implementação e operação.
 
-Por isso, compreender o domínio de uma decisão começa pela identificação do ecossistema no qual ela está inserida. O objetivo não é representar tudo o que existe, mas reconhecer os elementos e as relações que podem ser relevantes para aquilo que está sendo analisado.
+É por isso que o mapeamento do ecossistema precede a definição do domínio. Antes de estabelecer o que será considerado na decisão, é necessário reconhecer a realidade mais ampla na qual ela está inserida.
 
-O ecossistema, portanto, funciona como uma referência mais ampla para compreender o domínio. Nem tudo que pertence ao ecossistema fará parte do domínio de uma decisão específica. O que pertence ao domínio depende do recorte necessário para compreender adequadamente aquela decisão.
+O biólogo que estuda uma espécie parte de uma lógica semelhante. Ele observa o ambiente em que a espécie vive para identificar os organismos, recursos e relações que podem ser relevantes para seu estudo. Não precisa mapear tudo o que existe, mas precisa evitar uma visão tão restrita que impeça a compreensão daquilo que está investigando.
 
-Esse recorte não deve ser feito apenas pela proximidade aparente com o objeto da decisão. Um elemento que parece externo pode exercer influência importante sobre aquilo que está sendo analisado. Da mesma forma, elementos que fazem parte do ecossistema podem não precisar ser considerados quando não possuem relação relevante com a decisão.
+Na arquitetura de uma decisão, o princípio é o mesmo. O objetivo do mapeamento não é representar tudo o que existe, mas revelar os elementos e relações que podem ter relevância para a decisão.
 
 Considere, por exemplo, uma empresa que pretende modificar seu processo de contratação de profissionais. O ecossistema pode envolver candidatos, gestores, equipe de recursos humanos, fornecedores de tecnologia, legislação trabalhista, mercado de trabalho, sistemas internos, políticas organizacionais e condições econômicas. Dependendo da decisão, diferentes partes desse ecossistema poderão ser relevantes para a análise.
 
-Mapear o ecossistema permite enxergar essas relações antes de estabelecer uma fronteira para o domínio. Sem essa visão mais ampla, existe o risco de definir o domínio prematuramente e excluir elementos que poderiam alterar a compreensão da decisão.
+Nem tudo que pertence ao ecossistema fará parte do domínio de uma decisão específica. Um elemento pode estar presente na realidade observada sem precisar ser incorporado à representação utilizada para aquela decisão. Da mesma forma, um elemento aparentemente distante pode revelar uma relação importante e precisar ser considerado.
 
-O mapeamento também não precisa ser definitivo. À medida que a análise avança, novas relações podem ser descobertas e elementos antes considerados irrelevantes podem se tornar importantes. O próprio domínio pode precisar ser ampliado, reduzido ou reorganizado.
+Por isso, o mapeamento deve ser amplo o suficiente para evitar exclusões prematuras, mas não precisa antecipar a definição do domínio. Sua função é oferecer uma visão inicial da realidade sobre a qual essa definição será feita.
 
-Assim, mapear o ecossistema não significa tentar compreender toda a realidade. Significa criar uma visão inicial suficientemente ampla para identificar onde a decisão está inserida e quais partes dessa realidade merecem ser investigadas.
+Esse mapeamento também pode ser revisado. Assim como o biólogo pode descobrir novas relações ao observar uma espécie em seu ambiente, a análise de uma decisão pode revelar elementos ou conexões que não estavam evidentes inicialmente. Quando isso acontece, a compreensão do ecossistema se amplia e o domínio pode precisar ser reconsiderado.
 
-A partir dessa visão, torna-se possível estabelecer as fronteiras do domínio e determinar quais elementos do ecossistema precisam fazer parte da análise.
+Mapear o ecossistema, portanto, é estabelecer uma visão inicial da realidade que envolve a decisão. A partir dela, podemos determinar quais partes precisam ser incorporadas ao domínio e onde devem ser estabelecidas suas fronteiras.
 
 ## 2.2. Estabelecendo as fronteiras do domínio
 
