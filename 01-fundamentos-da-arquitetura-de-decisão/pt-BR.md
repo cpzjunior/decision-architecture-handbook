@@ -1,18 +1,22 @@
 # 1. Fundamentos da Arquitetura de Decisão
 
-Este guia propõe seis fundamentos para compreender decisões. Eles não são apresentados como uma definição universal da Arquitetura de Decisão, nem como etapas de um processo ou uma lista de elementos obrigatórios. São uma proposição para organizar características recorrentes das decisões e tornar explícitas relações que aparecem, com diferentes nomes e níveis de formalização, em diversas disciplinas.
+Este guia propõe seis fundamentos para compreender decisões. Eles não constituem uma definição universal da Arquitetura de Decisão, nem devem ser entendidos como etapas de um processo ou como uma lista de elementos obrigatórios. São uma proposição conceitual para tornar explícitas características recorrentes das decisões e as relações entre elas.
 
-Métodos e frameworks apresentam maneiras particulares de lidar com problemas. Eles definem processos, práticas, artefatos, papéis e técnicas adequados a determinados domínios e situações. Conhecer apenas essas formas de aplicação, porém, pode levar à utilização correta de uma prática sem uma compreensão suficiente da necessidade que ela procura atender.
+Um fundamento, neste contexto, é uma característica estrutural da decisão. Ele ajuda a compreender uma dimensão que está presente quando uma escolha é considerada, realizada e produz efeitos. Não define, por si só, como a decisão deve ser conduzida. Sua função é oferecer uma referência para compreender a situação antes de determinar como agir sobre ela.
 
-Os fundamentos propostos neste guia permitem observar o que existe por trás dessas práticas. Eles ajudam a identificar o domínio em que uma decisão ocorre, as condições que formam seu contexto, os objetivos que orientam a escolha, aquilo que ainda não conhecemos, as consequências produzidas pelas alternativas e a forma como essas consequências modificam as condições para decisões futuras.
+Essa distinção é importante porque decisões concretas são frequentemente tratadas por métodos, técnicas e frameworks desenvolvidos para determinados contextos. Essas abordagens organizam formas de trabalho e oferecem mecanismos para lidar com problemas específicos. Os fundamentos propostos aqui estão em um nível anterior: procuram descrever características da própria decisão, independentemente da forma particular utilizada para conduzi-la.
 
-Essa perspectiva também permite reconhecer relações entre disciplinas sem concluir que seus métodos sejam intercambiáveis. Práticas desenvolvidas em arquitetura, gestão, empreendedorismo, desenvolvimento de produtos ou outras áreas podem responder a necessidades semelhantes, ainda que utilizem linguagens, processos e artefatos diferentes.
+As características de uma decisão, porém, não aparecem isoladas. Uma decisão ocorre em algum domínio e parte de determinadas condições. É orientada por objetivos, mas esses objetivos precisam ser considerados diante daquilo que ainda não conhecemos. A escolha produz consequências, e essas consequências modificam as condições nas quais decisões posteriores serão tomadas.
 
-Essa é a função dos fundamentos neste guia. Eles estabelecem uma camada de entendimento anterior à escolha de métodos e ferramentas. Primeiro procuramos compreender a estrutura da decisão e as necessidades que ela produz; depois identificamos quais práticas podem atender a essas necessidades e quais frameworks podem organizá-las.
+Essa estrutura pode ser observada em diferentes tipos de decisão. Uma decisão arquitetural, uma decisão de negócio, uma decisão de projeto ou uma decisão pessoal possuem naturezas distintas, mas todas acontecem em alguma situação, perseguem algum resultado, são tomadas com conhecimento incompleto e produzem efeitos que podem alterar o que será possível fazer posteriormente.
 
-Para quem já trabalha com arquitetura, gestão, estratégia, empreendedorismo ou tomada de decisão, muitas dessas ideias são familiares. Elas aparecem na prática com diferentes nomes e níveis de formalização. O objetivo não é reivindicar conceitos inéditos, mas tornar explícita uma lógica que costuma estar distribuída entre diferentes disciplinas.
+O objetivo deste capítulo não é apresentar uma nova terminologia para substituir conceitos já estabelecidos. Muitas das ideias aqui apresentadas são conhecidas e aparecem, com diferentes nomes e níveis de formalização, em disciplinas como arquitetura, gestão, engenharia, empreendedorismo e desenvolvimento de produtos.
 
-Os seis fundamentos a seguir estabelecem essa base.
+A proposição é outra: partir das questões mais básicas que precisamos responder para compreender uma decisão e, a partir delas, identificar as necessidades que delas derivam. Em vez de começar pelos métodos disponíveis e tentar encaixar a decisão em suas estruturas, começamos perguntando o que precisa ser compreendido sobre a própria decisão.
+
+Quais são as condições mínimas que precisamos conhecer para compreender uma decisão? O que define o campo em que ela ocorre? A partir de que situação ela é tomada? O que orienta a escolha? O que ainda não sabemos? O que muda como consequência da decisão? E como essas mudanças condicionam as decisões seguintes?
+
+É a partir dessas questões que chegamos aos fundamentos apresentados a seguir. Cada um procura responder a uma questão mais básica da estrutura da decisão e, a partir dela, permite derivar necessidades que podem ser tratadas por diferentes práticas e abordagens.
 
 ## 1.1. Toda decisão ocorre dentro de um ou mais domínios
 
