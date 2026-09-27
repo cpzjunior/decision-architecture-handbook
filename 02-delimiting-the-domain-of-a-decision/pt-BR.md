@@ -1,32 +1,36 @@
 # 2. Compreendendo o Domínio de uma Decisão
 
-Toda decisão é uma escolha sobre alguma realidade. Para decidir, não basta conhecer as alternativas disponíveis. É necessário compreender aquilo sobre o qual essas alternativas produzirão efeitos.
+Imagine um biólogo estudando uma espécie. Para entender suas características e seu comportamento, ele não observa apenas o indivíduo. Precisa conhecer também o ecossistema em que vive, os organismos com os quais interage, os recursos dos quais depende e as condições que influenciam sua existência.
 
-Essa realidade constitui o domínio da decisão. Ele representa, em uma perspectiva mais macro, o conjunto de elementos, características, relações e comportamentos que são relevantes para aquilo que está sendo decidido. O domínio não é a decisão, nem o problema que deu origem a ela. É a realidade na qual ambos existem.
+O mesmo princípio se aplica a uma decisão.
 
-O contexto ocupa uma perspectiva mais micro. Ele representa as condições específicas nas quais uma decisão é considerada dentro desse domínio. Uma organização, por exemplo, pode constituir parte do domínio de uma decisão, enquanto uma determinada restrição orçamentária, uma mudança regulatória ou uma oportunidade de mercado pode fazer parte do contexto em que uma decisão específica está sendo tomada.
+Uma decisão pode ter um objeto específico, mas esse objeto está inserido em uma realidade mais ampla. Pessoas, organizações, processos, sistemas, recursos, regras e outros elementos podem estabelecer relações com aquilo que está sendo decidido e influenciar sua evolução.
 
-A diferença entre os dois está, portanto, menos na natureza dos elementos e mais no nível em que a realidade é observada. O domínio oferece uma visão mais ampla e estrutural. O contexto aproxima essa realidade das condições particulares de uma decisão. Por isso, elementos do domínio tendem a mudar mais lentamente, enquanto as condições do contexto podem se alterar com maior frequência.
+O domínio corresponde à parcela desse ecossistema que é relevante para a decisão. Ele não representa toda a realidade, mas também não se limita necessariamente ao objeto que aparece de forma mais evidente.
 
-Essa distinção ajuda a explicar um problema recorrente na atuação profissional. Conhecer uma prática não significa conhecer a realidade na qual ela será aplicada.
+Essa perspectiva ajuda a distinguir domínio e contexto. O domínio oferece uma visão mais macro da realidade relacionada à decisão. O contexto representa uma perspectiva mais micro, formada pelas condições específicas nas quais uma decisão é considerada.
 
-Um profissional pode dominar uma metodologia, seguir suas regras e executar corretamente suas práticas. Ainda assim, pode tomar decisões inadequadas quando trata essas regras como suficientes para orientar sua atuação, sem considerar as características da realidade em que está trabalhando.
+Uma organização, por exemplo, pode fazer parte do domínio de uma decisão, enquanto uma condição orçamentária, uma mudança regulatória ou uma oportunidade de mercado pode caracterizar o contexto em que ela ocorre. A distinção está no nível de observação, e não necessariamente na natureza dos elementos.
 
-Esse é o comportamento do profissional que trabalha “by the book”. Ele transforma uma orientação geral em uma prescrição para uma realidade particular, como se o conhecimento contido na metodologia substituísse o conhecimento necessário sobre o domínio.
+A analogia com o biólogo também ajuda a entender por que o domínio não deve ser confundido com o objeto imediato da decisão. Para estudar uma espécie, não basta descrevê-la isoladamente. É preciso considerar aquilo que, dentro do ecossistema, ajuda a explicar suas características e seu comportamento. Da mesma forma, uma decisão pode exigir a análise de elementos que não aparecem diretamente em sua formulação inicial.
 
-Uma metodologia de gestão de projetos pode estabelecer como planejar, acompanhar e controlar um projeto. Ela não conhece, por si só, a cultura da organização, seus processos, suas capacidades, suas relações internas ou suas restrições.
+Essa diferença entre conhecer uma prática e conhecer a realidade na qual ela será aplicada explica um problema recorrente na atuação profissional.
+
+Um profissional pode dominar uma metodologia, seguir suas regras e executar corretamente suas práticas. Ainda assim, pode tomar decisões inadequadas quando aplica essas orientações sem considerar as características do domínio em que está atuando.
+
+Esse é o comportamento do profissional que trabalha “by the book”: transforma uma orientação geral em uma prescrição para uma realidade particular, como se a metodologia contivesse também o conhecimento necessário sobre o domínio.
+
+Uma metodologia de gestão de projetos pode orientar o planejamento, o acompanhamento e o controle de um projeto. Ela não conhece, por si só, a cultura da organização, seus processos, suas capacidades ou suas relações internas.
 
 Uma prática de arquitetura de soluções pode orientar a construção de uma solução. Ela não conhece automaticamente o modelo de negócio, os processos, as regras, as capacidades ou as limitações tecnológicas da organização.
 
 Uma técnica de empreendedorismo pode orientar a investigação de uma oportunidade. Ela não conhece o mercado, os clientes, os concorrentes ou as condições específicas nas quais o negócio deverá existir.
 
-O conhecimento profissional continua sendo necessário. O que muda é a forma como ele é utilizado. Métodos e práticas fornecem referências gerais para agir; o domínio fornece a realidade que determina como essas referências precisam ser interpretadas.
+Métodos e práticas fornecem referências gerais para agir. O domínio fornece as características da realidade que precisam ser consideradas na aplicação dessas referências.
 
-Compreender o domínio significa, portanto, construir uma representação suficientemente adequada da realidade relevante para a decisão. Não se trata de reproduzir tudo o que existe, mas de identificar aquilo que precisa ser conhecido para que escolhas importantes não sejam baseadas em pressupostos não examinados.
+Compreender o domínio não significa reproduzir toda a realidade. Assim como o biólogo não precisa descrever todo o ecossistema para estudar uma espécie, a arquitetura da decisão não precisa representar tudo o que existe. É necessário identificar aquilo que é relevante para a análise.
 
-Essa compreensão começa pela própria realidade que deu origem à decisão. O problema percebido pode representar apenas uma pequena parte dela. A partir daí, é necessário estabelecer quais fronteiras tornam o domínio analisável, identificar seus elementos, compreender suas características e reconhecer como eles se comportam e se relacionam.
-
-É esse processo que este capítulo desenvolve.
+Esse trabalho começa pelo mapeamento do ecossistema no qual o domínio está inserido, passa pela definição de suas fronteiras e avança para a identificação de seus elementos, suas características e seus comportamentos.
 
 ## 2.1. Mapeando o ecossistema
 
