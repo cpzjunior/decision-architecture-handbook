@@ -68,31 +68,37 @@ Isso é particularmente importante quando um método ou framework será aplicado
 
 ## 1.3. Toda decisão é orientada por um ou mais objetivos
 
-Toda decisão está relacionada a um ou mais resultados que se pretende alcançar, preservar ou evitar. Esses objetivos orientam, de forma explícita ou implícita, a avaliação das alternativas e fornecem uma referência para determinar o que se espera obter.
+Toda decisão está relacionada a um ou mais resultados que se pretende alcançar, preservar ou evitar. Esses objetivos orientam a escolha e fornecem uma referência para determinar o que se pretende obter.
 
 Um objetivo pode estar claramente formulado ou permanecer implícito. Uma pessoa pode decidir reduzir custos sem ter definido previamente quanto pretende reduzir ou em quanto tempo. Uma organização pode decidir modernizar um sistema sem ter esclarecido se o objetivo principal é reduzir custos, aumentar capacidade, diminuir riscos ou permitir uma nova estratégia de negócio.
 
-A existência de um objetivo implícito não significa que a decisão seja necessariamente inválida. Significa que parte da lógica que orienta a escolha ainda não foi explicitada.
+Um objetivo não existe de forma independente do domínio e do contexto. Todo objetivo pressupõe uma realidade à qual se refere e condições nas quais o resultado pretendido é relevante, mesmo quando essas referências não são explicitadas.
 
-Quando os objetivos não são identificados ou compreendidos por quem decide, temos uma decisão cega. A decisão ainda possui uma direção ou finalidade, mas ela não está suficientemente clara para orientar a análise de forma consciente e verificável.
+Considere, por exemplo, o objetivo de “reduzir o tempo de aprovação”. Para que essa afirmação tenha significado, é necessário que exista alguma realidade na qual haja um processo de aprovação, uma definição do que representa esse tempo e condições nas quais sua redução seja desejada. “Reduzir custos” pressupõe custos de alguma coisa. “Aumentar disponibilidade” pressupõe um sistema, serviço ou operação. Quanto mais essas referências são removidas, mais genérico e menos informativo se torna o objetivo.
 
-A explicitação dos objetivos também permite comparar alternativas. Sem saber o que estamos tentando alcançar, podemos comparar soluções com base em preferências, familiaridade ou critérios circunstanciais que não representam aquilo que realmente importa.
+Isso significa que a formulação de um objetivo já contém pressupostos sobre o domínio e o contexto da decisão. A análise pode tornar esses pressupostos explícitos e verificar se correspondem à realidade. Portanto, uma investigação pode começar pelo objetivo, mas o objetivo não deve ser tratado como algo semanticamente independente do domínio e do contexto.
 
-Os objetivos também podem entrar em conflito. Reduzir custos pode entrar em conflito com aumentar qualidade. Acelerar uma entrega pode aumentar riscos. Preservar uma arquitetura existente pode limitar mudanças futuras. Aumentar flexibilidade pode elevar complexidade.
+A relação entre essas dimensões também não implica uma sequência rígida. É possível começar pelo objetivo, pelo domínio, pelo contexto ou por uma situação percebida como problemática. O importante é reconhecer que a compreensão adequada de um objetivo envolve a realidade à qual ele se refere e as condições nas quais ele é relevante.
 
-Por isso, definir objetivos não significa simplesmente produzir uma lista. É necessário compreender as relações entre eles e reconhecer quando uma alternativa atende bem a um objetivo, mas produz consequências desfavoráveis em outro.
+Quando os objetivos não são identificados ou compreendidos por quem decide, temos uma decisão cega. A decisão ainda possui uma direção ou finalidade, mas parte da lógica que orienta a escolha permanece implícita.
 
-Os objetivos também podem mudar durante a análise. Novas informações podem mostrar que aquilo que parecia importante inicialmente não é mais relevante, que um objetivo é inviável nas condições existentes ou que existe um resultado mais importante que não havia sido considerado.
+A explicitação dos objetivos permite estabelecer o que deve ser considerado na escolha. Sem saber o que se pretende alcançar, torna-se difícil determinar quais alternativas são relevantes e quais características devem ser consideradas na comparação entre elas.
+
+Uma decisão também pode envolver objetivos diferentes que não podem ser atendidos simultaneamente na mesma medida. Reduzir custos pode entrar em conflito com aumentar qualidade. Acelerar uma entrega pode entrar em conflito com reduzir riscos. Aumentar flexibilidade pode entrar em conflito com reduzir complexidade.
+
+Por isso, definir objetivos não significa simplesmente produzir uma lista. É necessário compreender quais objetivos existem, como se relacionam e quais deles são prioritários quando não podem ser atendidos simultaneamente.
+
+Os objetivos também podem mudar durante a análise. Novas informações podem mostrar que aquilo que parecia importante inicialmente não é mais relevante, que determinado objetivo não é viável nas condições existentes ou que outro objetivo, antes não considerado, é mais importante para a decisão.
 
 Isso cria uma relação importante entre objetivo e problema. Uma situação se torna um problema em relação a algum resultado pretendido. Se o objetivo muda, a interpretação da situação também pode mudar.
 
-Por exemplo, “substituir o sistema atual” pode parecer inicialmente um problema técnico. Mas, se o objetivo real for reduzir o tempo necessário para lançar novos produtos, talvez substituir o sistema inteiro não seja a única alternativa. O problema pode estar relacionado a uma capacidade específica, e não necessariamente à tecnologia como um todo.
+Por exemplo, “substituir o sistema atual” pode parecer inicialmente um problema técnico. Mas, se o objetivo for reduzir o tempo necessário para lançar novos produtos, substituir o sistema inteiro pode não ser necessário. O problema pode estar relacionado a uma capacidade específica, e não à tecnologia como um todo.
 
-Nesse sentido, problema e objetivo não devem ser tratados como elementos completamente independentes. A definição do que precisa ser resolvido depende, em parte, do resultado que consideramos necessário alcançar.
+Nesse sentido, problema e objetivo não devem ser tratados como elementos completamente independentes. A definição do que precisa ser resolvido depende, em parte, do resultado que se pretende alcançar.
 
-A terceira necessidade produzida por esse fundamento é a definição de critérios de avaliação. Se existem objetivos, precisamos de referências que permitam avaliar alternativas e verificar posteriormente se o resultado alcançado atende ao que se pretendia.
+A definição dos objetivos também estabelece a necessidade de critérios de avaliação. É preciso ter referências que permitam determinar em que medida uma alternativa atende ao que se pretende alcançar.
 
-Esses critérios podem assumir diferentes formas. Podem ser requisitos, métricas, indicadores, atributos de qualidade, condições de sucesso, limites aceitáveis ou outras referências adequadas ao domínio e ao objetivo. Nem todo objetivo precisa ser reduzido a uma métrica. O importante é existir uma forma suficientemente clara de avaliar a relação entre a escolha e aquilo que se pretende alcançar.
+Esses critérios podem assumir diferentes formas, como requisitos, métricas, indicadores, atributos de qualidade, condições de sucesso ou limites aceitáveis. Nem todo objetivo precisa ser reduzido a uma métrica. O importante é existir uma forma suficientemente clara de avaliar se aquilo que foi escolhido atende aos objetivos da decisão.
 
 ## 1.4. Toda decisão envolve algum grau de incerteza
 
