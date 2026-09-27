@@ -102,25 +102,29 @@ Com as fronteiras estabelecidas, torna-se possível identificar os elementos que
 
 ## 2.3. Identificando os elementos do domínio
 
-Depois de estabelecer as fronteiras, é necessário identificar aquilo que existe dentro delas e que pode ser relevante para a decisão.
+Depois de estabelecer as fronteiras, é necessário reconhecer o que existe dentro delas e merece ser considerado na análise.
 
-Esses elementos podem ser pessoas, organizações, processos, produtos, serviços, sistemas, recursos, regras, capacidades, informações, estruturas, eventos ou qualquer outra entidade relevante para a realidade analisada.
+O biólogo segue uma lógica semelhante. Depois de definir o recorte de seu estudo, ele observa os indivíduos da espécie e os demais organismos, recursos e componentes do ambiente que podem ajudar a explicar aquilo que está investigando. O recorte define onde observar; a identificação revela o que está presente.
 
-O objetivo não é produzir um inventário.
+Na arquitetura de uma decisão, esses elementos podem ser pessoas, organizações, processos, produtos, serviços, sistemas, recursos, regras, capacidades, informações, estruturas, eventos ou outras entidades relevantes.
 
-Identificar elementos significa reconhecer as partes da realidade que precisam ser distinguidas para que a decisão possa ser compreendida.
+O objetivo não é produzir um inventário. É distinguir as partes da realidade que precisam ser tratadas separadamente para que sua participação no domínio possa ser analisada.
 
-Essa distinção depende do nível de abstração utilizado.
+Essa distinção depende do nível de abstração adotado.
 
-Em uma análise de uma empresa, podemos tratar “sistema de vendas” como um único elemento. Em outra análise, pode ser necessário decompor esse sistema em aplicações, serviços, integrações, bancos de dados e componentes.
+Em uma análise de uma empresa, o sistema de vendas pode ser tratado como um único elemento. Em outra, pode ser necessário enxergá-lo como um conjunto formado por aplicações, serviços, integrações, bancos de dados e outros componentes.
 
-Da mesma forma, uma organização pode ser tratada como um único elemento em uma análise de mercado, mas pode precisar ser decomposta em áreas, equipes, processos e responsabilidades quando a decisão envolve uma transformação organizacional.
+O mesmo ocorre com uma organização. Em uma análise de mercado, ela pode ser representada como uma unidade. Em uma decisão sobre transformação organizacional, pode ser necessário distinguir áreas, equipes, processos e responsabilidades.
 
-O nível adequado de decomposição depende da decisão.
+A representação adequada, portanto, não é a mais detalhada, mas aquela que utiliza o nível de decomposição necessário para a análise. Detalhar além disso acrescenta complexidade sem necessariamente acrescentar entendimento.
 
-Elementos também podem estar relacionados entre si. Um processo pode depender de um sistema. Um sistema pode depender de outro serviço. Uma equipe pode depender de determinada capacidade. Uma regra pode limitar um processo. Um produto pode depender de uma cadeia de fornecedores.
+À medida que os elementos são reconhecidos, suas relações também começam a aparecer. Um processo pode utilizar um sistema. Uma equipe pode executar determinada atividade. Uma regra pode se aplicar a um processo. Um produto pode estar relacionado a uma cadeia de fornecedores.
 
-Por isso, identificar elementos é apenas o início da compreensão do domínio. É necessário também compreender suas características e seus comportamentos.
+Essas relações ajudam a validar a própria representação. Um elemento inicialmente considerado secundário pode assumir importância quando sua relação com outros é observada. Em alguns casos, essa descoberta pode inclusive exigir a revisão das fronteiras estabelecidas anteriormente.
+
+O biólogo pode passar pela mesma situação ao observar uma espécie. Um organismo inicialmente considerado periférico pode revelar uma relação relevante com a espécie estudada e precisar ser incorporado à análise.
+
+Nesse ponto, já temos uma visão mais estruturada do domínio: sabemos quais elementos fazem parte dele e como eles se relacionam em termos gerais. O próximo passo é caracterizar esses elementos, entendendo suas propriedades e seu papel dentro dessa estrutura.
 
 ## 2.4. Compreendendo as características
 
