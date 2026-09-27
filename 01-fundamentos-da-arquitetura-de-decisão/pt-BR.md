@@ -30,7 +30,7 @@ O conhecimento especializado fornece referências para a análise, mas não dete
 
 Isso também explica por que práticas desenvolvidas em um domínio não devem ser transferidas automaticamente para outro. Uma prática pode fazer sentido porque responde a uma necessidade específica daquele campo e porque seus conceitos, critérios e artefatos foram construídos para determinadas condições.
 
-A primeira necessidade produzida por essa característica é, portanto, a delimitação do domínio. Precisamos saber em quais campos a decisão se insere, quais conhecimentos são relevantes, quais participantes precisam ser considerados e quais limites definem aquilo que está sendo analisado.
+A primeira necessidade produzida por essa característica é a delimitação do domínio. Precisamos saber em quais campos a decisão se insere, quais conhecimentos são relevantes, quais participantes precisam ser considerados e quais limites definem aquilo que está sendo analisado.
 
 Delimitar não significa necessariamente escolher um único domínio. Uma decisão pode deliberadamente atravessar fronteiras entre áreas. O objetivo é tornar essas fronteiras visíveis para que possamos compreender quais perspectivas fazem parte da decisão e quais conhecimentos precisamos mobilizar.
 
@@ -58,7 +58,9 @@ A segunda necessidade produzida por essa característica é a explicitação das
 
 Essa necessidade é atendida por práticas de diagnóstico, levantamento de restrições, identificação de premissas, análise de dependências, compreensão do ambiente existente e identificação das condições atuais. O objetivo não é descrever toda a realidade, mas tornar visíveis as condições que realmente influenciam a decisão.
 
-Isso é particularmente importante quando um método ou framework será aplicado. As práticas de um framework foram desenvolvidas considerando determinadas necessidades e condições. Aplicá-las sem verificar se essas condições existem pode produzir uma situação em que seguimos corretamente o método, mas resolvemos um problema diferente daquele que realmente temos.
+Isso é particularmente importante quando um método ou framework será aplicado. As práticas de um framework foram desenvolvidas para atender determinadas necessidades e pressupõem determinadas condições de aplicação. Utilizá-las sem verificar se essas condições existem pode produzir uma situação em que seguimos corretamente o método, mas tratamos um problema diferente daquele que realmente temos.
+
+É nesse ponto que aparece uma das diferenças entre conhecer um método e saber utilizá-lo. A aplicação adequada de uma prática depende da capacidade de reconhecer as condições para as quais ela foi concebida e verificar se essas condições estão presentes na situação atual.
 
 ## 1.3. Toda decisão é orientada por um ou mais objetivos
 
@@ -82,6 +84,8 @@ Isso cria uma relação importante entre objetivo e problema. Uma situação se 
 
 Por exemplo, “substituir o sistema atual” pode parecer inicialmente um problema técnico. Mas, se o objetivo real for reduzir o tempo necessário para lançar novos produtos, talvez substituir o sistema inteiro não seja a única alternativa. O problema pode estar relacionado a uma capacidade específica, e não necessariamente à tecnologia como um todo.
 
+Nesse sentido, problema e objetivo não devem ser tratados como elementos completamente independentes. A definição do que precisa ser resolvido depende, em parte, do resultado que consideramos necessário alcançar.
+
 A terceira necessidade produzida por essa característica é a definição de critérios de avaliação. Se existem objetivos, precisamos de referências que permitam avaliar alternativas e verificar posteriormente se o resultado alcançado atende ao que se pretendia.
 
 Esses critérios podem assumir diferentes formas. Podem ser requisitos, métricas, indicadores, atributos de qualidade, condições de sucesso, limites aceitáveis ou outras referências adequadas ao domínio e ao objetivo. Nem todo objetivo precisa ser reduzido a uma métrica. O importante é existir uma forma suficientemente clara de avaliar a relação entre a escolha e aquilo que se pretende alcançar.
@@ -102,7 +106,7 @@ Cada alternativa, porém, possui seu próprio custo. Investigar mais pode reduzi
 
 Decidir envolve, portanto, avaliar não apenas quais alternativas estão disponíveis, mas também quanto vale a pena aprender antes de agir.
 
-Essa é uma característica importante da própria decisão. Em determinados contextos, agir rapidamente com informação incompleta pode ser mais adequado do que prolongar a investigação. Em outros, uma decisão prematura pode produzir consequências difíceis de reverter.
+Essa avaliação também depende da natureza das consequências. Quando uma decisão é facilmente reversível, pode ser aceitável avançar com maior grau de incerteza. Quando uma escolha cria compromissos difíceis de desfazer, o custo de uma decisão prematura pode ser muito maior.
 
 A quarta necessidade produzida por essa característica é o tratamento do desconhecido. Precisamos identificar aquilo que ainda não sabemos, avaliar sua importância e decidir como lidar com essa incerteza.
 
@@ -110,7 +114,7 @@ Hipóteses, evidências, experimentos, protótipos, pesquisas, cenários, riscos
 
 Lean Startup, por exemplo, estrutura práticas para transformar hipóteses em experimentos e aprendizado. Design Thinking utiliza atividades de investigação, prototipação e teste para aprender sobre necessidades e possíveis soluções. Gestão de riscos estrutura a identificação e análise de eventos incertos e suas possíveis consequências.
 
-Essas abordagens não são equivalentes e não devem ser aplicadas apenas porque uma decisão contém incerteza. A questão é compreender qual incerteza existe e qual prática é adequada para produzir o conhecimento necessário.
+Essas abordagens não são equivalentes e não devem ser aplicadas apenas porque uma decisão contém incerteza. A questão é compreender qual incerteza existe, qual conhecimento está faltando e qual prática pode produzir evidência relevante para a decisão.
 
 ## 1.5. Toda decisão altera o espaço de possibilidades
 
@@ -118,7 +122,7 @@ Uma decisão produz mais do que um resultado imediato. Ela pode comprometer recu
 
 Também pode preservar opções, gerar novas alternativas ou produzir informação útil para decisões posteriores.
 
-Por isso, o espaço de possibilidades deve ser entendido como aquilo que pode ser feito a partir de determinado momento, considerando os recursos, compromissos, dependências e restrições existentes.
+Por isso, o espaço de possibilidades pode ser entendido como aquilo que pode ser feito a partir de determinado momento, considerando os recursos, compromissos, dependências e restrições existentes.
 
 Alterar esse espaço não significa necessariamente reduzir opções. Uma escolha pode eliminar determinados caminhos e, ao mesmo tempo, criar outros. Uma nova capacidade tecnológica pode abrir alternativas que não existiam. Uma decisão comercial pode criar acesso a um mercado e fechar outro.
 
@@ -160,9 +164,9 @@ Essa acumulação também aparece na arquitetura de sistemas. A arquitetura atua
 
 Uma decisão arquitetural, por exemplo, pode introduzir uma tecnologia. Depois, essa tecnologia passa a influenciar a contratação de profissionais, a escolha de ferramentas, os custos operacionais e as decisões de integração. Uma decisão inicial, portanto, participa da formação do contexto de decisões posteriores.
 
-Isso significa que a qualidade de uma decisão não pode ser avaliada apenas pelo momento em que ela foi tomada. Precisamos considerar também como ela se comporta ao longo da evolução e que conhecimento ela produz.
+Isso significa que uma decisão não deve ser analisada apenas pelo estado existente no momento em que é tomada. Também precisamos considerar os efeitos que produz sobre a evolução e o conhecimento que gera para decisões futuras.
 
-A sexta necessidade produzida por essa característica é a observação, aprendizado e preservação do conhecimento produzido pela evolução.
+A sexta necessidade produzida por essa característica é a observação, o aprendizado e a preservação do conhecimento produzido pela evolução.
 
 Precisamos conseguir observar o que aconteceu, comparar o resultado com aquilo que esperávamos e compreender as razões de eventuais diferenças.
 
@@ -170,7 +174,7 @@ Também precisamos conseguir recuperar informações relevantes sobre decisões 
 
 Dependendo do domínio, isso pode ser feito por meio de indicadores, feedback, retrospectivas, registros de decisão, documentação, experimentos ou outros mecanismos de aprendizado.
 
-A rastreabilidade surge posteriormente como uma forma de preservar esse conhecimento, mas ela não é o objetivo em si. O objetivo é manter a capacidade de compreender a evolução e utilizar o conhecimento produzido para orientar decisões futuras.
+A rastreabilidade surge como uma forma de preservar esse conhecimento, mas ela não é o objetivo em si. O objetivo é manter a capacidade de compreender a evolução e utilizar o conhecimento produzido para orientar decisões futuras.
 
 ## 1.7. Como os fundamentos se relacionam
 
@@ -188,23 +192,23 @@ Uma nova informação sobre o domínio pode alterar nossa compreensão do contex
 
 A decisão, portanto, não acontece dentro de uma estrutura estática. Ela acontece dentro de uma estrutura que se modifica enquanto aprendemos, escolhemos e agimos.
 
-Essa perspectiva ajuda a compreender por que diferentes práticas e frameworks podem parecer tão diferentes e, ainda assim, tratar necessidades relacionadas.
+Essa relação ajuda a explicar por que diferentes práticas e frameworks podem parecer tão diferentes e, ainda assim, tratar necessidades relacionadas.
 
 Podemos estabelecer uma segunda relação:
 
 Característica → necessidade → prática → framework
 
-O domínio produz a necessidade de delimitação. Essa necessidade pode ser tratada por práticas de definição de fronteiras, modelagem, escopo e linguagem comum. DDD, por exemplo, oferece práticas para compreender e delimitar domínios, estabelecer modelos e definir bounded contexts. TOGAF e arc42 também trabalham, de maneiras diferentes, com a compreensão do domínio e das fronteiras da arquitetura.
+O domínio produz a necessidade de delimitação. Essa necessidade pode ser tratada por práticas de definição de fronteiras, modelagem, escopo e linguagem comum. DDD, por exemplo, oferece práticas para compreender e delimitar domínios, estabelecer modelos e definir bounded contexts. Outras abordagens de arquitetura, gestão e análise de negócios também possuem práticas destinadas a tornar explícitos os limites daquilo que está sendo analisado.
 
 O contexto produz a necessidade de explicitar as condições existentes. Isso pode envolver levantamento de restrições, premissas, dependências, situação atual, stakeholders e recursos disponíveis. arc42 trabalha explicitamente com contexto e escopo, restrições e estratégia de solução. TOGAF também estrutura atividades relacionadas à compreensão do ambiente, arquitetura e transição. Em projetos, práticas de planejamento e diagnóstico cumprem funções semelhantes.
 
-Os objetivos produzem a necessidade de critérios de avaliação. Requisitos, métricas, indicadores, atributos de qualidade e critérios de sucesso são algumas das formas possíveis de atender essa necessidade. Scrum utiliza Product Goal e Sprint Goal para orientar o trabalho; PMBOK trata de objetivos, planejamento, entrega e medição; arc42 inclui requisitos de qualidade e objetivos como elementos relevantes para a arquitetura.
+Os objetivos produzem a necessidade de critérios de avaliação. Requisitos, métricas, indicadores, atributos de qualidade e critérios de sucesso são algumas das formas possíveis de atender essa necessidade. Scrum utiliza Product Goal e Sprint Goal para orientar o trabalho. PMBOK trabalha com objetivos, planejamento, entrega e medição. Em arquitetura, requisitos funcionais, atributos de qualidade e restrições ajudam a estabelecer referências para avaliar alternativas.
 
-A incerteza produz a necessidade de tratar aquilo que ainda não conhecemos. Nesse caso, podemos utilizar análise de riscos, formulação de hipóteses, experimentação, prototipação, pesquisa, cenários ou outras práticas de investigação. Lean Startup utiliza experimentação e aprendizado para testar hipóteses. Design Thinking utiliza investigação, ideação, prototipação e teste para aprender sobre necessidades e soluções. Práticas de gestão de riscos tratam eventos incertos e suas possíveis consequências.
+A incerteza produz a necessidade de tratar aquilo que ainda não conhecemos. Nesse caso, podemos utilizar análise de riscos, formulação de hipóteses, experimentação, prototipação, pesquisa, cenários ou outras práticas de investigação. Lean Startup utiliza experimentação e aprendizado para testar hipóteses. Design Thinking utiliza investigação, ideação, prototipação e teste para aprender sobre necessidades e possíveis soluções. Práticas de gestão de riscos tratam eventos incertos e suas possíveis consequências.
 
 O espaço de possibilidades produz a necessidade de analisar alternativas e consequências. Nesse caso aparecem práticas como análise de cenários, comparação de opções, identificação de trade-offs, análise de reversibilidade e registro de decisões. Em arquitetura de software, ADRs podem registrar alternativas consideradas, decisões tomadas e suas justificativas. Em planejamento, diferentes opções de execução podem ser comparadas de acordo com seus impactos, custos, riscos e compromissos.
 
-A evolução produz a necessidade de observar resultados, aprender e preservar conhecimento. Scrum incorpora inspeção e adaptação. Lean Startup estrutura ciclos de construção, medição e aprendizado. Retrospectivas permitem examinar a experiência de um ciclo e ajustar o seguinte. ADRs preservam conhecimento sobre decisões que continuam influenciando a evolução da arquitetura. Outros métodos e práticas fazem uso de mecanismos diferentes para atender à mesma necessidade fundamental.
+A evolução produz a necessidade de observar resultados, aprender e preservar conhecimento. Scrum incorpora inspeção e adaptação. Lean Startup estrutura ciclos de construção, medição e aprendizado. Retrospectivas permitem examinar a experiência de um ciclo e ajustar o seguinte. ADRs preservam conhecimento sobre decisões que continuam influenciando a evolução da arquitetura. Outros métodos e práticas utilizam mecanismos diferentes para atender à mesma necessidade fundamental.
 
 Esses exemplos não significam que cada framework pertença a apenas um fundamento. Essa seria uma interpretação excessivamente rígida. Um framework pode atender várias necessidades ao mesmo tempo porque uma prática frequentemente atua sobre mais de uma dimensão da decisão.
 
@@ -219,6 +223,8 @@ Essa inversão é importante. Em vez de perguntar primeiro “qual framework dev
 Esse raciocínio também ajuda a compreender o que significa adaptar uma prática à realidade. Adaptar não é simplesmente escolher quais partes de um framework serão ignoradas. É verificar se as premissas, objetivos, restrições, condições e necessidades que justificam determinada prática estão presentes na situação atual.
 
 Uma prática pode ser adequada em uma situação e inadequada em outra sem que exista contradição. O que muda é o contexto, a necessidade ou o grau de importância daquela prática para a decisão.
+
+Isso também permite compreender o problema de aplicar um método “by the book”. Seguir uma prática exatamente como descrita pode produzir conformidade com o método sem necessariamente produzir adequação à situação. A questão não é abandonar a disciplina do método, mas compreender sua finalidade e verificar quais partes são relevantes diante das condições existentes.
 
 Os fundamentos, portanto, não procuram substituir DDD, TOGAF, arc42, Scrum, PMBOK, Lean Startup, Design Thinking, ADR ou outros métodos. Eles oferecem uma forma de enxergar o que essas abordagens estão tentando tratar e de reconhecer que diferentes disciplinas podem desenvolver respostas distintas para necessidades estruturalmente relacionadas.
 
