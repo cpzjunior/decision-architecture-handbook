@@ -25,6 +25,28 @@ This is an open and evolving project, developed in this repository as concepts, 
 2. [Understanding the Domain of a Decision](./02-understanding-the-domain-of-a-decision/en.md)
 3. (Work in progress)
 
+## Languages
+
+Articles are originally written in Brazilian Portuguese.
+
+* `pt-BR.md` — original and canonical version
+* `en.md` — English translation
+* `es.md` — Spanish translation
+* `it.md` — Italian translation
+* `ai.md` — compressed English representation for AI systems
+
+The maintainer has only included languages in which he has some degree of proficiency, rather than relying solely on AI-generated translations. Contributions to review translations into additional languages are welcome and would enable him to expand language support.
+
+## AI-readable content
+
+The repository is intentionally available for indexing and processing by search engines, AI systems, and other automated tools.
+
+The `ai.md` files contain compressed representations of the articles, preserving their main ideas and arguments while reducing the amount of text required to process them.
+
+They are written in English because English is predominant in the training data and ecosystem of many large language models. Using a compressed English representation can reduce token usage and, consequently, processing and API costs.
+
+The `ai.md` files are derived representations. The `pt-BR.md` file remains the original and canonical source.
+
 ## License
 
 This repository is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
