@@ -1,5 +1,5 @@
-| 🇺🇸 [en](README.md) | 🇧🇷 [pt-BR](README.pt-BR.md) |
-|---|---|
+| 🇺🇸 [en](README.md) | 🇪🇸 [es](README.es.md) | 🇮🇹 [it](README.it.md) | 🇧🇷 [pt-BR](README.pt-BR.md) | 🤖 [ai](README.ai.md) |
+|---|---|---|---|---|
 
 # Decision Architecture Guide
 
