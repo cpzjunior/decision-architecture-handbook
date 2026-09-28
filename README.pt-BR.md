@@ -27,7 +27,7 @@ Este é um projeto aberto e evolutivo, desenvolvido neste repositório à medida
 
 ## Idiomas
 
-Os artigos são originalmente escritos em português brasileiro no [Substack](https://cpzjunior.substack.com/archive).
+Os artigos são originalmente escritos em português brasileiro.
 
 * `pt-BR.md` — versão original e canônica
 * `en.md` — tradução para o inglês
