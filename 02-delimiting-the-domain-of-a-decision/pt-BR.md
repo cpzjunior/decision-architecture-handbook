@@ -34,127 +34,109 @@ Esse trabalho começa pelo mapeamento do ecossistema no qual o domínio está in
 
 ## 2.1. Mapeando o ecossistema
 
-Toda decisão está inserida em uma realidade mais ampla do que aquilo que está diretamente sendo decidido. Essa realidade é formada por diferentes elementos que coexistem, se relacionam e influenciam uns aos outros.
+Uma decisão não existe isoladamente dentro de uma organização. Ela está inserida em uma realidade mais ampla, formada pela própria organização, pelo setor em que atua, pelo mercado em que compete e pelas condições econômicas, sociais, tecnológicas e regulatórias que influenciam esse ambiente.
 
-Podemos compreender essa realidade como um ecossistema.
+Essa realidade mais ampla pode ser compreendida como um ecossistema. O ecossistema representa o conjunto de elementos e relações que formam o ambiente no qual a decisão existe. Nem todos esses elementos farão parte do domínio da decisão, mas conhecê-los em nível suficiente evita que o domínio seja definido de maneira artificialmente restrita.
 
-Uma organização, por exemplo, não existe isoladamente. Ela se relaciona com clientes, fornecedores, parceiros, concorrentes, órgãos reguladores, tecnologias, profissionais, processos, mercados e diversos outros elementos. Uma mudança em uma parte desse ecossistema pode alterar as condições de outras partes, ainda que essa relação não seja imediatamente evidente.
+O cenário macroeconômico também pode fazer parte dessa visão. Inflação, juros, emprego, renda, disponibilidade de crédito, variações cambiais e outras condições econômicas podem alterar o comportamento de um setor e, consequentemente, as condições nas quais determinadas decisões são tomadas. O mesmo vale para mudanças tecnológicas, regulatórias ou sociais que transformem o ambiente no qual uma organização atua.
 
-O mesmo acontece em uma decisão tecnológica. Uma solução não existe apenas como um conjunto de componentes técnicos. Ela está relacionada aos sistemas existentes, aos processos da organização, às pessoas que a utilizam ou operam, às informações que circulam por ela, às regras que precisa atender e às capacidades disponíveis para sua implementação e operação.
+A analogia com o biólogo ajuda a esclarecer essa perspectiva. Ao estudar uma espécie, o biólogo não observa apenas o organismo isoladamente. Ele considera o ecossistema em que a espécie vive, os recursos disponíveis, os demais organismos presentes e as relações que estabelecem entre si. Uma alteração nesse ambiente pode modificar as condições de existência da espécie, mesmo que suas características biológicas permaneçam as mesmas.
 
-É por isso que o mapeamento do ecossistema precede a definição do domínio. Antes de estabelecer o que será considerado na decisão, é necessário reconhecer a realidade mais ampla na qual ela está inserida.
+Na arquitetura de uma decisão, ocorre algo semelhante. Para compreender adequadamente uma decisão, é necessário reconhecer a realidade mais ampla na qual ela está inserida. O objetivo não é representar toda essa realidade em detalhes, mas identificar os elementos e relações que podem ter relevância para aquilo que será analisado.
 
-O biólogo que estuda uma espécie parte de uma lógica semelhante. Ele observa o ambiente em que a espécie vive para identificar os organismos, recursos e relações que podem ser relevantes para seu estudo. Não precisa mapear tudo o que existe, mas precisa evitar uma visão tão restrita que impeça a compreensão daquilo que está investigando.
+Considere uma empresa de varejo que decide substituir seu sistema de vendas. A decisão está relacionada ao funcionamento da empresa, mas a realidade relevante é mais ampla. A empresa atua em determinado setor, compete por clientes, depende de fornecedores, utiliza meios de pagamento, contrata serviços de logística e está sujeita às condições econômicas do país.
 
-Na arquitetura de uma decisão, o princípio é o mesmo. O objetivo do mapeamento não é representar tudo o que existe, mas revelar os elementos e relações que podem ter relevância para a decisão.
+O comportamento dos consumidores, as práticas do setor, a disponibilidade de mão de obra, os custos operacionais, as condições de crédito e o nível de concorrência podem influenciar a forma como a empresa vende seus produtos e, consequentemente, as características que um novo sistema precisa suportar.
 
-Considere, por exemplo, uma empresa que pretende modificar seu processo de contratação de profissionais. O ecossistema pode envolver candidatos, gestores, equipe de recursos humanos, fornecedores de tecnologia, legislação trabalhista, mercado de trabalho, sistemas internos, políticas organizacionais e condições econômicas. Dependendo da decisão, diferentes partes desse ecossistema poderão ser relevantes para a análise.
+Dentro da própria organização existem ainda lojas, vendedores, clientes, produtos, estoque, pagamentos, logística, suporte, sistemas e parceiros. Esses elementos estabelecem relações entre si e formam uma realidade muito maior do que o sistema de vendas isoladamente.
 
-Nem tudo que pertence ao ecossistema fará parte do domínio de uma decisão específica. Um elemento pode estar presente na realidade observada sem precisar ser incorporado à representação utilizada para aquela decisão. Da mesma forma, um elemento aparentemente distante pode revelar uma relação importante e precisar ser considerado.
+O mapeamento do ecossistema, portanto, amplia o campo de observação. Ele permite reconhecer a realidade na qual a decisão está inserida antes de definir quais partes dessa realidade precisam ser tratadas diretamente.
 
-Por isso, o mapeamento deve ser amplo o suficiente para evitar exclusões prematuras, mas não precisa antecipar a definição do domínio. Sua função é oferecer uma visão inicial da realidade sobre a qual essa definição será feita.
+Essa visão também pode ser revisada. À medida que novos elementos ou relações são identificados, a compreensão do ecossistema pode mudar e levar à revisão das fronteiras que serão estabelecidas para o domínio.
 
-Esse mapeamento também pode ser revisado. Assim como o biólogo pode descobrir novas relações ao observar uma espécie em seu ambiente, a análise de uma decisão pode revelar elementos ou conexões que não estavam evidentes inicialmente. Quando isso acontece, a compreensão do ecossistema se amplia e o domínio pode precisar ser reconsiderado.
-
-Mapear o ecossistema, portanto, é estabelecer uma visão inicial da realidade que envolve a decisão. A partir dela, podemos determinar quais partes precisam ser incorporadas ao domínio e onde devem ser estabelecidas suas fronteiras.
+Mapear o ecossistema significa, portanto, reconhecer o ambiente mais amplo no qual a decisão existe, incluindo a organização, seu setor, o mercado e as condições externas que podem influenciar sua realidade.
 
 ## 2.2. Estabelecendo as fronteiras do domínio
 
-Compreender o domínio exige determinar até onde sua representação precisa se estender para que a decisão possa ser analisada adequadamente. Essa definição estabelece as fronteiras do domínio.
+Reconhecer o ecossistema não significa analisar todos os seus elementos. O domínio corresponde ao recorte dessa realidade que precisa ser considerado para compreender a decisão.
 
-Delimitar o domínio significa estabelecer uma fronteira que permita raciocinar com clareza sobre a decisão, sem pressupor que aquilo que ficou fora deixou de existir ou deixou de ter qualquer relação com aquilo que está sendo analisado.
+Estabelecer suas fronteiras significa determinar quais partes do ecossistema serão tratadas diretamente na análise e quais permanecerão fora dela. Essa fronteira é uma construção conceitual. Ela não representa uma separação existente na realidade.
 
-A fronteira não representa uma separação absoluta da realidade. Ela é uma construção para fins de análise. Seu propósito é definir quais elementos e relações precisam ser considerados para compreender a decisão sem transformar a análise em uma tentativa de representar tudo o que existe.
+Um elemento pode ficar fora do domínio e ainda manter relações relevantes com aquilo que está dentro dele. A fronteira apenas determina o foco da análise. Ela não elimina as relações que existem além desse recorte.
 
-A analogia com o biólogo ajuda a esclarecer essa ideia. Ao estudar uma espécie, ele pode estabelecer um recorte para sua investigação sem considerar que os organismos que ficaram fora desse recorte deixaram de fazer parte do ecossistema. Uma espécie pode depender de outra para obter recursos, competir com outra por espaço ou estabelecer uma relação de mutualismo na qual ambas se beneficiam. A fronteira do estudo não elimina essas relações. Ela apenas define quais delas precisam ser consideradas para o propósito da investigação.
+O biólogo enfrenta uma situação semelhante. Ao estudar uma espécie, pode definir um recorte para sua investigação sem considerar que os organismos que ficaram fora deixaram de pertencer ao ecossistema. Uma espécie pode depender de outra para obter recursos, competir com outra ou estabelecer relações de mutualismo. O recorte define o que será observado diretamente, mas não transforma o restante do ecossistema em algo irrelevante.
 
-Na arquitetura de uma decisão, o princípio é semelhante. Um elemento pode estar fora do domínio e ainda assim manter uma relação relevante com aquilo que está dentro dele. Nesse caso, a fronteira não deve ser tratada como uma barreira que elimina a relação, mas como uma forma de organizar o que será analisado diretamente e o que será considerado por meio de suas relações com o domínio.
+Na arquitetura de uma decisão, a fronteira precisa ser suficientemente ampla para preservar as relações que podem alterar a análise. Ao mesmo tempo, não precisa incorporar toda a realidade.
 
-No exemplo da abertura de contas, o domínio pode incluir o processo de cadastro, os sistemas envolvidos, as regras de validação, as equipes responsáveis e as integrações externas. Outros aspectos da instituição podem permanecer fora dessa fronteira porque não são necessários para a análise naquele momento.
+Considere novamente a empresa de varejo. Se a decisão envolve a substituição do sistema de vendas, o domínio pode incluir vendedores, clientes, produtos, preços, pedidos, estoque, pagamentos e o próprio sistema de vendas.
 
-Isso não significa que esses aspectos sejam permanentemente irrelevantes. Uma nova informação pode revelar uma relação importante, ou uma mudança na própria decisão pode exigir que a fronteira seja ampliada, reduzida ou redefinida.
+Mas talvez também seja necessário considerar quem realiza as entregas, quem repõe o estoque, quem presta suporte aos clientes ou quem verifica transações suspeitas. Esses elementos podem estar diretamente relacionados ao funcionamento da operação de vendas, mesmo que não sejam percebidos inicialmente como parte do sistema de vendas.
 
-A fronteira, portanto, não é uma característica permanente do domínio. Ela está relacionada à decisão que está sendo analisada.
+A decisão sobre as fronteiras também pode revelar que estamos diante de mais de um domínio. Vendas, estoque, logística, pagamentos, atendimento e prevenção de fraude podem possuir responsabilidades, estruturas e formas de funcionamento próprias, embora estejam relacionados.
 
-Uma decisão para reduzir o tempo de abertura de contas pode exigir uma determinada fronteira. Uma decisão sobre a expansão internacional da instituição poderá exigir outra. Uma decisão sobre a substituição do sistema responsável pelo processo poderá exigir uma terceira.
+Nesse ponto surge outra decisão: tratar esses domínios conjuntamente ou decompor a análise em decisões relacionadas.
 
-Também pode acontecer de uma mesma decisão envolver mais de um domínio. Uma decisão de modernização de uma operação, por exemplo, pode atravessar simultaneamente os domínios tecnológico, operacional e organizacional. Cada domínio pode possuir elementos, regras, relações, capacidades e formas de funcionamento próprias, mas todos podem ser relevantes para a mesma decisão.
+Essa escolha não é apenas uma questão de organização do trabalho. Ela pode alterar a própria arquitetura da solução. Uma capacidade como verificação de fraude pode estar incorporada a um sistema maior ou ser disponibilizada por um serviço próprio. A entrega pode fazer parte de uma solução integrada ou utilizar serviços especializados de parceiros. O controle de estoque pode estar no mesmo sistema de vendas ou em outro sistema que se relaciona com ele.
 
-Quando uma decisão atravessa múltiplos domínios, surge uma decisão adicional: manter esses domínios dentro de uma única decisão ou decompor a decisão em decisões relacionadas.
+Portanto, a arquitetura tecnológica existente não define, por si só, as fronteiras do domínio. Um único sistema pode conter capacidades pertencentes a diferentes partes da realidade. Da mesma forma, uma única capacidade pode estar distribuída entre vários sistemas ou serviços.
 
-Essa escolha é, ela própria, uma decisão. Antes de decidir sobre o objeto original, pode ser necessário decidir como a própria decisão será estruturada. Podemos optar por tratar os domínios conjuntamente, preservando as relações entre eles, ou separá-los em decisões distintas, estabelecendo as relações e dependências entre essas decisões.
+A decisão de integrar ou decompor os domínios também é uma decisão. Ao decidir como estruturar uma decisão maior, podemos criar novas decisões relacionadas, cada uma com suas próprias fronteiras. Temos, portanto, um ciclo de decisões no qual a forma de decompor uma decisão influencia a maneira como suas partes serão analisadas.
 
-Surge, assim, um ciclo de decisões. Uma decisão pode gerar a necessidade de outra decisão para definir sua estrutura, seus domínios ou sua decomposição. A decisão sobre a estrutura pode, por sua vez, alterar a forma como a decisão original será analisada e tomada.
+A cultura na qual esses domínios estão inseridos também pode influenciar essa escolha. Estruturas de autoridade, especializações profissionais, incentivos, formas de trabalho e padrões históricos de colaboração podem favorecer uma visão mais integrada ou uma separação maior entre as partes.
 
-Esse ciclo não é necessariamente um problema. Ele faz parte da natureza de decisões complexas. A arquitetura da decisão precisa reconhecer quando uma decisão sobre a própria estrutura da decisão é necessária e incorporá-la à análise.
+Uma fronteira excessivamente estreita pode esconder relações capazes de alterar a decisão. Uma fronteira excessivamente ampla pode tornar a representação difícil de utilizar. O objetivo não é encontrar a maior ou a menor fronteira possível, mas um recorte que preserve as relações relevantes para a decisão.
 
-A escolha entre integrar ou decompor também pode ser influenciada pela cultura dos domínios envolvidos. Formas de trabalho, estruturas de autoridade, especializações profissionais, incentivos e padrões históricos de colaboração podem favorecer decisões integradas ou estimular sua separação.
-
-Isso significa que a forma como uma organização estrutura suas decisões pode ser influenciada pelo próprio domínio no qual essas decisões acontecem. A maneira de dividir responsabilidades, organizar áreas e estabelecer relações entre especialistas pode determinar quais decisões são tratadas conjuntamente e quais são separadas.
-
-Dois erros são especialmente comuns. O primeiro é delimitar o domínio de maneira excessivamente estreita e excluir elementos capazes de alterar a decisão. O segundo é tentar incluir tudo em uma única análise, produzindo uma representação tão ampla que as relações relevantes se tornam difíceis de identificar.
-
-A boa delimitação estabelece uma fronteira suficiente para compreender a decisão, preservando as relações relevantes com outros domínios e permitindo que a decisão seja integrada ou decomposta de maneira consciente.
-
-Assim como o biólogo pode estudar uma espécie sem precisar estudar todo o ecossistema em profundidade, a arquitetura da decisão busca estabelecer um recorte suficiente para a análise, sem perder de vista as relações que atravessam suas fronteiras.
-
-Com as fronteiras estabelecidas, torna-se possível identificar os elementos que compõem cada domínio e compreender suas características.
+Delimitar o domínio significa estabelecer uma fronteira que permita raciocinar com clareza sem pressupor que aquilo que ficou fora deixou de existir.
 
 ## 2.3. Identificando os elementos do domínio
 
-Depois de estabelecer as fronteiras, é necessário reconhecer o que existe dentro delas e merece ser considerado na análise.
+Depois de estabelecer as fronteiras, é necessário reconhecer quais elementos compõem o domínio. Esses elementos são as partes que precisam ser distinguidas para que a realidade representada possa ser analisada.
 
-O biólogo segue uma lógica semelhante. Depois de definir o recorte de seu estudo, ele observa os indivíduos da espécie e os demais organismos, recursos e componentes do ambiente que podem ajudar a explicar aquilo que está investigando. O recorte define onde observar; a identificação revela o que está presente.
+O objetivo não é produzir um inventário completo de tudo que existe dentro das fronteiras. É identificar os elementos que possuem relevância suficiente para serem tratados separadamente na decisão.
 
-Na arquitetura de uma decisão, esses elementos podem ser pessoas, organizações, processos, produtos, serviços, sistemas, recursos, regras, capacidades, informações, estruturas, eventos ou outras entidades relevantes.
+Essa identificação depende do nível de abstração utilizado. Um mesmo elemento pode ser representado como uma unidade em uma análise e decomposto em partes menores em outra. A representação adequada é aquela que utiliza o nível de detalhe necessário para a decisão.
 
-O objetivo não é produzir um inventário. É distinguir as partes da realidade que precisam ser tratadas separadamente para que sua participação no domínio possa ser analisada.
+O biólogo segue uma lógica semelhante. Ao estudar uma espécie, ele identifica os indivíduos que pertencem ao objeto de estudo e distingue também outros organismos, recursos e componentes do ambiente relevantes para a investigação. Dependendo da pergunta que está sendo estudada, um organismo pode ser tratado como uma unidade ou analisado em maior detalhe.
 
-Essa distinção depende do nível de abstração adotado.
+Na arquitetura de uma decisão, essa escolha de abstração é igualmente importante. O domínio precisa ser representado em um nível que permita distinguir as partes relevantes sem introduzir complexidade desnecessária.
 
-Em uma análise de uma empresa, o sistema de vendas pode ser tratado como um único elemento. Em outra, pode ser necessário enxergá-lo como um conjunto formado por aplicações, serviços, integrações, bancos de dados e outros componentes.
+Na empresa de varejo, podemos identificar clientes, vendedores, lojas, produtos, pedidos, preços, estoque, pagamentos, entregas, suporte, mecanismos de verificação de fraude, sistemas e parceiros.
 
-O mesmo ocorre com uma organização. Em uma análise de mercado, ela pode ser representada como uma unidade. Em uma decisão sobre transformação organizacional, pode ser necessário distinguir áreas, equipes, processos e responsabilidades.
+O sistema de vendas pode ser tratado como um único elemento quando a decisão estiver relacionada à operação comercial como um todo. Em uma decisão arquitetural mais específica, esse mesmo sistema pode ser decomposto em aplicações, serviços, bancos de dados e integrações.
 
-A representação adequada, portanto, não é a mais detalhada, mas aquela que utiliza o nível de decomposição necessário para a análise. Detalhar além disso acrescenta complexidade sem necessariamente acrescentar entendimento.
+O mesmo vale para outros elementos. Uma loja pode ser representada como uma unidade ou decomposta em equipes, equipamentos, processos e espaços. Um serviço de entrega pode ser tratado como um parceiro ou analisado em termos de suas próprias capacidades e componentes.
 
-À medida que os elementos são reconhecidos, suas relações também começam a aparecer. Um processo pode utilizar um sistema. Uma equipe pode executar determinada atividade. Uma regra pode se aplicar a um processo. Um produto pode estar relacionado a uma cadeia de fornecedores.
+A decomposição não deve ocorrer simplesmente porque é possível decompor. Ela deve ocorrer quando o nível atual de abstração não é suficiente para a decisão.
 
-Essas relações ajudam a validar a própria representação. Um elemento inicialmente considerado secundário pode assumir importância quando sua relação com outros é observada. Em alguns casos, essa descoberta pode inclusive exigir a revisão das fronteiras estabelecidas anteriormente.
+Ao identificar os elementos, suas relações também começam a se tornar visíveis. Um vendedor utiliza o sistema de vendas. O sistema consulta informações de produtos e preços. Uma venda gera um pedido. O pedido pode acionar uma entrega. A disponibilidade do produto depende do estoque. Uma transação pode passar por mecanismos de pagamento e verificação de fraude.
 
-O biólogo pode passar pela mesma situação ao observar uma espécie. Um organismo inicialmente considerado periférico pode revelar uma relação relevante com a espécie estudada e precisar ser incorporado à análise.
+Essas relações podem revelar que determinado elemento, inicialmente considerado periférico, possui participação relevante na decisão. Nesse caso, a representação do domínio pode precisar ser revista.
 
-Nesse ponto, já temos uma visão mais estruturada do domínio: sabemos quais elementos fazem parte dele e como eles se relacionam em termos gerais. O próximo passo é caracterizar esses elementos, entendendo suas propriedades e seu papel dentro dessa estrutura.
+Temos, nesse ponto, uma representação estruturada dos principais elementos que compõem o domínio. Ainda não estamos investigando todas as condições em que esses elementos operam. O objetivo é estabelecer sua composição e o nível de abstração adequado para continuar a análise.
 
 ## 2.4. Compreendendo características e comportamentos
 
-Identificar os elementos que fazem parte do domínio é apenas o primeiro nível de compreensão. É necessário reconhecer suas características e observar como eles atuam e se relacionam.
+Identificar os elementos do domínio ainda não é suficiente. É necessário compreender suas principais características e como esses elementos atuam e interagem.
 
-O biólogo, ao estudar uma espécie, não se limita a identificar os indivíduos. Ele observa suas características, como estrutura, funções e capacidades, e também seu comportamento e suas relações com outros organismos. É essa combinação que permite compreender a espécie dentro do recorte estabelecido.
+As características descrevem o que os elementos são. Podem envolver sua natureza, finalidade, função, capacidade, composição, estrutura ou outras propriedades relevantes para a representação do domínio.
 
-Na arquitetura de uma decisão, as características descrevem o que cada elemento é. Podem incluir sua natureza, função, capacidade, composição, estrutura, finalidade ou outras propriedades relevantes para sua participação no domínio.
+Os comportamentos descrevem como esses elementos atuam e interagem. Um elemento pode responder a determinadas ações, executar uma função, produzir informações, consumir recursos ou estabelecer relações com outros elementos.
 
-Um sistema pode ser caracterizado por sua finalidade, seus principais componentes e as funções que oferece. Uma equipe pode ser descrita por sua composição, responsabilidades e capacidades. Um produto pode ser compreendido por suas características e funcionalidades. Uma organização pode ser representada por sua estrutura, áreas, processos e capacidades.
+O biólogo não se limita a identificar os organismos presentes em um ecossistema. Ele observa suas características e também seu comportamento. Pode estudar a estrutura de uma espécie, suas capacidades, sua alimentação e a maneira como interage com outros organismos e com os recursos disponíveis.
 
-O nível de detalhamento deve ser suficiente para representar o domínio sem produzir uma descrição desnecessariamente extensa. Uma característica pode ser relevante para uma decisão e pouco importante para outra. O que importa é compreender as propriedades necessárias para distinguir os elementos e entender seu papel na realidade analisada.
+Na arquitetura de uma decisão, a distinção é semelhante. Saber que determinado elemento existe não explica suficientemente sua participação no domínio. É necessário compreender suas propriedades essenciais e os comportamentos que estabelecem suas relações com os demais elementos.
 
-Essa visão, porém, ainda é incompleta. Os elementos não existem de forma isolada. Eles interagem, respondem a outros elementos e participam de diferentes fluxos dentro do domínio.
+Na empresa de varejo, o sistema de vendas pode ser caracterizado por sua finalidade, suas principais funções e sua estrutura. O vendedor pode ser descrito por suas atividades e capacidades. O produto possui atributos que precisam ser apresentados e registrados. O estoque representa a disponibilidade dos produtos. O serviço de entrega possui uma função própria na movimentação dos pedidos.
 
-No processo de abertura de contas, por exemplo, uma etapa de validação pode utilizar um sistema, que pode trocar informações com uma integração externa. Uma equipe pode executar atividades sobre o processo. Um cliente pode fornecer informações que desencadeiam diferentes etapas do fluxo.
+Os comportamentos aparecem nas interações entre esses elementos. O vendedor registra uma venda. O sistema consulta o produto e o preço. A disponibilidade é verificada no estoque. O pagamento é encaminhado para processamento. Uma transação pode ser submetida à verificação de fraude. A confirmação da venda pode iniciar uma entrega e atualizar informações utilizadas por outros processos.
 
-Essas relações expressam comportamentos do domínio.
+Essas interações ajudam a explicar como o domínio funciona em termos estruturais. Um sistema recebe uma entrada e produz uma resposta. Um participante executa uma ação que altera o estado de outro elemento. Uma informação é produzida em uma parte do domínio e utilizada em outra.
 
-Um processo pode seguir determinado fluxo quando recebe uma solicitação. Um sistema pode responder de determinada forma a uma entrada. Uma equipe pode executar atividades diferentes conforme o tipo de solicitação. Um cliente pode percorrer caminhos distintos dentro de um serviço.
+Neste momento, a análise ainda permanece em um nível estrutural. Não estamos procurando compreender todas as condições específicas, restrições, limitações, exceções ou circunstâncias que podem modificar esses comportamentos. Essas questões pertencem a uma análise posterior e mais contextualizada.
 
-Compreender comportamentos significa reconhecer essas formas de interação e como os elementos funcionam conjuntamente. Uma representação que descreve apenas pessoas, processos e sistemas, por exemplo, não explica como esses elementos participam da operação. É necessário observar também as relações entre eles.
+O objetivo aqui é construir uma compreensão básica da estrutura do domínio: quais elementos existem, quais são suas características principais e como eles se relacionam em termos gerais.
 
-O comportamento pode ainda revelar relações que não seriam percebidas pela observação isolada. Uma atividade pode depender de outra, uma informação pode circular entre diferentes sistemas ou uma ação de um participante pode provocar uma resposta de outro.
-
-Nesse ponto, a analogia com o biólogo volta a ser útil. Conhecer os organismos presentes em um ambiente não basta para compreender uma espécie. É necessário observar como esses organismos interagem e como essas relações fazem parte de seu funcionamento.
-
-A análise permanece, porém, em um nível estrutural. O objetivo é compreender o que compõe o domínio, quais são as características de seus elementos e como eles se relacionam em termos gerais. As condições específicas, restrições, limitações e demais circunstâncias que podem alterar esses comportamentos pertencem a uma análise posterior.
-
-Com isso, o domínio deixa de ser apenas um conjunto de elementos identificados e passa a ser uma representação estruturada da realidade na qual a decisão está inserida.
+Com isso, o domínio deixa de ser apenas um recorte da realidade e passa a ser uma representação estruturada, na qual seus elementos e formas gerais de interação podem ser reconhecidos. Essa estrutura fornece a base para investigar, posteriormente, as condições específicas nas quais a decisão será tomada.
 
 ## 2.5. Aplicação em gestão de projetos
 
