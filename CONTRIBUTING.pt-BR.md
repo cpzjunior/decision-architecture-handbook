@@ -1,5 +1,5 @@
-| 🇺🇸 [en](CONTRIBUTING.md) | 🇧🇷 [pt-BR](CONTRIBUTING.pt-BR.md) |
-|---|---|
+| 🇺🇸 [en](CONTRIBUTING.md) | 🇪🇸 [es](CONTRIBUTING.es.md) | 🇮🇹 [it](CONTRIBUTING.it.md) | 🇧🇷 [pt-BR](CONTRIBUTING.pt-BR.md) | 🤖 [ai](CONTRIBUTING.ai.md) |
+|---|---|---|---|---|
 
 # Contribuindo
 
