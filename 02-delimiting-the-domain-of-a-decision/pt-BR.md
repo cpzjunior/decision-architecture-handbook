@@ -140,96 +140,96 @@ Com isso, o domínio deixa de ser apenas um recorte da realidade e passa a ser u
 
 ## 2.5. Aplicação em gestão de projetos
 
-Um projeto não existe isoladamente. Ele é uma intervenção realizada dentro de uma organização e de uma realidade que já possui processos, pessoas, sistemas, recursos, restrições, dependências e objetivos próprios.
+Um projeto não acontece em uma realidade vazia. Ele é uma intervenção realizada dentro de uma organização, de um mercado e de um conjunto de relações que já existem antes de seu início. Por isso, as práticas de gestão de projetos precisam construir alguma representação do domínio no qual o projeto será realizado.
 
-Essa realidade precisa ser compreendida antes que decisões importantes do projeto sejam tomadas.
+Essa representação aparece desde as primeiras atividades. Na iniciação, é necessário compreender a organização envolvida, as pessoas afetadas, as áreas participantes, os fornecedores, os sistemas existentes e as relações entre esses elementos. No planejamento, essa compreensão passa a orientar a definição do trabalho, das equipes, das entregas e das interfaces necessárias para que o projeto possa existir dentro daquela realidade.
 
-Um projeto pode ter um plano bem construído e ainda assim enfrentar dificuldades porque o plano não representa adequadamente o domínio no qual será executado. Prazos podem ser definidos sem considerar dependências organizacionais. Recursos podem ser planejados sem considerar capacidades reais. Mudanças podem ser aprovadas sem compreender seus efeitos sobre outros processos.
+Essa necessidade está presente em diferentes abordagens de gestão de projetos, ainda que com formas e vocabulários diferentes. No PMBOK, por exemplo, a identificação das partes interessadas, a compreensão do ambiente organizacional, a definição do escopo e a organização do trabalho são formas de construir uma representação do que está envolvido no projeto. Em abordagens iterativas, como Scrum, o domínio aparece na compreensão do produto, dos usuários, das partes interessadas e da realidade na qual os incrementos serão utilizados. Em Kanban, aparece na compreensão do fluxo de trabalho existente, dos tipos de trabalho e das relações entre as etapas desse fluxo.
 
-O problema não está necessariamente na técnica de planejamento. O problema pode estar na representação da realidade sobre a qual o planejamento foi construído.
+A estrutura do projeto também depende da forma como seus elementos são identificados. Uma equipe pode ser tratada como uma unidade ou analisada em função de seus papéis e capacidades. Um sistema pode aparecer como uma dependência externa ou ser considerado parte do trabalho do projeto. Um fornecedor pode ser apenas uma contratação ou uma parte relevante da operação que precisa ser integrada ao projeto.
 
-É nesse ponto que o comportamento “by the book” se torna particularmente evidente. Um profissional pode aplicar corretamente as práticas de gestão de projetos e, ainda assim, tomar decisões inadequadas se considerar que a metodologia contém conhecimento suficiente sobre a organização na qual o projeto será realizado.
+As fronteiras do domínio também influenciam a maneira como o projeto é definido. Um projeto de implantação de um sistema de vendas, por exemplo, pode considerar apenas a aplicação e sua equipe técnica. Mas pode também envolver lojas, vendedores, processos comerciais, estoque, pagamentos, logística e fornecedores de tecnologia. O que muda não é apenas o tamanho do projeto. Muda a representação da realidade sobre a qual o projeto será conduzido.
 
-A metodologia fornece uma forma de estruturar o trabalho. O domínio fornece a realidade sobre a qual esse trabalho precisa acontecer.
+Por isso, práticas como levantamento de partes interessadas, definição de escopo, decomposição do trabalho, mapeamento de processos e identificação de interfaces não são apenas mecanismos administrativos. Elas também ajudam a tornar o domínio observável para quem precisa tomar decisões durante o projeto.
 
-Compreender o domínio permite identificar aquilo que o planejamento precisa considerar e, principalmente, aquilo que não pode ser tratado como uma simples premissa.
+O nível de representação necessário depende da decisão. Em determinado momento, uma organização pode ser tratada como um único elemento. Em outro, pode ser necessário separar áreas, equipes, processos ou sistemas. A mesma flexibilidade aparece nas entregas, nos fornecedores e nas estruturas técnicas.
+
+Assim, a gestão de projetos oferece diferentes formas de representar a realidade na qual um projeto está inserido. O domínio não é um artefato específico de uma metodologia. Ele é a realidade que essas práticas precisam representar para que o trabalho do projeto tenha significado.
 
 ## 2.6. Aplicação em arquitetura de soluções
 
-Toda solução existe para produzir algum efeito em uma realidade.
+Na arquitetura de soluções, o domínio ocupa uma posição particularmente evidente porque uma solução é construída para atuar sobre uma realidade existente. Sistemas, integrações, serviços e componentes precisam corresponder a elementos e relações que existem no ambiente em que a solução será utilizada.
 
-Por isso, uma solução não pode ser adequadamente projetada apenas a partir de requisitos, tecnologias ou padrões. É necessário compreender o domínio no qual ela será utilizada.
+A arquitetura começa, portanto, muito antes da escolha de tecnologias. O arquiteto precisa reconhecer quais partes da realidade estão relacionadas à solução, quais conceitos existem nesse espaço e como esses conceitos se relacionam.
 
-Uma arquitetura pode ser tecnicamente consistente e ainda assim inadequada para a organização que deverá operá-la. Pode exigir capacidades que a organização não possui, introduzir complexidades incompatíveis com seus processos, depender de recursos indisponíveis ou resolver uma necessidade que não é realmente prioritária.
+Práticas de arquitetura utilizam diferentes mecanismos para construir essa representação. Modelos de domínio, mapas de capacidades, modelos de processos, diagramas de contexto, mapas de sistemas, modelos de dados e diagramas de arquitetura representam aspectos diferentes da mesma realidade. O C4 Model, por exemplo, trabalha com diferentes níveis de representação da estrutura de um sistema. O arc42 organiza informações arquiteturais de forma a tornar explícitas decisões, estruturas e relações. Abordagens como DDD colocam os conceitos do domínio e seus limites no centro da construção da arquitetura.
 
-Conhecer padrões arquiteturais ajuda a construir soluções. Conhecer o domínio permite determinar quais soluções fazem sentido naquela realidade.
+Essas representações também ajudam a estabelecer fronteiras. Uma capacidade de negócio pode ser atendida por um único sistema ou distribuída entre vários. Um sistema pode concentrar capacidades diferentes. Uma funcionalidade que parece pertencer a uma aplicação pode depender de processos, pessoas ou sistemas externos.
 
-Isso também explica por que uma solução aparentemente simples pode ser inadequada e uma solução aparentemente mais complexa pode ser necessária. A complexidade não está apenas na tecnologia. Ela pode estar na própria realidade que a solução precisa atender.
+Considere novamente uma empresa varejista que pretende substituir seu sistema de vendas. O domínio relacionado à decisão pode envolver vendas, produtos, preços, estoque, pagamentos, lojas, vendedores e outros sistemas. Essa realidade não determina automaticamente uma arquitetura tecnológica. O sistema de vendas pode continuar sendo uma aplicação única, pode ser dividido em serviços ou pode depender de soluções fornecidas por diferentes parceiros.
 
-O arquiteto precisa compreender processos, regras, capacidades, integrações, restrições, pessoas, sistemas e relações relevantes antes de decidir como a solução deve ser construída.
+A arquitetura tecnológica é uma representação construída sobre essa realidade. Por isso, os limites dos componentes tecnológicos não devem ser confundidos com os limites do domínio. Um serviço não é necessariamente um domínio, assim como um sistema não corresponde necessariamente a uma única capacidade de negócio.
 
-A arquitetura da solução é, nesse sentido, uma intervenção sobre o domínio. Quanto melhor o domínio for compreendido, maior a possibilidade de que a solução responda à realidade que efetivamente precisa transformar.
+Essa distinção é fundamental para práticas como decomposição de sistemas, definição de integrações, organização de dados e identificação de responsabilidades entre componentes. Antes de decidir como uma solução será estruturada, é necessário saber o que existe na realidade que ela pretende representar e transformar.
+
+Nesse sentido, modelos e frameworks de arquitetura não criam o domínio. Eles fornecem formas de representá-lo em diferentes níveis de abstração, permitindo que decisões arquiteturais sejam tomadas sobre uma realidade que foi suficientemente identificada.
 
 ## 2.7. Aplicação em experiência do usuário
 
-Uma experiência de usuário também existe dentro de uma realidade mais ampla.
+Na experiência do usuário, o domínio frequentemente é reduzido à interação entre uma pessoa e uma interface. Essa representação é útil para algumas decisões, mas é insuficiente para representar muitas das situações que uma experiência de uso envolve.
 
-É possível observar uma interface, identificar dificuldades de navegação e propor melhorias sem compreender suficientemente aquilo que acontece antes e depois da interação.
+Uma interação com um produto acontece dentro de um serviço e de uma organização. Por trás de uma tela existem processos, sistemas, pessoas, políticas, informações e operações que influenciam aquilo que o usuário consegue fazer. Por isso, as práticas de experiência do usuário precisam considerar não apenas o ponto de contato, mas a realidade que produz e sustenta essa experiência.
 
-Um formulário pode parecer excessivamente complexo porque reúne muitas informações. Mas essas informações podem existir por exigências regulatórias, riscos operacionais ou necessidades de outras áreas da organização.
+Essa perspectiva aparece em diferentes práticas da área. Pesquisa com usuários procura compreender as pessoas e suas relações com o produto ou serviço. Jornadas representam sequências de interações ao longo de uma experiência. Mapas de serviço ampliam essa representação para incluir atividades que acontecem nos bastidores. Testes de usabilidade analisam a interação em um determinado recorte. Design Thinking e Double Diamond organizam atividades de investigação, definição, exploração e desenvolvimento que trabalham diferentes representações do problema de design e de seu ambiente.
 
-Simplificar a interface pode melhorar a experiência em um ponto e transferir o problema para outro.
+Considere novamente o sistema de vendas de uma empresa varejista. Uma pesquisa pode mostrar que vendedores têm dificuldade para localizar produtos ou concluir uma venda. Uma análise limitada à interface poderia levar à conclusão de que o problema está na navegação ou na quantidade de etapas da tela.
 
-Da mesma forma, uma jornada aparentemente inadequada pode estar condicionada por sistemas, processos, políticas, responsabilidades ou restrições que não são visíveis para o usuário.
+Mas o domínio inclui também estoque, preços, regras comerciais, formas de pagamento, sistemas integrados e atividades realizadas pelo vendedor. A experiência observada pelo usuário pode ser resultado da interação entre vários desses elementos.
 
-Compreender o domínio significa considerar essa realidade mais ampla.
+Essa visão também influencia as fronteiras da investigação. Em uma análise de uma tela, o domínio pode ser representado pelo usuário, pela interface e pelas informações apresentadas. Em uma análise da experiência de compra, pode ser necessário incluir loja, vendedores, estoque, pagamento, entrega, atendimento e canais digitais.
 
-O usuário é um elemento importante, mas não é necessariamente o único elemento relevante. A experiência resulta da interação entre pessoas, produtos, serviços, processos, sistemas, regras e condições operacionais.
+Os elementos também podem ser representados em diferentes níveis. Um usuário pode ser analisado como um único participante ou segundo suas tarefas, necessidades e formas de interação. Um serviço pode ser tratado como uma experiência única ou decomposto em etapas, canais e atividades de bastidores.
 
-Uma decisão orientada apenas pela experiência observada em um ponto da jornada pode produzir uma melhoria local e um problema em outra parte do domínio.
+Práticas como personas, mapas de jornada, mapas de serviço, fluxos de tarefas, protótipos e testes de usabilidade são, portanto, diferentes formas de representar partes do domínio relevante para uma experiência. Cada uma torna determinados elementos visíveis e deixa outros fora de seu recorte.
+
+Isso explica por que uma boa experiência não pode ser analisada apenas pela qualidade de uma interface isolada. A interface é um elemento de uma realidade maior. O trabalho de experiência do usuário precisa determinar qual parte dessa realidade é relevante para a experiência que está sendo estudada.
 
 ## 2.8. Aplicação em empreendedorismo
 
-No empreendedorismo, compreender o domínio significa compreender a realidade na qual uma oportunidade, um modelo de negócio ou uma nova empresa pretende existir.
+No empreendedorismo, o domínio é a realidade na qual uma oportunidade de negócio pode existir. Essa realidade envolve muito mais do que uma ideia ou uma proposta de produto. Ela inclui clientes, concorrentes, fornecedores, canais, parceiros, tecnologias, regulamentações, capacidades disponíveis e características do mercado.
 
-Uma oportunidade não é apenas uma ideia. Ela depende de clientes, necessidades, comportamentos, concorrentes, canais, recursos, regulamentações, capacidades e condições de mercado.
+Por isso, práticas de empreendedorismo frequentemente começam pela construção de representações dessa realidade. O Business Model Canvas organiza elementos relacionados a clientes, proposta de valor, canais, atividades, recursos, parceiros, receitas e custos. O Value Proposition Canvas concentra-se na relação entre uma proposta e determinados segmentos de clientes. Customer Development estrutura atividades de investigação e aprendizagem sobre clientes e mercado. Lean Startup utiliza hipóteses, experimentos e ciclos de aprendizagem para obter evidências sobre determinadas partes do negócio.
 
-Uma hipótese sobre o negócio é uma afirmação sobre essa realidade.
+Cada uma dessas abordagens trabalha com um recorte diferente. Nenhuma delas representa automaticamente todo o domínio de um empreendimento.
 
-Quando um empreendedor testa uma hipótese, está tentando obter conhecimento sobre uma parte do domínio. O resultado de um experimento pode confirmar ou contradizer uma hipótese específica, mas não significa necessariamente que toda a realidade do negócio tenha sido compreendida.
+Considere uma empresa que pretende criar uma solução para pequenos varejistas. O domínio pode envolver o comportamento desses varejistas, os sistemas que utilizam, seus fornecedores, os meios de pagamento disponíveis, os canais de aquisição, os concorrentes, a estrutura de custos e as condições do setor.
 
-Esse ponto é importante porque técnicas de validação também podem ser aplicadas “by the book”. É possível executar corretamente um experimento e ainda investigar uma hipótese pouco relevante para a realidade que determina o sucesso do negócio.
+A delimitação desse domínio também pode mudar a própria interpretação da oportunidade. Uma solução para grandes redes de varejo pode pertencer a uma realidade completamente diferente daquela encontrada em pequenos estabelecimentos, mesmo que o produto pareça semelhante. Da mesma forma, uma oportunidade pode existir em determinado setor ou região e não existir nas mesmas condições em outro.
 
-Compreender o domínio permite distinguir aquilo que foi efetivamente observado daquilo que permanece como pressuposto.
+Os elementos do domínio também podem ser analisados em diferentes níveis. “Cliente” pode ser tratado como um segmento ou decomposto em diferentes perfis de compradores. “Concorrência” pode representar uma categoria de alternativas ou empresas específicas. “Mercado” pode ser tratado como um setor amplo ou delimitado por região, canal ou tipo de cliente.
 
-Também permite perceber quando uma oportunidade aparentemente atraente depende de condições que não existem ou que são muito diferentes daquelas inicialmente imaginadas.
+As hipóteses utilizadas no empreendedorismo também são afirmações sobre o domínio. Quando alguém afirma que determinado grupo de clientes possui uma necessidade, que está disposto a pagar por uma solução ou que determinado canal permite aquisição em escala, está formulando uma hipótese sobre uma realidade externa.
+
+Experimentos, entrevistas, testes de proposta de valor e lançamentos iniciais permitem observar partes dessa realidade. O conhecimento produzido por essas práticas é sempre associado ao recorte investigado. Uma evidência obtida com determinado segmento, região ou canal não representa automaticamente todos os possíveis clientes ou mercados.
+
+Nesse sentido, frameworks e práticas de empreendedorismo fornecem estruturas para observar e representar diferentes partes do domínio de um negócio. A qualidade dessa representação influencia aquilo que pode ser percebido como oportunidade, mercado, cliente, concorrente ou modelo de negócio.
 
 ## 2.9. Aplicação em carreira profissional e vida pessoal
 
-A mesma estrutura existe fora das organizações.
+Decisões profissionais e pessoais também acontecem dentro de domínios que podem ser representados e investigados. Uma decisão de carreira, por exemplo, está relacionada a uma realidade composta por competências, experiências, profissões, organizações, mercado de trabalho, formação, localização, recursos e relações profissionais.
 
-Uma decisão de carreira ocorre dentro de uma realidade que envolve competências, interesses, recursos, experiência, mercado de trabalho, localização, relações, responsabilidades e condições pessoais.
+Essa realidade pode ser representada de diferentes maneiras conforme a decisão. Um inventário de competências pode representar a pessoa a partir de conhecimentos e capacidades. Uma análise do mercado de trabalho pode representar oportunidades, organizações, profissões e demanda. Um mapa de carreira pode organizar possíveis trajetórias. Uma análise de cenários pode representar diferentes ambientes nos quais uma trajetória profissional poderia ocorrer.
 
-Uma decisão de formação envolve instituições, custos, disponibilidade, reconhecimento, alternativas profissionais e capacidades necessárias.
+O mesmo princípio vale para decisões pessoais. Uma mudança de cidade pode envolver trabalho, moradia, transporte, relações, serviços e recursos. A abertura de um negócio pode envolver mercado, clientes, fornecedores, capital, capacidades e relações profissionais. Uma escolha de formação pode envolver instituições, cursos, custos, reconhecimento, localização e alternativas profissionais.
 
-Uma decisão pessoal também ocorre dentro de um domínio. Pessoas, recursos, compromissos, restrições, relações e condições existentes fazem parte da realidade que precisa ser considerada.
+As fronteiras também variam conforme a decisão. Para escolher entre duas especializações profissionais, talvez seja suficiente representar competências, instituições, custos e oportunidades de atuação. Para decidir uma mudança de cidade, o domínio pode precisar incluir mercado de trabalho, moradia, deslocamento, relações familiares e serviços disponíveis.
 
-Nesses casos, é comum reduzir a decisão ao objetivo imediato.
+Os elementos também podem ser decompostos conforme a necessidade. “Carreira” pode ser tratada como uma trajetória única ou analisada em profissões, organizações, competências e oportunidades. “Mercado de trabalho” pode ser visto como uma categoria geral ou dividido por setor, região, profissão e nível de experiência.
 
-“Quero mudar de carreira.”
+Essa forma de olhar para decisões pessoais não transforma a vida em um modelo abstrato. Ela apenas reconhece que toda escolha acontece dentro de uma realidade composta por elementos que já existem e se relacionam entre si.
 
-“Quero abrir um negócio.”
+Práticas de planejamento de carreira, análise de competências, pesquisa de mercado, construção de cenários e matrizes de decisão são diferentes formas de tornar partes dessa realidade mais explícitas. Cada uma cria uma representação adequada a determinado tipo de investigação.
 
-“Quero fazer uma pós-graduação.”
+O conceito de domínio, portanto, não pertence exclusivamente a uma disciplina técnica ou empresarial. Gestão de projetos, arquitetura de soluções, experiência do usuário, empreendedorismo, carreira e vida pessoal utilizam diferentes formas de representar a realidade na qual suas decisões acontecem.
 
-“Quero mudar de cidade.”
-
-Essas formulações expressam objetivos ou decisões, mas não descrevem a realidade na qual essas decisões precisam funcionar.
-
-Compreender o domínio permite investigar o que está por trás dessas formulações. Quais capacidades já existem? Quais precisam ser desenvolvidas? Quais restrições existem? Quais alternativas estão realmente disponíveis? Quais relações podem ser afetadas? Quais condições precisam estar presentes para que a escolha produza o resultado pretendido?
-
-A arquitetura de decisão não pertence, portanto, a uma área profissional específica. O domínio muda de acordo com a realidade analisada, mas a necessidade de compreendê-lo permanece.
-
-O domínio estabelece o terreno sobre o qual a decisão será construída. Compreendê-lo permite que objetivos, alternativas, métodos e práticas sejam analisados em relação à realidade que efetivamente importa para a decisão.
-
-A partir desse ponto, a arquitetura de decisão pode avançar para outra pergunta fundamental: dadas essa realidade e as condições em que ela está sendo analisada, o que pode acontecer e o que ainda não sabemos sobre ela?
+O que muda entre essas áreas são os elementos considerados relevantes, as fronteiras adotadas, os níveis de abstração utilizados e as práticas empregadas para construir essa representação. O fundamento permanece o mesmo: antes de decidir sobre algo, é necessário reconhecer a realidade à qual essa decisão pertence.
