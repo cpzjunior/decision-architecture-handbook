@@ -2,47 +2,29 @@
 
 Imagine um biólogo estudando uma espécie. Para compreender suas características e seu comportamento, ele não observa apenas o indivíduo. Precisa considerar também o ecossistema em que vive, os organismos com os quais interage, os recursos dos quais depende e as condições que influenciam sua existência.
 
-O mesmo princípio se aplica a uma decisão.
-
-Uma decisão pode ter um objeto específico, mas esse objeto está inserido em uma realidade mais ampla. Pessoas, organizações, processos, sistemas, recursos, regras e outros elementos estabelecem relações com aquilo que está sendo decidido e podem influenciar sua evolução.
+O mesmo princípio se aplica a uma decisão. Uma decisão pode ter um objeto específico, mas esse objeto está inserido em uma realidade mais ampla. Pessoas, organizações, processos, sistemas, recursos, regras e outros elementos estabelecem relações com aquilo que está sendo decidido e podem influenciar sua evolução.
 
 O domínio corresponde à parcela dessa realidade que é relevante para a decisão. Ele não representa tudo o que existe, mas também não se limita necessariamente ao objeto mais evidente da decisão.
 
 Essa perspectiva ajuda a distinguir domínio e contexto. O domínio oferece uma visão mais ampla da realidade relacionada à decisão. O contexto representa as condições específicas nas quais ela é considerada. Uma organização, por exemplo, pode fazer parte do domínio, enquanto uma condição orçamentária, uma mudança regulatória ou uma oportunidade de mercado pode caracterizar o contexto em que a decisão ocorre. A distinção está principalmente no nível de observação, e não na natureza dos elementos.
 
-Essa diferença entre conhecer uma prática e conhecer a realidade na qual ela será aplicada explica um problema recorrente na atuação profissional.
+Essa diferença entre conhecer uma prática e conhecer a realidade na qual ela será aplicada explica um problema recorrente na atuação profissional. Um profissional pode dominar uma metodologia, seguir suas regras e executar corretamente suas práticas. Ainda assim, pode tomar decisões inadequadas ao aplicá-las sem considerar as características do domínio em que está atuando. É o comportamento do profissional que trabalha “by the book”: transforma uma orientação geral em uma prescrição para uma realidade particular, como se a metodologia também contivesse o conhecimento necessário sobre o domínio.
 
-Um profissional pode dominar uma metodologia, seguir suas regras e executar corretamente suas práticas. Ainda assim, pode tomar decisões inadequadas ao aplicá-las sem considerar as características do domínio em que está atuando.
-
-É o comportamento do profissional que trabalha “by the book”: transforma uma orientação geral em uma prescrição para uma realidade particular, como se a metodologia também contivesse o conhecimento necessário sobre o domínio.
-
-Uma metodologia de gestão de projetos pode orientar o planejamento, o acompanhamento e o controle de um projeto, mas não conhece, por si só, a cultura da organização, seus processos, suas capacidades ou suas relações internas.
-
-Uma prática de arquitetura de soluções pode orientar a construção de uma solução, mas não conhece automaticamente o modelo de negócio, os processos, as regras, as capacidades ou as limitações tecnológicas da organização.
-
-Uma técnica de empreendedorismo pode orientar a investigação de uma oportunidade, mas não conhece o mercado, os clientes, os concorrentes ou as condições específicas nas quais o negócio deverá existir.
+Uma metodologia de gestão de projetos pode orientar o planejamento, o acompanhamento e o controle de um projeto, mas não conhece, por si só, a cultura da organização, seus processos, suas capacidades ou suas relações internas. Uma prática de arquitetura de soluções pode orientar a construção de uma solução, mas não conhece automaticamente o modelo de negócio, os processos, as regras, as capacidades ou as limitações tecnológicas da organização. Uma técnica de empreendedorismo pode orientar a investigação de uma oportunidade, mas não conhece o mercado, os clientes, os concorrentes ou as condições específicas nas quais o negócio deverá existir.
 
 Métodos e práticas fornecem referências gerais para agir. O domínio fornece as características da realidade que precisam ser consideradas na aplicação dessas referências.
 
-Compreender o domínio não significa reproduzir toda a realidade. Assim como o biólogo não precisa descrever todo o ecossistema para estudar uma espécie, a arquitetura da decisão precisa representar apenas aquilo que é relevante para a análise.
-
-Esse trabalho começa pelo mapeamento do ecossistema, passa pela definição das fronteiras e avança para a identificação dos elementos, suas características e seus comportamentos.
+Compreender o domínio não significa reproduzir toda a realidade. Assim como o biólogo não precisa descrever todo o ecossistema para estudar uma espécie, a arquitetura da decisão precisa representar apenas aquilo que é relevante para a análise. Esse trabalho começa pelo mapeamento do ecossistema, passa pela definição das fronteiras e avança para a identificação dos elementos, suas características e seus comportamentos.
 
 ## 2.1. Mapeando o ecossistema
 
 Uma decisão não existe isoladamente dentro de uma organização. Ela está inserida em uma realidade mais ampla, formada pela própria organização, pelo setor em que atua, pelo mercado em que compete e pelas condições econômicas, sociais, tecnológicas e regulatórias que influenciam esse ambiente.
 
-Essa realidade pode ser compreendida como um ecossistema: o conjunto de elementos e relações que formam o ambiente no qual a decisão existe. Nem todos esses elementos farão parte do domínio, mas conhecê-los em nível suficiente evita que suas fronteiras sejam definidas de maneira artificialmente restrita.
+Essa realidade pode ser compreendida como um ecossistema: o conjunto de elementos e relações que formam o ambiente no qual a decisão existe. Nem todos esses elementos farão parte do domínio, mas conhecê-los em nível suficiente evita que suas fronteiras sejam definidas de maneira artificialmente restrita. O cenário macroeconômico também pode fazer parte dessa visão. Inflação, juros, emprego, renda, disponibilidade de crédito, variações cambiais e outras condições econômicas podem alterar o comportamento de um setor e, consequentemente, as condições nas quais determinadas decisões são tomadas. O mesmo vale para mudanças tecnológicas, regulatórias ou sociais.
 
-O cenário macroeconômico também pode fazer parte dessa visão. Inflação, juros, emprego, renda, disponibilidade de crédito, variações cambiais e outras condições econômicas podem alterar o comportamento de um setor e, consequentemente, as condições nas quais determinadas decisões são tomadas. O mesmo vale para mudanças tecnológicas, regulatórias ou sociais.
+A analogia com o biólogo ajuda a esclarecer essa perspectiva. Ao estudar uma espécie, ele considera os recursos disponíveis, os demais organismos e as relações que estabelecem entre si. Uma alteração no ambiente pode modificar as condições de existência da espécie, mesmo que suas características biológicas permaneçam as mesmas. Na arquitetura de uma decisão, o objetivo é semelhante: reconhecer a realidade mais ampla na qual ela está inserida e identificar os elementos e relações que podem ter relevância para aquilo que será analisado. Não é necessário representar todo o ecossistema em detalhes.
 
-A analogia com o biólogo ajuda a esclarecer essa perspectiva. Ao estudar uma espécie, ele considera os recursos disponíveis, os demais organismos e as relações que estabelecem entre si. Uma alteração no ambiente pode modificar as condições de existência da espécie, mesmo que suas características biológicas permaneçam as mesmas.
-
-Na arquitetura de uma decisão, o objetivo é semelhante: reconhecer a realidade mais ampla na qual ela está inserida e identificar os elementos e relações que podem ter relevância para aquilo que será analisado. Não é necessário representar todo o ecossistema em detalhes.
-
-Considere uma empresa de varejo que decide substituir seu sistema de vendas. A decisão está relacionada ao funcionamento da empresa, mas a realidade relevante é mais ampla. A empresa atua em determinado setor, compete por clientes, depende de fornecedores, utiliza meios de pagamento, contrata serviços de logística e está sujeita às condições econômicas do país.
-
-O comportamento dos consumidores, as práticas do setor, a disponibilidade de mão de obra, os custos operacionais, as condições de crédito e o nível de concorrência podem influenciar a forma como a empresa vende seus produtos e, consequentemente, as características que um novo sistema precisa suportar.
+Considere uma empresa de varejo que decide substituir seu sistema de vendas. A decisão está relacionada ao funcionamento da empresa, mas a realidade relevante é mais ampla. A empresa atua em determinado setor, compete por clientes, depende de fornecedores, utiliza meios de pagamento, contrata serviços de logística e está sujeita às condições econômicas do país. O comportamento dos consumidores, as práticas do setor, a disponibilidade de mão de obra, os custos operacionais, as condições de crédito e o nível de concorrência podem influenciar a forma como a empresa vende seus produtos e, consequentemente, as características que um novo sistema precisa suportar.
 
 Dentro da organização existem ainda lojas, vendedores, clientes, produtos, estoque, pagamentos, logística, suporte, sistemas e parceiros. Esses elementos estabelecem relações entre si e formam uma realidade muito maior do que o sistema de vendas isoladamente.
 
@@ -50,21 +32,13 @@ O mapeamento do ecossistema amplia o campo de observação antes da definição 
 
 ## 2.2. Estabelecendo as fronteiras do domínio
 
-Reconhecer o ecossistema não significa analisar todos os seus elementos. O domínio corresponde ao recorte dessa realidade que precisa ser considerado para compreender a decisão.
+Reconhecer o ecossistema não significa analisar todos os seus elementos. O domínio corresponde ao recorte dessa realidade que precisa ser considerado para compreender a decisão. Estabelecer suas fronteiras significa determinar quais partes do ecossistema serão tratadas diretamente na análise e quais permanecerão fora dela. Essa fronteira é uma construção conceitual: ela define o foco da investigação, mas não elimina as relações existentes além do recorte.
 
-Estabelecer suas fronteiras significa determinar quais partes do ecossistema serão tratadas diretamente na análise e quais permanecerão fora dela. Essa fronteira é uma construção conceitual: ela define o foco da investigação, mas não elimina as relações existentes além do recorte.
+Um elemento pode ficar fora do domínio e ainda manter relações relevantes com aquilo que está dentro dele. A fronteira não transforma o restante do ecossistema em algo irrelevante. Na arquitetura de uma decisão, ela precisa ser suficientemente ampla para preservar relações capazes de alterar a análise, sem incorporar toda a realidade.
 
-Um elemento pode ficar fora do domínio e ainda manter relações relevantes com aquilo que está dentro dele. A fronteira não transforma o restante do ecossistema em algo irrelevante.
+Considere novamente a empresa de varejo. Se a decisão envolve a substituição do sistema de vendas, o domínio pode incluir vendedores, clientes, produtos, preços, pedidos, estoque, pagamentos e o próprio sistema de vendas. Também pode ser necessário considerar quem realiza as entregas, quem repõe o estoque, quem presta suporte aos clientes ou quem verifica transações suspeitas. Esses elementos podem influenciar diretamente a operação de vendas, mesmo que não sejam percebidos inicialmente como parte do sistema.
 
-Na arquitetura de uma decisão, ela precisa ser suficientemente ampla para preservar relações capazes de alterar a análise, sem incorporar toda a realidade.
-
-Considere novamente a empresa de varejo. Se a decisão envolve a substituição do sistema de vendas, o domínio pode incluir vendedores, clientes, produtos, preços, pedidos, estoque, pagamentos e o próprio sistema de vendas.
-
-Também pode ser necessário considerar quem realiza as entregas, quem repõe o estoque, quem presta suporte aos clientes ou quem verifica transações suspeitas. Esses elementos podem influenciar diretamente a operação de vendas, mesmo que não sejam percebidos inicialmente como parte do sistema.
-
-A definição das fronteiras pode revelar ainda que estamos diante de mais de um domínio. Vendas, estoque, logística, pagamentos, atendimento e prevenção de fraude podem possuir responsabilidades, estruturas e formas de funcionamento próprias, embora estejam relacionados.
-
-Surge então outra decisão: tratar esses domínios conjuntamente ou decompor a análise em decisões relacionadas.
+A definição das fronteiras pode revelar ainda que estamos diante de mais de um domínio. Vendas, estoque, logística, pagamentos, atendimento e prevenção de fraude podem possuir responsabilidades, estruturas e formas de funcionamento próprias, embora estejam relacionados. Surge então outra decisão: tratar esses domínios conjuntamente ou decompor a análise em decisões relacionadas.
 
 Essa escolha pode alterar a arquitetura da solução. Uma capacidade como verificação de fraude pode estar incorporada a um sistema maior ou ser disponibilizada por um serviço próprio. A entrega pode fazer parte de uma solução integrada ou utilizar serviços especializados de parceiros. O controle de estoque pode estar no mesmo sistema de vendas ou em outro sistema relacionado a ele.
 
@@ -78,21 +52,15 @@ Uma fronteira excessivamente estreita pode esconder relações capazes de altera
 
 ## 2.3. Identificando os elementos do domínio
 
-Depois de estabelecer as fronteiras, é necessário reconhecer quais elementos compõem o domínio. O objetivo não é produzir um inventário completo, mas identificar as partes que possuem relevância suficiente para serem tratadas separadamente na decisão.
+Depois de estabelecer as fronteiras, é necessário reconhecer quais elementos compõem o domínio. O objetivo não é produzir um inventário completo, mas identificar as partes que possuem relevância suficiente para serem tratadas separadamente na decisão. Essa identificação depende do nível de abstração. Um mesmo elemento pode ser representado como uma unidade em uma análise e decomposto em partes menores em outra. A representação adequada é aquela que utiliza o nível de detalhe necessário para a decisão.
 
-Essa identificação depende do nível de abstração. Um mesmo elemento pode ser representado como uma unidade em uma análise e decomposto em partes menores em outra. A representação adequada é aquela que utiliza o nível de detalhe necessário para a decisão.
-
-Na empresa de varejo, podemos identificar clientes, vendedores, lojas, produtos, pedidos, preços, estoque, pagamentos, entregas, suporte, mecanismos de verificação de fraude, sistemas e parceiros.
-
-O sistema de vendas pode ser tratado como um único elemento quando a decisão estiver relacionada à operação comercial como um todo. Em uma decisão arquitetural mais específica, pode ser decomposto em aplicações, serviços, bancos de dados e integrações.
+Na empresa de varejo, podemos identificar clientes, vendedores, lojas, produtos, pedidos, preços, estoque, pagamentos, entregas, suporte, mecanismos de verificação de fraude, sistemas e parceiros. O sistema de vendas pode ser tratado como um único elemento quando a decisão estiver relacionada à operação comercial como um todo. Em uma decisão arquitetural mais específica, pode ser decomposto em aplicações, serviços, bancos de dados e integrações.
 
 O mesmo vale para outros elementos. Uma loja pode ser representada como uma unidade ou decomposta em equipes, equipamentos, processos e espaços. Um serviço de entrega pode ser tratado como um parceiro ou analisado em termos de suas próprias capacidades e componentes.
 
 A decomposição não deve ocorrer simplesmente porque é possível decompor. Ela deve ocorrer quando o nível atual de abstração não é suficiente para a decisão.
 
-Ao identificar os elementos, suas relações também começam a se tornar visíveis. Um vendedor utiliza o sistema de vendas. O sistema consulta informações de produtos e preços. Uma venda gera um pedido. O pedido pode acionar uma entrega. A disponibilidade do produto depende do estoque. Uma transação pode passar por mecanismos de pagamento e verificação de fraude.
-
-Essas relações podem revelar que determinado elemento, inicialmente considerado periférico, possui participação relevante na decisão. Nesse caso, a representação do domínio pode precisar ser revista.
+Ao identificar os elementos, suas relações também começam a se tornar visíveis. Um vendedor utiliza o sistema de vendas. O sistema consulta informações de produtos e preços. Uma venda gera um pedido. O pedido pode acionar uma entrega. A disponibilidade do produto depende do estoque. Uma transação pode passar por mecanismos de pagamento e verificação de fraude. Essas relações podem revelar que determinado elemento, inicialmente considerado periférico, possui participação relevante na decisão. Nesse caso, a representação do domínio pode precisar ser revista.
 
 O resultado dessa etapa é uma representação estruturada dos principais elementos do domínio e do nível de abstração adequado para continuar a análise.
 
@@ -100,9 +68,7 @@ O resultado dessa etapa é uma representação estruturada dos principais elemen
 
 Identificar os elementos ainda não é suficiente. É necessário compreender suas principais características e como atuam e interagem.
 
-As características descrevem o que os elementos são. Podem envolver natureza, finalidade, função, capacidade, composição, estrutura ou outras propriedades relevantes.
-
-Os comportamentos descrevem como esses elementos atuam e interagem. Um elemento pode responder a determinadas ações, executar uma função, produzir informações, consumir recursos ou estabelecer relações com outros elementos.
+As características descrevem o que os elementos são. Podem envolver natureza, finalidade, função, capacidade, composição, estrutura ou outras propriedades relevantes. Os comportamentos descrevem como esses elementos atuam e interagem. Um elemento pode responder a determinadas ações, executar uma função, produzir informações, consumir recursos ou estabelecer relações com outros elementos.
 
 Na empresa de varejo, o sistema de vendas pode ser caracterizado por sua finalidade, suas funções e sua estrutura. O vendedor pode ser descrito por suas atividades e capacidades. O produto possui atributos que precisam ser apresentados e registrados. O estoque representa a disponibilidade dos produtos. O serviço de entrega possui uma função própria na movimentação dos pedidos.
 
@@ -110,9 +76,7 @@ Os comportamentos aparecem nas interações entre esses elementos. O vendedor re
 
 Essas interações ajudam a explicar o funcionamento estrutural do domínio. Um sistema recebe uma entrada e produz uma resposta. Um participante executa uma ação que altera o estado de outro elemento. Uma informação é produzida em uma parte e utilizada em outra.
 
-A análise permanece, neste ponto, em um nível estrutural. Condições específicas, restrições, limitações, exceções e circunstâncias que podem modificar esses comportamentos pertencem a uma análise posterior e mais contextualizada.
-
-O objetivo é construir uma compreensão básica da estrutura do domínio: quais elementos existem, quais são suas características principais e como se relacionam em termos gerais. Essa estrutura fornece a base para investigar as condições específicas nas quais a decisão será tomada.
+A análise permanece, neste ponto, em um nível estrutural. Condições específicas, restrições, limitações, exceções e circunstâncias que podem modificar esses comportamentos pertencem a uma análise posterior e mais contextualizada. O objetivo é construir uma compreensão básica da estrutura do domínio: quais elementos existem, quais são suas características principais e como se relacionam em termos gerais. Essa estrutura fornece a base para investigar as condições específicas nas quais a decisão será tomada.
 
 ## 2.5. Aplicação em gestão de projetos
 
@@ -156,9 +120,7 @@ Uma interação com um produto acontece dentro de um serviço e de uma organiza�
 
 Essa perspectiva aparece em diferentes práticas. Pesquisa com usuários procura compreender as pessoas e suas relações com o produto ou serviço. Jornadas representam sequências de interações ao longo de uma experiência. Mapas de serviço ampliam essa visão para incluir atividades que acontecem nos bastidores. Testes de usabilidade analisam a interação em determinado recorte. Design Thinking e Double Diamond organizam atividades de investigação, definição, exploração e desenvolvimento que trabalham diferentes representações do problema e de seu ambiente.
 
-Considere novamente o sistema de vendas de uma empresa varejista. Uma pesquisa pode mostrar que vendedores têm dificuldade para localizar produtos ou concluir uma venda. Uma análise limitada à interface poderia apontar problemas de navegação ou excesso de etapas.
-
-Mas a experiência também depende de estoque, preços, regras comerciais, formas de pagamento, sistemas integrados e atividades realizadas pelo vendedor. O comportamento observado na interface pode ser resultado da interação entre vários desses elementos.
+Considere novamente o sistema de vendas de uma empresa varejista. Uma pesquisa pode mostrar que vendedores têm dificuldade para localizar produtos ou concluir uma venda. Uma análise limitada à interface poderia apontar problemas de navegação ou excesso de etapas. Mas a experiência também depende de estoque, preços, regras comerciais, formas de pagamento, sistemas integrados e atividades realizadas pelo vendedor. O comportamento observado na interface pode ser resultado da interação entre vários desses elementos.
 
 As fronteiras da investigação, portanto, dependem da decisão. Em uma análise de uma tela, podem bastar usuário, interface e informações apresentadas. Em uma análise da experiência de compra, pode ser necessário incluir loja, vendedores, estoque, pagamento, entrega, atendimento e canais digitais.
 
@@ -190,9 +152,7 @@ Frameworks e práticas de empreendedorismo fornecem, assim, estruturas para obse
 
 ## 2.9. Aplicação em carreira profissional e vida pessoal
 
-Decisões profissionais e pessoais também acontecem dentro de domínios que podem ser representados e investigados.
-
-Uma decisão de carreira, por exemplo, está relacionada a uma realidade composta por competências, experiências, profissões, organizações, mercado de trabalho, formação, localização, recursos e relações profissionais.
+Decisões profissionais e pessoais também acontecem dentro de domínios que podem ser representados e investigados. Uma decisão de carreira, por exemplo, está relacionada a uma realidade composta por competências, experiências, profissões, organizações, mercado de trabalho, formação, localização, recursos e relações profissionais.
 
 Essa realidade pode ser representada de diferentes maneiras conforme a decisão. Um inventário de competências pode representar a pessoa a partir de conhecimentos e capacidades. Uma análise do mercado de trabalho pode representar oportunidades, organizações, profissões e demanda. Um mapa de carreira pode organizar possíveis trajetórias. Uma análise de cenários pode representar diferentes ambientes nos quais uma trajetória poderia ocorrer.
 
@@ -206,6 +166,6 @@ Essa perspectiva não transforma a vida em um modelo abstrato. Ela reconhece que
 
 Práticas de planejamento de carreira, análise de competências, pesquisa de mercado, construção de cenários e matrizes de decisão são formas de tornar partes dessa realidade mais explícitas. Cada uma produz uma representação adequada a determinado tipo de investigação.
 
-O conceito de domínio, portanto, não pertence exclusivamente a uma disciplina técnica ou empresarial. Gestão de projetos, arquitetura de soluções, experiência do usuário, empreendedorismo, carreira e vida pessoal utilizam diferentes formas de representar a realidade na qual suas decisões acontecem.
+O conceito de domínio, portanto, não pertence exclusivamente a uma disciplina técnica ou empresarial. Gestão de projetos, arquitetura de soluções, experiência do usuário, empreendedorismo, carreira e vida pessoal utilizam diferentes formas de representar a realidade na qual suas decisões acontecem. O que muda entre essas áreas são os elementos considerados relevantes, as fronteiras adotadas, os níveis de abstração e as práticas empregadas para construir a representação.
 
-O que muda entre essas áreas são os elementos considerados relevantes, as fronteiras adotadas, os níveis de abstração e as práticas empregadas para construir a representação. O fundamento permanece: antes de decidir sobre algo, é necessário reconhecer a realidade à qual essa decisão pertence.
+O fundamento permanece: antes de decidir sobre algo, é necessário reconhecer a realidade à qual essa decisão pertence.
