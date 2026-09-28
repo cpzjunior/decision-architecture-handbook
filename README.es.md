@@ -21,8 +21,8 @@ Este es un proyecto abierto y evolutivo, desarrollado en este repositorio a medi
 
 ## Índice
 
-1. [Fundamentos de la Arquitectura de Decisión](./01-foundations-of-decision-architecture/pt-BR.md)
-2. [Comprendiendo el Dominio de una Decisión](./02-understanding-the-domain-of-a-decision/pt-BR.md)
+1. [Fundamentos de la Arquitectura de Decisión](./01-foundations-of-decision-architecture/es.md)
+2. [Comprendiendo el Dominio de una Decisión](./02-understanding-the-domain-of-a-decision/es.md)
 3. (Trabajo en curso)
 
 ## Idiomas
