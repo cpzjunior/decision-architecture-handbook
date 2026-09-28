@@ -22,7 +22,8 @@ Este é um projeto aberto e evolutivo, desenvolvido neste repositório à medida
 ## Índice
 
 1. [Fundamentos da Arquitetura de Decisão](./01-foundations-of-decision-architecture/pt-BR.md)
-2. (Trabalho em andamento)
+2. [Compreendendo o Domínio de uma Decisão](./02-understanding-the-domain-of-a-decision/pt-BR.md)
+3. (Trabalho em andamento)
 
 ## Licença
 
