@@ -25,6 +25,28 @@ Este é um projeto aberto e evolutivo, desenvolvido neste repositório à medida
 2. [Compreendendo o Domínio de uma Decisão](./02-understanding-the-domain-of-a-decision/pt-BR.md)
 3. (Trabalho em andamento)
 
+## Idiomas
+
+Os artigos são originalmente escritos em português brasileiro no [Substack](https://cpzjunior.substack.com/archive).
+
+* `pt-BR.md` — versão original e canônica
+* `en.md` — tradução para o inglês
+* `es.md` — tradução para o espanhol
+* `it.md` — tradução para o italiano
+* `ai.md` — representação compactada em inglês para sistemas de IA
+
+O mantenedor incluiu apenas idiomas nos quais possui algum grau de proficiência, em vez de depender exclusivamente de traduções geradas por IA. Contribuições para revisar traduções para idiomas adicionais são bem-vindas e permitirão que ele amplie o suporte a outros idiomas.
+
+## Conteúdo legível por IA
+
+O repositório está intencionalmente disponível para indexação e processamento por mecanismos de busca, sistemas de IA e outras ferramentas automatizadas.
+
+Os arquivos `ai.md` contêm representações compactadas dos artigos, preservando suas principais ideias e argumentos enquanto reduzem a quantidade de texto necessária para processá-los.
+
+Eles são escritos em inglês porque o inglês é predominante nos dados de treinamento e no ecossistema de muitos grandes modelos de linguagem. Usar uma representação compactada em inglês pode reduzir o uso de tokens e, consequentemente, os custos de processamento e de API.
+
+Os arquivos `ai.md` são representações derivadas. O arquivo `pt-BR.md` permanece como a fonte original e canônica.
+
 ## Licença
 
 Este repositório é licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
