@@ -23,7 +23,8 @@ Questo è un progetto aperto ed evolutivo, sviluppato in questo repository man m
 
 1. [Fondamenti dell'Architettura delle Decisioni](./01-foundations-of-decision-architecture/it.md)
 2. [Comprendere il Dominio di una Decisione](./02-understanding-the-domain-of-a-decision/it.md)
-3. (Lavori in corso)
+3. [Scoprire il Contesto Iniziale](./03-discovering-the-initial-context/it.md)
+4. (Lavori in corso)
 
 ## Lingue
 
