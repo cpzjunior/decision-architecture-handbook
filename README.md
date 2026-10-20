@@ -24,7 +24,8 @@ This is an open and evolving project, developed in this repository as concepts, 
 1. [Foundations of Decision Architecture](./01-foundations-of-decision-architecture/en.md)
 2. [Understanding the Domain of a Decision](./02-understanding-the-domain-of-a-decision/en.md)
 3. [Discovering the Initial Context](./03-discovering-the-initial-context/en.md)
-4. (Work in progress)
+4. [Establishing Objectives](./04-establishing-objectives/en.md)
+5. (Work in progress)
 
 ## Languages
 
