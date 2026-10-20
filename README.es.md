@@ -24,7 +24,8 @@ Este es un proyecto abierto y evolutivo, desarrollado en este repositorio a medi
 1. [Fundamentos de la Arquitectura de Decisión](./01-foundations-of-decision-architecture/es.md)
 2. [Comprendiendo el Dominio de una Decisión](./02-understanding-the-domain-of-a-decision/es.md)
 3. [Descubriendo el Contexto Inicial](./03-discovering-the-initial-context/es.md)
-4. (Trabajo en curso)
+4. [Estableciendo Objetivos](./04-establishing-objectives/es.md)
+5. (Trabajo en curso)
 
 ## Idiomas
 
