@@ -25,7 +25,10 @@ Este es un proyecto abierto y evolutivo, desarrollado en este repositorio a medi
 2. [Comprendiendo el Dominio de una Decisión](./02-understanding-the-domain-of-a-decision/es.md)
 3. [Descubriendo el Contexto Inicial](./03-discovering-the-initial-context/es.md)
 4. [Estableciendo Objetivos](./04-establishing-objectives/es.md)
-5. (Trabajo en curso)
+5. Administrando Riesgos e Incertidumbres (trabajo en curso)
+6. Previendo Consecuencias Directas e Indirectas (trabajo en curso)
+7. Gestionando la Evolución de una Decisión (trabajo en curso)
+8. Más Ejemplos Prácticos de Aplicación (trabajo en curso)
 
 ## Idiomas
 
