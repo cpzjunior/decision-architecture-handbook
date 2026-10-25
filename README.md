@@ -25,10 +25,10 @@ This is an open and evolving project, developed in this repository as concepts, 
 2. [Understanding the Domain of a Decision](./02-understanding-the-domain-of-a-decision/en.md)
 3. [Discovering the Initial Context](./03-discovering-the-initial-context/en.md)
 4. [Establishing Objectives](./04-establishing-objectives/en.md)
-5. Managing Risks and Uncertainties (work in progress)
-6. Predicting Direct and Indirect Consequences (work in progress)
-7. Dealing with the Evolution of a Decision (work in progress)
-8. More Practical Application Examples (work in progress)
+5. [Managing Risks and Uncertainties](./05-managing-risks-and-uncertainties/en.md)
+6. [Predicting Direct and Indirect Consequences](./06-predicting-direct-and-indirect-consequences/en.md)
+7. [Dealing with the Evolution of a Decision](./07-dealing-with-the-evolution-of-a-decision/en.md)
+8. [More Practical Examples of Application](./08-more-practical-examples-of-application/en.md)
 
 ## Languages
 
