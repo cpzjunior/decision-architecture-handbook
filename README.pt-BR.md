@@ -25,10 +25,10 @@ Este é um projeto aberto e evolutivo, desenvolvido neste repositório à medida
 2. [Compreendendo o Domínio de uma Decisão](./02-understanding-the-domain-of-a-decision/pt-BR.md)
 3. [Descobrindo o Contexto Inicial](./03-discovering-the-initial-context/pt-BR.md)
 4. [Estabelecendo Objetivos](./04-establishing-objectives/pt-BR.md)
-5. Administrando Riscos e Incertezas (trabalho em andamento)
-6. Prevendo Consequências Diretas e Indiretas (trabalho em andamento)
-7. Lidando com a Evolução de uma Decisão (trabalho em andamento)
-8. Mais Exemplos Práticos de Aplicação (trabalho em andamento)
+5. [Administrando Riscos e Incertezas](/05-managing-risks-and-uncertainties/pt-BR.md)
+6. [Prevendo Consequências Diretas e Indiretas](./06-predicting-direct-and-indirect-consequences/pt-BR.md)
+7. [Lidando com a Evolução de uma Decisão](./07-dealing-with-the-evolution-of-a-decision/pt-BR.md)
+8. [Mais Exemplos Práticos de Aplicação](./08-more-practical-examples-of-application/pt-BR.md)
 
 ## Idiomas
 
