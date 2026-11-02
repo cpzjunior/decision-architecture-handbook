@@ -21,16 +21,16 @@ Questo è un progetto aperto ed evolutivo, sviluppato in questo repository man m
 
 ## Indice
 
-[Introduzione](./introduction/it.md)
-[1. Fondamenti dell'Architettura delle Decisioni](./01-foundations-of-decision-architecture/it.md)
-[2. Comprendere il Dominio di una Decisione](./02-understanding-the-domain-of-a-decision/it.md)
-[3. Scoprire il Contesto Iniziale](./03-discovering-the-initial-context/it.md)
-[4. Definizione degli obiettivi](./04-establishing-objectives/it.md)
-[5. Gestire i rischi e le incertezze](./05-managing-risks-and-uncertainties/it.md)
-[6. Prevedere le Conseguenze Dirette e Indirette](./06-predicting-direct-and-indirect-consequences/it.md)
-[7. Gestire l'evoluzione di una decisione](./07-dealing-with-the-evolution-of-a-decision/it.md)
-[8. Ulteriori esempi pratici di applicazione](./08-more-practical-examples-of-application/it.md)
-[Conclusione](./conclusion/it.md)
+- [Introduzione](./introduction/it.md)
+- [1. Fondamenti dell'Architettura delle Decisioni](./01-foundations-of-decision-architecture/it.md)
+- [2. Comprendere il Dominio di una Decisione](./02-understanding-the-domain-of-a-decision/it.md)
+- [3. Scoprire il Contesto Iniziale](./03-discovering-the-initial-context/it.md)
+- [4. Definizione degli obiettivi](./04-establishing-objectives/it.md)
+- [5. Gestire i rischi e le incertezze](./05-managing-risks-and-uncertainties/it.md)
+- [6. Prevedere le Conseguenze Dirette e Indirette](./06-predicting-direct-and-indirect-consequences/it.md)
+- [7. Gestire l'evoluzione di una decisione](./07-dealing-with-the-evolution-of-a-decision/it.md)
+- [8. Ulteriori esempi pratici di applicazione](./08-more-practical-examples-of-application/it.md)
+- [Conclusione](./conclusion/it.md)
 
 ## Lingue
 
