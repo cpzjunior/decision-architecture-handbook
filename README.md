@@ -1,9 +1,9 @@
 | 🇺🇸 [en](README.md) | 🇪🇸 [es](README.es.md) | 🇮🇹 [it](README.it.md) | 🇧🇷 [pt-BR](README.pt-BR.md) | 🤖 [ai](README.ai.md) |
 |---|---|---|---|---|
 
-# Decision Architecture Guide
+# Decision Architecture Handbook
 
-The Decision Architecture Guide proposes a practical way to structure, understand, document, and evolve decisions across different contexts.
+The Decision Architecture Handbook proposes a practical way to structure, understand, document, and evolve decisions across different contexts.
 
 Defining a software architecture, managing a project, validating a startup, transforming an organization, or making a personal decision may seem like distinct problems. Yet all of them require dealing with context, objectives, constraints, alternatives, uncertainties, evidence, choices, and consequences. What changes is the meaning of these elements and the way the decision evolves.
 
@@ -13,7 +13,7 @@ These approaches are not interchangeable, nor do they need to be. The point is s
 
 The guide starts from this perspective without proposing yet another universal framework. Its purpose is to provide a layer of understanding that comes before the choice of methods: recognize the structure of the decision, understand what needs to evolve, and then use the practices most appropriate to the context.
 
-This simplicity is intentional. The number of frameworks, methods, techniques, and alternatives available has created a paradox of choice: deciding how to decide can become as complex as the problem itself. For this reason, the Decision Architecture Guide is practical and straight to the point. It seeks to provide a common language for navigating this complexity without turning decisions into recipes.
+This simplicity is intentional. The number of frameworks, methods, techniques, and alternatives available has created a paradox of choice: deciding how to decide can become as complex as the problem itself. For this reason, the Decision Architecture Handbook is practical and straight to the point. It seeks to provide a common language for navigating this complexity without turning decisions into recipes.
 
 The context changes, the tools change, and decisions evolve. The structure that allows us to understand them, however, can be recognized across different situations.
 
