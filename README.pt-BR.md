@@ -21,6 +21,7 @@ Este é um projeto aberto e evolutivo, desenvolvido neste repositório à medida
 
 ## Índice
 
+- [Metadata](./metadata/pt-BR.yaml)
 - [Capa](./cover/pt-BR.jpg)
 - [Introdução](./introduction/pt-BR.md)
 - [1. Fundamentos da Arquitetura de Decisão](./01-foundations-of-decision-architecture/pt-BR.md)
