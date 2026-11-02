@@ -7,7 +7,6 @@ import tempfile
 
 import yaml
 
-
 # ============================================================
 # Project configuration
 # ============================================================
@@ -181,7 +180,7 @@ def escape_latex_path(path):
 
 
 def create_pdf_header(cover_path, destination):
-    """Create a LaTeX header that uses the image as the PDF cover."""
+    """Create a LaTeX header for the PDF cover page."""
     cover_relative_path = cover_path.relative_to(
         PROJECT_DIR
     ).as_posix()
@@ -194,8 +193,7 @@ def create_pdf_header(cover_path, destination):
 \usepackage{{graphicx}}
 \usepackage{{geometry}}
 
-\makeatletter
-\renewcommand{{\maketitle}}{{%
+\AtBeginDocument{{
     \begin{{titlepage}}
         \newgeometry{{margin=0pt}}
         \thispagestyle{{empty}}
@@ -207,7 +205,6 @@ def create_pdf_header(cover_path, destination):
     \end{{titlepage}}
     \restoregeometry
 }}
-\makeatother
 """
 
     destination.write_text(
