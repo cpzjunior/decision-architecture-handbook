@@ -1,6 +1,4 @@
-
 from pathlib import Path
-from urllib.parse import unquote
 import os
 import re
 import shutil
@@ -10,23 +8,47 @@ import tempfile
 import yaml
 
 
+# ============================================================
+# Project configuration
+# ============================================================
+
 # Languages to be generated.
 LANGUAGES = ["pt-BR"]
 
-# Project configuration.
-ROOT_DIR = Path(__file__).resolve().parent.parent
-OUTPUT_DIR = ROOT_DIR / "output"
-OUTPUT_BASENAME = "decision-architecture-handbook"
+# Project directories.
+PROJECT_DIR = Path(__file__).resolve().parent.parent
+OUTPUT_DIR = PROJECT_DIR / "output"
 
+# Output filename prefix.
+PROJECT_NAME = "decision-architecture-handbook"
+
+# Book chapters, in publication order.
+# Each entry represents a directory containing a language-specific Markdown file.
+CHAPTERS = [
+    "introduction",
+    "01-foundations-of-decision-architecture",
+    "02-understanding-the-domain-of-a-decision",
+    "03-discovering-the-initial-context",
+    "04-establishing-objectives",
+    "05-managing-risks-and-uncertainties",
+    "06-predicting-direct-and-indirect-consequences",
+    "07-dealing-with-the-evolution-of-a-decision",
+    "08-more-practical-examples-of-application",
+    "conclusion",
+]
+
+
+# ============================================================
+# Configuration helpers
+# ============================================================
 
 def get_language_paths(language):
     """Build all file paths for a language edition."""
     return {
-        "readme": ROOT_DIR / f"README.{language}.md",
-        "metadata": ROOT_DIR / "metadata" / f"{language}.yaml",
-        "cover": ROOT_DIR / "cover" / f"{language}.jpg",
-        "pdf": OUTPUT_DIR / f"{OUTPUT_BASENAME}-{language}.pdf",
-        "epub": OUTPUT_DIR / f"{OUTPUT_BASENAME}-{language}.epub",
+        "metadata": PROJECT_DIR / "metadata" / f"{language}.yaml",
+        "cover": PROJECT_DIR / "cover" / f"{language}.jpg",
+        "pdf": OUTPUT_DIR / f"{PROJECT_NAME}-{language}.pdf",
+        "epub": OUTPUT_DIR / f"{PROJECT_NAME}-{language}.epub",
     }
 
 
@@ -66,7 +88,7 @@ def get_cover_path(metadata, language):
         f"cover/{language}.jpg"
     )
 
-    cover_path = (ROOT_DIR / cover_value).resolve()
+    cover_path = (PROJECT_DIR / cover_value).resolve()
 
     if not cover_path.is_file():
         raise FileNotFoundError(
@@ -76,63 +98,19 @@ def get_cover_path(metadata, language):
     return cover_path
 
 
-def extract_chapter_paths(readme_file):
-    """Extract chapter paths in the order defined by the README index."""
-    if not readme_file.is_file():
-        raise FileNotFoundError(
-            f"README file not found: {readme_file}"
-        )
-
-    content = readme_file.read_text(encoding="utf-8")
-
-    # Locate the index section.
-    index_match = re.search(
-        r"^##\s+Índice\s*$([\s\S]*?)(?=^##\s+|\Z)",
-        content,
-        flags=re.MULTILINE | re.IGNORECASE,
-    )
-
-    if not index_match:
-        raise ValueError(
-            f"The '## Índice' section was not found in {readme_file.name}."
-        )
-
-    index_content = index_match.group(1)
-
-    # Extract Markdown links from the index.
-    links = re.findall(
-        r"(?<!!)\[[^\]]+\]\(([^)\s]+)(?:\s+[^)]*)?\)",
-        index_content,
-    )
-
+def get_chapter_paths(language):
+    """Resolve chapter Markdown files in publication order."""
     chapter_paths = []
-    seen_paths = set()
 
-    for link in links:
-        link = unquote(link.strip().strip("<>"))
+    for chapter in CHAPTERS:
+        chapter_path = (
+            PROJECT_DIR / chapter / f"{language}.md"
+        ).resolve()
 
-        # Remove URL fragments and query parameters.
-        link = link.split("#", 1)[0].split("?", 1)[0]
-
-        # Only include Markdown files.
-        if not link.lower().endswith(".md"):
-            continue
-
-        # Ignore external links.
-        if re.match(
-            r"^[a-z][a-z0-9+.-]*://",
-            link,
-            flags=re.IGNORECASE,
-        ):
-            continue
-
-        # Resolve paths relative to the repository root.
-        chapter_path = (ROOT_DIR / link).resolve()
-
-        # Prevent files outside the repository from being included.
-        if ROOT_DIR not in chapter_path.parents:
+        # Prevent chapter paths from escaping the project directory.
+        if PROJECT_DIR not in chapter_path.parents:
             raise ValueError(
-                f"Chapter path is outside the repository: {link}"
+                f"Invalid chapter path: {chapter_path}"
             )
 
         if not chapter_path.is_file():
@@ -140,22 +118,21 @@ def extract_chapter_paths(readme_file):
                 f"Chapter file not found: {chapter_path}"
             )
 
-        # Avoid duplicate chapters while preserving their original order.
-        if chapter_path not in seen_paths:
-            chapter_paths.append(chapter_path)
-            seen_paths.add(chapter_path)
+        chapter_paths.append(chapter_path)
 
     if not chapter_paths:
-        raise ValueError(
-            f"No Markdown chapters found in {readme_file.name}."
-        )
+        raise ValueError("No chapters configured.")
 
     return chapter_paths
 
 
+# ============================================================
+# Markdown and resource helpers
+# ============================================================
+
 def build_resource_path(chapter_paths):
     """Build the resource search path for local images and assets."""
-    resource_dirs = {ROOT_DIR}
+    resource_dirs = {PROJECT_DIR}
 
     for chapter_path in chapter_paths:
         resource_dirs.add(chapter_path.parent)
@@ -166,9 +143,10 @@ def build_resource_path(chapter_paths):
 
 
 def create_combined_markdown(chapter_paths, destination, add_page_breaks):
-    """Combine chapters while preserving the README order."""
+    """Combine chapters while preserving the configured order."""
     with destination.open("w", encoding="utf-8") as output_file:
         for index, chapter_path in enumerate(chapter_paths):
+
             if index > 0 and add_page_breaks:
                 # Insert a page break before each new chapter in the PDF.
                 output_file.write("\n\\newpage\n\n")
@@ -205,7 +183,7 @@ def escape_latex_path(path):
 def create_pdf_header(cover_path, destination):
     """Create a LaTeX header that uses the image as the PDF cover."""
     cover_relative_path = cover_path.relative_to(
-        ROOT_DIR
+        PROJECT_DIR
     ).as_posix()
 
     cover_relative_path = escape_latex_path(
@@ -237,6 +215,10 @@ def create_pdf_header(cover_path, destination):
         encoding="utf-8"
     )
 
+
+# ============================================================
+# PDF generation
+# ============================================================
 
 def build_pdf(metadata_file, chapter_paths, cover_path, output_file):
     """Generate the PDF edition."""
@@ -278,12 +260,16 @@ def build_pdf(metadata_file, chapter_paths, cover_path, output_file):
 
         subprocess.run(
             command,
-            cwd=ROOT_DIR,
+            cwd=PROJECT_DIR,
             check=True,
         )
 
     print(f"PDF generated: {output_file}")
 
+
+# ============================================================
+# EPUB generation
+# ============================================================
 
 def build_epub(metadata_file, chapter_paths, cover_path, output_file):
     """Generate the EPUB edition."""
@@ -319,12 +305,16 @@ def build_epub(metadata_file, chapter_paths, cover_path, output_file):
 
         subprocess.run(
             command,
-            cwd=ROOT_DIR,
+            cwd=PROJECT_DIR,
             check=True,
         )
 
     print(f"EPUB generated: {output_file}")
 
+
+# ============================================================
+# Book generation
+# ============================================================
 
 def build_language_edition(language):
     """Generate PDF and EPUB files for one language."""
@@ -334,14 +324,12 @@ def build_language_edition(language):
 
     metadata = load_metadata(paths["metadata"])
     cover_path = get_cover_path(metadata, language)
-    chapter_paths = extract_chapter_paths(paths["readme"])
+    chapter_paths = get_chapter_paths(language)
 
     print(f"Found {len(chapter_paths)} chapters:")
 
     for chapter_path in chapter_paths:
-        print(f"  - {chapter_path.relative_to(ROOT_DIR)}")
-
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+        print(f"  - {chapter_path.relative_to(PROJECT_DIR)}")
 
     build_pdf(
         paths["metadata"],
