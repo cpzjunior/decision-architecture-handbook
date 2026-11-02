@@ -21,6 +21,7 @@ This is an open and evolving project, developed in this repository as concepts, 
 
 ## Index
 
+- [Metadata](./metadata/en.yaml)
 - [Cover](./cover/en.jpg)
 - [Introduction](./introduction/en.md)
 - [1. Foundations of Decision Architecture](./01-foundations-of-decision-architecture/en.md)
