@@ -178,9 +178,8 @@ def escape_latex_path(path):
         for character in path
     )
 
-
 def create_pdf_header(cover_path, destination):
-    """Create a LaTeX header for the PDF cover page."""
+    """Create a LaTeX header for the PDF cover and page layout."""
     cover_relative_path = cover_path.relative_to(
         PROJECT_DIR
     ).as_posix()
@@ -192,19 +191,26 @@ def create_pdf_header(cover_path, destination):
     latex_header = rf"""
 \usepackage{{graphicx}}
 \usepackage{{geometry}}
+\usepackage{{etoolbox}}
 
+% Insert the cover directly at the beginning of the document.
 \AtBeginDocument{{
-    \begin{{titlepage}}
-        \newgeometry{{margin=0pt}}
-        \thispagestyle{{empty}}
-        \noindent
-        \includegraphics[
-            width=\paperwidth,
-            height=\paperheight
-        ]{{{cover_relative_path}}}
-    \end{{titlepage}}
+    \newgeometry{{margin=0pt}}
+    \thispagestyle{{empty}}
+    \noindent
+    \includegraphics[
+        width=\paperwidth,
+        height=\paperheight
+    ]{{{cover_relative_path}}}
+    \clearpage
     \restoregeometry
+
+    % Disable Pandoc's automatic title page.
+    \let\maketitle\relax
 }}
+
+% Start the introduction on a new page after the table of contents.
+\apptocmd{{\tableofcontents}}{{\clearpage}}{{}}{{}}
 """
 
     destination.write_text(
