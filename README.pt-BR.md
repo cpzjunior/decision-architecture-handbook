@@ -21,14 +21,16 @@ Este é um projeto aberto e evolutivo, desenvolvido neste repositório à medida
 
 ## Índice
 
-1. [Fundamentos da Arquitetura de Decisão](./01-foundations-of-decision-architecture/pt-BR.md)
-2. [Compreendendo o Domínio de uma Decisão](./02-understanding-the-domain-of-a-decision/pt-BR.md)
-3. [Descobrindo o Contexto Inicial](./03-discovering-the-initial-context/pt-BR.md)
-4. [Estabelecendo Objetivos](./04-establishing-objectives/pt-BR.md)
-5. [Administrando Riscos e Incertezas](/05-managing-risks-and-uncertainties/pt-BR.md)
-6. [Prevendo Consequências Diretas e Indiretas](./06-predicting-direct-and-indirect-consequences/pt-BR.md)
-7. [Lidando com a Evolução de uma Decisão](./07-dealing-with-the-evolution-of-a-decision/pt-BR.md)
-8. [Mais Exemplos Práticos de Aplicação](./08-more-practical-examples-of-application/pt-BR.md)
+- [Introdução](./introduction/pt-BR.md)
+- [1. Fundamentos da Arquitetura de Decisão](./01-foundations-of-decision-architecture/pt-BR.md)
+- [2. Compreendendo o Domínio de uma Decisão](./02-understanding-the-domain-of-a-decision/pt-BR.md)
+- [3. Descobrindo o Contexto Inicial](./03-discovering-the-initial-context/pt-BR.md)
+- [4. Estabelecendo Objetivos](./04-establishing-objectives/pt-BR.md)
+- [5. Administrando Riscos e Incertezas](/05-managing-risks-and-uncertainties/pt-BR.md)
+- [6. Prevendo Consequências Diretas e Indiretas](./06-predicting-direct-and-indirect-consequences/pt-BR.md)
+- [7. Lidando com a Evolução de uma Decisão](./07-dealing-with-the-evolution-of-a-decision/pt-BR.md)
+- [8. Mais Exemplos Práticos de Aplicação](./08-more-practical-examples-of-application/pt-BR.md)
+- [Conclusão](./conclusion/pt-BR.md)
 
 ## Idiomas
 
