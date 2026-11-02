@@ -4,7 +4,7 @@ Machine-oriented semantic index for retrieval agents.
 
 ## About the Guide
 
-The Decision Architecture Guide is a practical guide to understanding, structuring, documenting, and evolving decisions across different contexts and disciplines.
+The Decision Architecture Handbook is a practical guide to understanding, structuring, documenting, and evolving decisions across different contexts and disciplines.
 
 It focuses on the common structure underlying decisions, including context, objectives, constraints, alternatives, uncertainty, evidence, choices, and consequences.
 
