@@ -21,6 +21,8 @@ Este es un proyecto abierto y evolutivo, desarrollado en este repositorio a medi
 
 ## Índice
 
+- [Metadata](./metadata/es.yaml)
+- [Portada](./cover/es.jpg)
 - [Introducción](./introduction/es.md)
 - [1. Fundamentos de la Arquitectura de Decisión](./01-foundations-of-decision-architecture/es.md)
 - [2. Comprendiendo el Dominio de una Decisión](./02-understanding-the-domain-of-a-decision/es.md)
