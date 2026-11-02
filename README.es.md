@@ -22,6 +22,7 @@ Este es un proyecto abierto y evolutivo, desarrollado en este repositorio a medi
 ## Índice
 
 [Introducción](./introduction/es.md)
+
 1. [Fundamentos de la Arquitectura de Decisión](./01-foundations-of-decision-architecture/es.md)
 2. [Comprendiendo el Dominio de una Decisión](./02-understanding-the-domain-of-a-decision/es.md)
 3. [Descubriendo el Contexto Inicial](./03-discovering-the-initial-context/es.md)
@@ -30,6 +31,7 @@ Este es un proyecto abierto y evolutivo, desarrollado en este repositorio a medi
 6. [Previendo Consecuencias Directas e Indirectas](./06-predicting-direct-and-indirect-consequences/es.md)
 7. [Gestionando la Evolución de una Decisión](./07-dealing-with-the-evolution-of-a-decision/es.md)
 8. [Más Ejemplos Prácticos de Aplicación](./08-more-practical-examples-of-application/es.md)
+
 [Conclusión](./conclusion/es.md)
 
 ## Idiomas
