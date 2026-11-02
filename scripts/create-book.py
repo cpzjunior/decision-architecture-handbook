@@ -192,6 +192,13 @@ def create_pdf_header(cover_path, destination):
 \usepackage{{graphicx}}
 \usepackage{{eso-pic}}
 \usepackage{{etoolbox}}
+\usepackage{geometry}
+\geometry{
+    top=2cm,
+    bottom=2cm,
+    inner=2.5cm,
+    outer=2cm
+}
 
 % Insert the cover as the background of the first page.
 \AtBeginDocument{{
