@@ -21,6 +21,8 @@ Questo è un progetto aperto ed evolutivo, sviluppato in questo repository man m
 
 ## Indice
 
+- [Metadata](./metadata/it.yaml)
+- [Copertina](./cover/it.jpg)
 - [Introduzione](./introduction/it.md)
 - [1. Fondamenti dell'Architettura delle Decisioni](./01-foundations-of-decision-architecture/it.md)
 - [2. Comprendere il Dominio di una Decisione](./02-understanding-the-domain-of-a-decision/it.md)
