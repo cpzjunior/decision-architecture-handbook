@@ -1,8 +1,8 @@
-title: "Decision Architecture Handbook"\
-subtitle: "A practical approach to structuring, understanding, documenting, and evolving decisions"\
-author: ["Carlos Polachini Zanoveli Junior"]\
-lang: "en"\
-rights: "Creative Commons Attribution 4.0 International (CC BY 4.0)"\
-date: "2026"\
-description: "The Decision Architecture Guide proposes a practical way to structure, understand, document, and evolve decisions across different contexts. It presents cross-cutting concepts applicable to software architecture, project management, organizational transformation, entrepreneurship, and personal decisions. Its purpose is to provide a layer of understanding prior to choosing methods, enabling the recognition of a decision's structure, the understanding of what needs to evolve, and the use of the most appropriate practices for each context."\
+title: "Decision Architecture Handbook"
+subtitle: "A practical approach to structuring, understanding, documenting, and evolving decisions"
+author: ["Carlos Polachini Zanoveli Junior"]
+lang: "en"
+rights: "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+date: "2026"
+description: "The Decision Architecture Guide proposes a practical way to structure, understand, document, and evolve decisions across different contexts. It presents cross-cutting concepts applicable to software architecture, project management, organizational transformation, entrepreneurship, and personal decisions. Its purpose is to provide a layer of understanding prior to choosing methods, enabling the recognition of a decision's structure, the understanding of what needs to evolve, and the use of the most appropriate practices for each context."
 cover-image: "cover/en.jpg"
