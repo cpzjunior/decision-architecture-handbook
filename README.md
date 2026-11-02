@@ -21,14 +21,16 @@ This is an open and evolving project, developed in this repository as concepts, 
 
 ## Index
 
-1. [Foundations of Decision Architecture](./01-foundations-of-decision-architecture/en.md)
-2. [Understanding the Domain of a Decision](./02-understanding-the-domain-of-a-decision/en.md)
-3. [Discovering the Initial Context](./03-discovering-the-initial-context/en.md)
-4. [Establishing Objectives](./04-establishing-objectives/en.md)
-5. [Managing Risks and Uncertainties](./05-managing-risks-and-uncertainties/en.md)
-6. [Predicting Direct and Indirect Consequences](./06-predicting-direct-and-indirect-consequences/en.md)
-7. [Dealing with the Evolution of a Decision](./07-dealing-with-the-evolution-of-a-decision/en.md)
-8. [More Practical Examples of Application](./08-more-practical-examples-of-application/en.md)
+- [Introduction](./introduction/en.md)
+- [1. Foundations of Decision Architecture](./01-foundations-of-decision-architecture/en.md)
+- [2. Understanding the Domain of a Decision](./02-understanding-the-domain-of-a-decision/en.md)
+- [3. Discovering the Initial Context](./03-discovering-the-initial-context/en.md)
+- [4. Establishing Objectives](./04-establishing-objectives/en.md)
+- [5. Managing Risks and Uncertainties](./05-managing-risks-and-uncertainties/en.md)
+- [6. Predicting Direct and Indirect Consequences](./06-predicting-direct-and-indirect-consequences/en.md)
+- [7. Dealing with the Evolution of a Decision](./07-dealing-with-the-evolution-of-a-decision/en.md)
+- [8. More Practical Examples of Application](./08-more-practical-examples-of-application/en.md)
+- [Conclusion](./conclusion/en.md)
 
 ## Languages
 
