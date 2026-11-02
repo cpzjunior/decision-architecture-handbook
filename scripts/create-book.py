@@ -190,22 +190,23 @@ def create_pdf_header(cover_path, destination):
 
     latex_header = rf"""
 \usepackage{{graphicx}}
-\usepackage{{geometry}}
+\usepackage{{eso-pic}}
 \usepackage{{etoolbox}}
 
-% Insert the cover directly at the beginning of the document.
+% Insert the cover as the background of the first page.
 \AtBeginDocument{{
-    \newgeometry{{margin=0pt}}
     \thispagestyle{{empty}}
-    \noindent
-    \includegraphics[
-        width=\paperwidth,
-        height=\paperheight
-    ]{{{cover_relative_path}}}
+    \AddToShipoutPictureBG*{{
+        \AtPageLowerLeft{{
+            \includegraphics[
+                width=\paperwidth,
+                height=\paperheight
+            ]{{{cover_relative_path}}}
+        }}
+    }}
+    \null
     \clearpage
-    \restoregeometry
-
-    % Disable Pandoc's automatic title page.
+    \ClearShipoutPictureBG
     \let\maketitle\relax
 }}
 
