@@ -12,7 +12,7 @@ import yaml
 # ============================================================
 
 # Languages to be generated.
-LANGUAGES = ["pt-BR"]
+LANGUAGES = ["pt-BR", "es", "en", "it"]
 
 # Project directories.
 PROJECT_DIR = Path(__file__).resolve().parent.parent
