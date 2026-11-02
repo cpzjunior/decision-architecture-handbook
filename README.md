@@ -21,6 +21,7 @@ This is an open and evolving project, developed in this repository as concepts, 
 
 ## Index
 
+- [Cover](./cover/en.md)
 - [Introduction](./introduction/en.md)
 - [1. Foundations of Decision Architecture](./01-foundations-of-decision-architecture/en.md)
 - [2. Understanding the Domain of a Decision](./02-understanding-the-domain-of-a-decision/en.md)
