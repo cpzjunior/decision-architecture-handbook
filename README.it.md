@@ -23,26 +23,26 @@ Questo è un progetto aperto ed evolutivo, sviluppato in questo repository man m
 
 - [Metadata](./metadata/it.yaml)
 - [Copertina](./cover/it.jpg)
-- [Introduzione](./introduction/it.md)
-- [1. Fondamenti dell'Architettura delle Decisioni](./01-foundations-of-decision-architecture/it.md)
-- [2. Comprendere il Dominio di una Decisione](./02-understanding-the-domain-of-a-decision/it.md)
-- [3. Scoprire il Contesto Iniziale](./03-discovering-the-initial-context/it.md)
-- [4. Definizione degli obiettivi](./04-establishing-objectives/it.md)
-- [5. Gestire i rischi e le incertezze](./05-managing-risks-and-uncertainties/it.md)
-- [6. Prevedere le Conseguenze Dirette e Indirette](./06-predicting-direct-and-indirect-consequences/it.md)
-- [7. Gestire l'evoluzione di una decisione](./07-dealing-with-the-evolution-of-a-decision/it.md)
-- [8. Ulteriori esempi pratici di applicazione](./08-more-practical-examples-of-application/it.md)
-- [Conclusione](./conclusion/it.md)
+- [Introduzione](./introduction/README.it.md)
+- [1. Fondamenti dell'Architettura delle Decisioni](./01-foundations-of-decision-architecture/README.it.md)
+- [2. Comprendere il Dominio di una Decisione](./02-understanding-the-domain-of-a-decision/README.it.md)
+- [3. Scoprire il Contesto Iniziale](./03-discovering-the-initial-context/README.it.md)
+- [4. Definizione degli obiettivi](./04-establishing-objectives/README.it.md)
+- [5. Gestire i rischi e le incertezze](./05-managing-risks-and-uncertainties/README.it.md)
+- [6. Prevedere le Conseguenze Dirette e Indirette](./06-predicting-direct-and-indirect-consequences/README.it.md)
+- [7. Gestire l'evoluzione di una decisione](./07-dealing-with-the-evolution-of-a-decision/README.it.md)
+- [8. Ulteriori esempi pratici di applicazione](./08-more-practical-examples-of-application/README.it.md)
+- [Conclusione](./conclusion/README.it.md)
 
 ## Lingue
 
 Gli articoli sono originariamente scritti in portoghese brasiliano.
 
-* `pt-BR.md` — versione originale e canonica
-* `en.md` — traduzione in inglese
-* `es.md` — traduzione in spagnolo
-* `it.md` — traduzione in italiano
-* `ai.md` — rappresentazione compatta in inglese per sistemi di IA
+* `README.pt-BR.md` — versione originale e canonica
+* `README.md` — traduzione in inglese
+* `README.es.md` — traduzione in spagnolo
+* `README.it.md` — traduzione in italiano
+* `README.ai.md` — rappresentazione compatta in inglese per sistemi di IA
 
 Il maintainer ha incluso solo le lingue nelle quali possiede un certo grado di competenza, invece di affidarsi esclusivamente a traduzioni generate dall'IA. I contributi per rivedere le traduzioni in lingue aggiuntive sono benvenuti e gli permetteranno di ampliare il supporto ad altre lingue.
 
@@ -50,11 +50,11 @@ Il maintainer ha incluso solo le lingue nelle quali possiede un certo grado di c
 
 Il repository è intenzionalmente disponibile per l'indicizzazione e l'elaborazione da parte di motori di ricerca, sistemi di IA e altri strumenti automatizzati.
 
-I file `ai.md` contengono rappresentazioni compatte degli articoli, preservandone le idee e gli argomenti principali, riducendo al contempo la quantità di testo necessaria per elaborarli.
+I file `README.ai.md` contengono rappresentazioni compatte degli articoli, preservandone le idee e gli argomenti principali, riducendo al contempo la quantità di testo necessaria per elaborarli.
 
 Sono scritti in inglese perché l'inglese è predominante nei dati di addestramento e nell'ecosistema di molti grandi modelli linguistici. Utilizzare una rappresentazione compatta in inglese può ridurre l'utilizzo di token e, di conseguenza, i costi di elaborazione e delle API.
 
-I file `ai.md` sono rappresentazioni derivate. Il file `pt-BR.md` rimane la fonte originale e canonica.
+I file `README.ai.md` sono rappresentazioni derivate. Il file `README.pt-BR.md` rimane la fonte originale e canonica.
 
 ## Licenza
 
