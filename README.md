@@ -23,26 +23,26 @@ This is an open and evolving project, developed in this repository as concepts, 
 
 - [Metadata](./metadata/en.yaml)
 - [Cover](./cover/en.jpg)
-- [Introduction](./introduction/en.md)
-- [1. Foundations of Decision Architecture](./01-foundations-of-decision-architecture/en.md)
-- [2. Understanding the Domain of a Decision](./02-understanding-the-domain-of-a-decision/en.md)
-- [3. Discovering the Initial Context](./03-discovering-the-initial-context/en.md)
-- [4. Establishing Objectives](./04-establishing-objectives/en.md)
-- [5. Managing Risks and Uncertainties](./05-managing-risks-and-uncertainties/en.md)
-- [6. Predicting Direct and Indirect Consequences](./06-predicting-direct-and-indirect-consequences/en.md)
-- [7. Dealing with the Evolution of a Decision](./07-dealing-with-the-evolution-of-a-decision/en.md)
-- [8. More Practical Examples of Application](./08-more-practical-examples-of-application/en.md)
-- [Conclusion](./conclusion/en.md)
+- [Introduction](./introduction/README.md)
+- [1. Foundations of Decision Architecture](./01-foundations-of-decision-architecture/README.md)
+- [2. Understanding the Domain of a Decision](./02-understanding-the-domain-of-a-decision/README.md)
+- [3. Discovering the Initial Context](./03-discovering-the-initial-context/README.md)
+- [4. Establishing Objectives](./04-establishing-objectives/README.md)
+- [5. Managing Risks and Uncertainties](./05-managing-risks-and-uncertainties/README.md)
+- [6. Predicting Direct and Indirect Consequences](./06-predicting-direct-and-indirect-consequences/README.md)
+- [7. Dealing with the Evolution of a Decision](./07-dealing-with-the-evolution-of-a-decision/README.md)
+- [8. More Practical Examples of Application](./08-more-practical-examples-of-application/README.md)
+- [Conclusion](./conclusion/README.md)
 
 ## Languages
 
 Articles are originally written in Brazilian Portuguese.
 
-* `pt-BR.md` — original and canonical version
-* `en.md` — English translation
-* `es.md` — Spanish translation
-* `it.md` — Italian translation
-* `ai.md` — compressed English representation for AI systems
+* `README.pt-BR.md` — original and canonical version
+* `README.md` — English translation
+* `README.es.md` — Spanish translation
+* `README.it.md` — Italian translation
+* `README.ai.md` — compressed English representation for AI systems
 
 The maintainer has only included languages in which he has some degree of proficiency, rather than relying solely on AI-generated translations. Contributions to review translations into additional languages are welcome and would enable him to expand language support.
 
@@ -50,11 +50,11 @@ The maintainer has only included languages in which he has some degree of profic
 
 The repository is intentionally available for indexing and processing by search engines, AI systems, and other automated tools.
 
-The `ai.md` files contain compressed representations of the articles, preserving their main ideas and arguments while reducing the amount of text required to process them.
+The `README.ai.md` files contain compressed representations of the articles, preserving their main ideas and arguments while reducing the amount of text required to process them.
 
 They are written in English because English is predominant in the training data and ecosystem of many large language models. Using a compressed English representation can reduce token usage and, consequently, processing and API costs.
 
-The `ai.md` files are derived representations. The `pt-BR.md` file remains the original and canonical source.
+The `README.ai.md` files are derived representations. The `README.pt-BR.md` file remains the original and canonical source.
 
 ## License
 
