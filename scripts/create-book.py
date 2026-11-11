@@ -99,18 +99,28 @@ def get_cover_path(metadata, language):
 
 def get_chapter_paths(language):
     """Resolve chapter Markdown files in publication order."""
+
+    filename_by_language = {
+        "pt-BR": "README.pt-BR.md",
+        "en": "README.md",
+        "es": "README.es.md",
+        "it": "README.it.md",
+        "ai": "README.ai.md",
+    }
+
+    if language not in filename_by_language:
+        raise ValueError(f"Unsupported language: {language}")
+
     chapter_paths = []
 
     for chapter in CHAPTERS:
         chapter_path = (
-            PROJECT_DIR / chapter / f"{language}.md"
+            PROJECT_DIR / chapter / filename_by_language[language]
         ).resolve()
 
         # Prevent chapter paths from escaping the project directory.
         if PROJECT_DIR not in chapter_path.parents:
-            raise ValueError(
-                f"Invalid chapter path: {chapter_path}"
-            )
+            raise ValueError(f"Invalid chapter path: {chapter_path}")
 
         if not chapter_path.is_file():
             raise FileNotFoundError(
