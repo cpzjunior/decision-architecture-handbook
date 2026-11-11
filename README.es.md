@@ -21,28 +21,28 @@ Este es un proyecto abierto y evolutivo, desarrollado en este repositorio a medi
 
 ## Índice
 
-- [Metadata](./metadata/es.yaml)
-- [Portada](./cover/es.jpg)
-- [Introducción](./introduction/es.md)
-- [1. Fundamentos de la Arquitectura de Decisión](./01-foundations-of-decision-architecture/es.md)
-- [2. Comprendiendo el Dominio de una Decisión](./02-understanding-the-domain-of-a-decision/es.md)
-- [3. Descubriendo el Contexto Inicial](./03-discovering-the-initial-context/es.md)
-- [4. Estableciendo Objetivos](./04-establishing-objectives/es.md)
-- [5. Administrando Riesgos e Incertidumbres](./05-managing-risks-and-uncertainties/es.md)
-- [6. Previendo Consecuencias Directas e Indirectas](./06-predicting-direct-and-indirect-consequences/es.md)
-- [7. Gestionando la Evolución de una Decisión](./07-dealing-with-the-evolution-of-a-decision/es.md)
-- [8. Más Ejemplos Prácticos de Aplicación](./08-more-practical-examples-of-application/es.md)
-- [Conclusión](./conclusion/es.md)
+- [Metadata](./metadata/README.es.yaml)
+- [Portada](./cover/README.es.jpg)
+- [Introducción](./introduction/README.es.md)
+- [1. Fundamentos de la Arquitectura de Decisión](./01-foundations-of-decision-architecture/README.es.md)
+- [2. Comprendiendo el Dominio de una Decisión](./02-understanding-the-domain-of-a-decision/README.es.md)
+- [3. Descubriendo el Contexto Inicial](./03-discovering-the-initial-context/README.es.md)
+- [4. Estableciendo Objetivos](./04-establishing-objectives/README.es.md)
+- [5. Administrando Riesgos e Incertidumbres](./05-managing-risks-and-uncertainties/README.es.md)
+- [6. Previendo Consecuencias Directas e Indirectas](./06-predicting-direct-and-indirect-consequences/README.es.md)
+- [7. Gestionando la Evolución de una Decisión](./07-dealing-with-the-evolution-of-a-decision/README.es.md)
+- [8. Más Ejemplos Prácticos de Aplicación](./08-more-practical-examples-of-application/README.es.md)
+- [Conclusión](./conclusion/README.es.md)
 
 ## Idiomas
 
 Los artículos se escriben originalmente en portugués brasileño.
 
-* `pt-BR.md` — versión original y canónica
-* `en.md` — traducción al inglés
-* `es.md` — traducción al español
-* `it.md` — traducción al italiano
-* `ai.md` — representación compactada en inglés para sistemas de IA
+* `README.pt-BR.md` — versión original y canónica
+* `README.md` — traducción al inglés
+* `README.es.md` — traducción al español
+* `README.it.md` — traducción al italiano
+* `README.ai.md` — representación compactada en inglés para sistemas de IA
 
 El mantenedor incluyó únicamente idiomas en los que posee algún grado de competencia, en lugar de depender exclusivamente de traducciones generadas por IA. Las contribuciones para revisar traducciones a idiomas adicionales son bienvenidas y permitirán que amplíe el soporte a otros idiomas.
 
@@ -50,11 +50,11 @@ El mantenedor incluyó únicamente idiomas en los que posee algún grado de comp
 
 El repositorio está intencionalmente disponible para su indexación y procesamiento por motores de búsqueda, sistemas de IA y otras herramientas automatizadas.
 
-Los archivos `ai.md` contienen representaciones compactadas de los artículos, preservando sus principales ideas y argumentos mientras reducen la cantidad de texto necesaria para procesarlos.
+Los archivos `README.ai.md` contienen representaciones compactadas de los artículos, preservando sus principales ideas y argumentos mientras reducen la cantidad de texto necesaria para procesarlos.
 
 Están escritos en inglés porque el inglés predomina en los datos de entrenamiento y en el ecosistema de muchos grandes modelos de lenguaje. Utilizar una representación compactada en inglés puede reducir el uso de tokens y, en consecuencia, los costes de procesamiento y de API.
 
-Los archivos `ai.md` son representaciones derivadas. El archivo `pt-BR.md` permanece como la fuente original y canónica.
+Los archivos `README.ai.md` son representaciones derivadas. El archivo `README.pt-BR.md` permanece como la fuente original y canónica.
 
 ## Licencia
 
